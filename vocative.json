@@ -1,0 +1,8984 @@
+[
+  {
+    "name": "Avakum",
+    "sex": "male",
+    "vocative": "Avakume"
+  },
+  {
+    "name": "Avram",
+    "sex": "male",
+    "vocative": "Avrame"
+  },
+  {
+    "name": "Agaton",
+    "sex": "male",
+    "vocative": "Agatone"
+  },
+  {
+    "name": "Adam",
+    "sex": "male",
+    "vocative": "Adame"
+  },
+  {
+    "name": "Aksentije",
+    "sex": "male",
+    "vocative": "Aksentije"
+  },
+  {
+    "name": "Aksa",
+    "sex": "male",
+    "vocative": "Akso"
+  },
+  {
+    "name": "Akso",
+    "sex": "male",
+    "vocative": "Akso"
+  },
+  {
+    "name": "Aleksa",
+    "sex": "male",
+    "vocative": "Aleksa"
+  },
+  {
+    "name": "Aleksandar",
+    "sex": "male",
+    "vocative": "Aleksandre"
+  },
+  {
+    "name": "Aleksije",
+    "sex": "male",
+    "vocative": "Aleksije"
+  },
+  {
+    "name": "Aleksej",
+    "sex": "male",
+    "vocative": "Aleksej"
+  },
+  {
+    "name": "Alimpije",
+    "sex": "male",
+    "vocative": "Alimpije"
+  },
+  {
+    "name": "Andrej",
+    "sex": "male",
+    "vocative": "Andrej"
+  },
+  {
+    "name": "Andreja",
+    "sex": "male",
+    "vocative": "Andreja"
+  },
+  {
+    "name": "Andrija",
+    "sex": "male",
+    "vocative": "Andrija"
+  },
+  {
+    "name": "Andrijaš",
+    "sex": "male",
+    "vocative": "Andrijaše"
+  },
+  {
+    "name": "Andra",
+    "sex": "male",
+    "vocative": "Andro"
+  },
+  {
+    "name": "Andro",
+    "sex": "male",
+    "vocative": "Andro"
+  },
+  {
+    "name": "Andronik",
+    "sex": "male",
+    "vocative": "Androniče"
+  },
+  {
+    "name": "Anđelko",
+    "sex": "male",
+    "vocative": "Anđelko"
+  },
+  {
+    "name": "Anđelo",
+    "sex": "male",
+    "vocative": "Anđelo"
+  },
+  {
+    "name": "Arpad",
+    "sex": "male",
+    "vocative": "Arpade"
+  },
+  {
+    "name": "Avdula",
+    "sex": "male",
+    "vocative": "Avdula"
+  },
+  {
+    "name": "Antonije",
+    "sex": "male",
+    "vocative": "Antonije"
+  },
+  {
+    "name": "Anta",
+    "sex": "male",
+    "vocative": "Anto"
+  },
+  {
+    "name": "Anto",
+    "sex": "male",
+    "vocative": "Anto"
+  },
+  {
+    "name": "Aranđel",
+    "sex": "male",
+    "vocative": "Aranđele"
+  },
+  {
+    "name": "Arsenije",
+    "sex": "male",
+    "vocative": "Arsenije"
+  },
+  {
+    "name": "Arsen",
+    "sex": "male",
+    "vocative": "Arsene"
+  },
+  {
+    "name": "Arsa",
+    "sex": "male",
+    "vocative": "Arso"
+  },
+  {
+    "name": "Arso",
+    "sex": "male",
+    "vocative": "Arso"
+  },
+  {
+    "name": "Arman",
+    "sex": "male",
+    "vocative": "Armane"
+  },
+  {
+    "name": "Atanasije",
+    "sex": "male",
+    "vocative": "Atanasije"
+  },
+  {
+    "name": "Atanacko",
+    "sex": "male",
+    "vocative": "Atanacko"
+  },
+  {
+    "name": "Aćim",
+    "sex": "male",
+    "vocative": "Aćime"
+  },
+  {
+    "name": "Agnija",
+    "sex": "female",
+    "vocative": "Agnija"
+  },
+  {
+    "name": "Agnica",
+    "sex": "female",
+    "vocative": "Agnice"
+  },
+  {
+    "name": "Adelina",
+    "sex": "female",
+    "vocative": "Adelina"
+  },
+  {
+    "name": "Adrijana",
+    "sex": "female",
+    "vocative": "Adrijana"
+  },
+  {
+    "name": "Aleksandra",
+    "sex": "female",
+    "vocative": "Aleksandra"
+  },
+  {
+    "name": "Aleksija",
+    "sex": "female",
+    "vocative": "Aleksija"
+  },
+  {
+    "name": "Ana",
+    "sex": "female",
+    "vocative": "Ana"
+  },
+  {
+    "name": "Anastasija",
+    "sex": "female",
+    "vocative": "Anastasija"
+  },
+  {
+    "name": "Anda",
+    "sex": "female",
+    "vocative": "Anda"
+  },
+  {
+    "name": "Andrea",
+    "sex": "female",
+    "vocative": "Andrea"
+  },
+  {
+    "name": "Andrijana",
+    "sex": "female",
+    "vocative": "Andrijana"
+  },
+  {
+    "name": "Anđa",
+    "sex": "female",
+    "vocative": "Anđo"
+  },
+  {
+    "name": "Anđela",
+    "sex": "female",
+    "vocative": "Anđela"
+  },
+  {
+    "name": "Anđelka",
+    "sex": "female",
+    "vocative": "Anđelka"
+  },
+  {
+    "name": "Anđelija",
+    "sex": "female",
+    "vocative": "Anđelija"
+  },
+  {
+    "name": "Angelina",
+    "sex": "female",
+    "vocative": "Angelina"
+  },
+  {
+    "name": "Anka",
+    "sex": "female",
+    "vocative": "Anka"
+  },
+  {
+    "name": "Ankica",
+    "sex": "female",
+    "vocative": "Ankice"
+  },
+  {
+    "name": "Anica",
+    "sex": "female",
+    "vocative": "Anice"
+  },
+  {
+    "name": "Antonija",
+    "sex": "female",
+    "vocative": "Antonija"
+  },
+  {
+    "name": "Antonina",
+    "sex": "female",
+    "vocative": "Antonina"
+  },
+  {
+    "name": "Atanasija",
+    "sex": "female",
+    "vocative": "Atanasija"
+  },
+  {
+    "name": "Bajko",
+    "sex": "male",
+    "vocative": "Bajko"
+  },
+  {
+    "name": "Bajo",
+    "sex": "male",
+    "vocative": "Bajo"
+  },
+  {
+    "name": "Bajčeta",
+    "sex": "male",
+    "vocative": "Bajčeta"
+  },
+  {
+    "name": "Balša",
+    "sex": "male",
+    "vocative": "Balša"
+  },
+  {
+    "name": "Bane",
+    "sex": "male",
+    "vocative": "Bane"
+  },
+  {
+    "name": "Batrić",
+    "sex": "male",
+    "vocative": "Batriću"
+  },
+  {
+    "name": "Berislav",
+    "sex": "male",
+    "vocative": "Berislave"
+  },
+  {
+    "name": "Berisav",
+    "sex": "male",
+    "vocative": "Berisave"
+  },
+  {
+    "name": "Beriša",
+    "sex": "male",
+    "vocative": "Beriša"
+  },
+  {
+    "name": "Berko",
+    "sex": "male",
+    "vocative": "Berko"
+  },
+  {
+    "name": "Biljan",
+    "sex": "male",
+    "vocative": "Biljane"
+  },
+  {
+    "name": "Biserko",
+    "sex": "male",
+    "vocative": "Biserko"
+  },
+  {
+    "name": "Blagoje",
+    "sex": "male",
+    "vocative": "Blagoje"
+  },
+  {
+    "name": "Blagoja",
+    "sex": "male",
+    "vocative": "Blagoja"
+  },
+  {
+    "name": "Blagota",
+    "sex": "male",
+    "vocative": "Blagota"
+  },
+  {
+    "name": "Blagomir",
+    "sex": "male",
+    "vocative": "Blagomire"
+  },
+  {
+    "name": "Blaža",
+    "sex": "male",
+    "vocative": "Blažo"
+  },
+  {
+    "name": "Blažo",
+    "sex": "male",
+    "vocative": "Blažo"
+  },
+  {
+    "name": "Blaže",
+    "sex": "male",
+    "vocative": "Blaže"
+  },
+  {
+    "name": "Blažen",
+    "sex": "male",
+    "vocative": "Blažene"
+  },
+  {
+    "name": "Blažeta",
+    "sex": "male",
+    "vocative": "Blažeta"
+  },
+  {
+    "name": "Blažimir",
+    "sex": "male",
+    "vocative": "Blažimire"
+  },
+  {
+    "name": "Blaško",
+    "sex": "male",
+    "vocative": "Blaško"
+  },
+  {
+    "name": "Boban",
+    "sex": "male",
+    "vocative": "Bobane"
+  },
+  {
+    "name": "Bobiša",
+    "sex": "male",
+    "vocative": "Bobiša"
+  },
+  {
+    "name": "Bogdan",
+    "sex": "male",
+    "vocative": "Bogdane"
+  },
+  {
+    "name": "Bogelj",
+    "sex": "male",
+    "vocative": "Bogelju"
+  },
+  {
+    "name": "Bogić",
+    "sex": "male",
+    "vocative": "Bogiću"
+  },
+  {
+    "name": "Bogiša",
+    "sex": "male",
+    "vocative": "Bogiša"
+  },
+  {
+    "name": "Bogoboj",
+    "sex": "male",
+    "vocative": "Bogoboju"
+  },
+  {
+    "name": "Bogoje",
+    "sex": "male",
+    "vocative": "Bogoje"
+  },
+  {
+    "name": "Bogoljub",
+    "sex": "male",
+    "vocative": "Bogoljube"
+  },
+  {
+    "name": "Bogomir",
+    "sex": "male",
+    "vocative": "Bogomire"
+  },
+  {
+    "name": "Bogoslav",
+    "sex": "male",
+    "vocative": "Bogoslave"
+  },
+  {
+    "name": "Bogosav",
+    "sex": "male",
+    "vocative": "Bogosave"
+  },
+  {
+    "name": "Božidar",
+    "sex": "male",
+    "vocative": "Božidare"
+  },
+  {
+    "name": "Boža",
+    "sex": "male",
+    "vocative": "Božo"
+  },
+  {
+    "name": "Božo",
+    "sex": "male",
+    "vocative": "Božo"
+  },
+  {
+    "name": "Božin",
+    "sex": "male",
+    "vocative": "Božine"
+  },
+  {
+    "name": "Božina",
+    "sex": "male",
+    "vocative": "Božina"
+  },
+  {
+    "name": "Božićko",
+    "sex": "male",
+    "vocative": "Božićko"
+  },
+  {
+    "name": "Božur",
+    "sex": "male",
+    "vocative": "Božure"
+  },
+  {
+    "name": "Boin",
+    "sex": "male",
+    "vocative": "Boine"
+  },
+  {
+    "name": "Boica",
+    "sex": "male",
+    "vocative": "Boice"
+  },
+  {
+    "name": "Bojan",
+    "sex": "male",
+    "vocative": "Bojane"
+  },
+  {
+    "name": "Bojko",
+    "sex": "male",
+    "vocative": "Bojko"
+  },
+  {
+    "name": "Bojo",
+    "sex": "male",
+    "vocative": "Bojo"
+  },
+  {
+    "name": "Bojčeta",
+    "sex": "male",
+    "vocative": "Bojčeta"
+  },
+  {
+    "name": "Bora",
+    "sex": "male",
+    "vocative": "Boro"
+  },
+  {
+    "name": "Boro",
+    "sex": "male",
+    "vocative": "Boro"
+  },
+  {
+    "name": "Boran",
+    "sex": "male",
+    "vocative": "Borane"
+  },
+  {
+    "name": "Borivoje",
+    "sex": "male",
+    "vocative": "Borivoje"
+  },
+  {
+    "name": "Borivoj",
+    "sex": "male",
+    "vocative": "Borivoju"
+  },
+  {
+    "name": "Boris",
+    "sex": "male",
+    "vocative": "Borise"
+  },
+  {
+    "name": "Borislav",
+    "sex": "male",
+    "vocative": "Borislave"
+  },
+  {
+    "name": "Borisav",
+    "sex": "male",
+    "vocative": "Borisave"
+  },
+  {
+    "name": "Borko",
+    "sex": "male",
+    "vocative": "Borko"
+  },
+  {
+    "name": "Boriša",
+    "sex": "male",
+    "vocative": "Boriša"
+  },
+  {
+    "name": "Boroje",
+    "sex": "male",
+    "vocative": "Boroje"
+  },
+  {
+    "name": "Boško",
+    "sex": "male",
+    "vocative": "Boško"
+  },
+  {
+    "name": "Brajan",
+    "sex": "male",
+    "vocative": "Brajane"
+  },
+  {
+    "name": "Brajica",
+    "sex": "male",
+    "vocative": "Brajice"
+  },
+  {
+    "name": "Bracan",
+    "sex": "male",
+    "vocative": "Bracane"
+  },
+  {
+    "name": "Branivoje",
+    "sex": "male",
+    "vocative": "Branivoje"
+  },
+  {
+    "name": "Branivoj",
+    "sex": "male",
+    "vocative": "Branivoju"
+  },
+  {
+    "name": "Branimir",
+    "sex": "male",
+    "vocative": "Branimire"
+  },
+  {
+    "name": "Branislav",
+    "sex": "male",
+    "vocative": "Branislave"
+  },
+  {
+    "name": "Branisav",
+    "sex": "male",
+    "vocative": "Branisave"
+  },
+  {
+    "name": "Branko",
+    "sex": "male",
+    "vocative": "Branko"
+  },
+  {
+    "name": "Brano",
+    "sex": "male",
+    "vocative": "Brano"
+  },
+  {
+    "name": "Brane",
+    "sex": "male",
+    "vocative": "Brane"
+  },
+  {
+    "name": "Brana",
+    "sex": "male",
+    "vocative": "Brano"
+  },
+  {
+    "name": "Braniša",
+    "sex": "male",
+    "vocative": "Braniša"
+  },
+  {
+    "name": "Bratimir",
+    "sex": "male",
+    "vocative": "Bratimire"
+  },
+  {
+    "name": "Bratislav",
+    "sex": "male",
+    "vocative": "Bratislave"
+  },
+  {
+    "name": "Bratovan",
+    "sex": "male",
+    "vocative": "Bratovane"
+  },
+  {
+    "name": "Bratoljub",
+    "sex": "male",
+    "vocative": "Bratoljube"
+  },
+  {
+    "name": "Brnča",
+    "sex": "male",
+    "vocative": "Brnča"
+  },
+  {
+    "name": "Budimir",
+    "sex": "male",
+    "vocative": "Budimire"
+  },
+  {
+    "name": "Budislav",
+    "sex": "male",
+    "vocative": "Budislave"
+  },
+  {
+    "name": "Budisav",
+    "sex": "male",
+    "vocative": "Budisave"
+  },
+  {
+    "name": "Berislava",
+    "sex": "female",
+    "vocative": "Berislava"
+  },
+  {
+    "name": "Biljana",
+    "sex": "female",
+    "vocative": "Biljana"
+  },
+  {
+    "name": "Bisenija",
+    "sex": "female",
+    "vocative": "Bisenija"
+  },
+  {
+    "name": "Biserka",
+    "sex": "female",
+    "vocative": "Biserka"
+  },
+  {
+    "name": "Blaginja",
+    "sex": "female",
+    "vocative": "Blaginja"
+  },
+  {
+    "name": "Blagica",
+    "sex": "female",
+    "vocative": "Blagice"
+  },
+  {
+    "name": "Blagojka",
+    "sex": "female",
+    "vocative": "Blagojka"
+  },
+  {
+    "name": "Blaženka",
+    "sex": "female",
+    "vocative": "Blaženka"
+  },
+  {
+    "name": "Bobana",
+    "sex": "female",
+    "vocative": "Bobana"
+  },
+  {
+    "name": "Bogdana",
+    "sex": "female",
+    "vocative": "Bogdana"
+  },
+  {
+    "name": "Bogdanka",
+    "sex": "female",
+    "vocative": "Bogdanka"
+  },
+  {
+    "name": "Bogȉnja",
+    "sex": "female"
+  },
+  {
+    "name": "Božana",
+    "sex": "female",
+    "vocative": "Božana"
+  },
+  {
+    "name": "Božidarka",
+    "sex": "female",
+    "vocative": "Božidarka"
+  },
+  {
+    "name": "Božinka",
+    "sex": "female",
+    "vocative": "Božinka"
+  },
+  {
+    "name": "Božica",
+    "sex": "female",
+    "vocative": "Božice"
+  },
+  {
+    "name": "Bojana",
+    "sex": "female",
+    "vocative": "Bojana"
+  },
+  {
+    "name": "Bojka",
+    "sex": "female",
+    "vocative": "Bojka"
+  },
+  {
+    "name": "Boja",
+    "sex": "female",
+    "vocative": "Bojo"
+  },
+  {
+    "name": "Borika",
+    "sex": "female",
+    "vocative": "Borika"
+  },
+  {
+    "name": "Borica",
+    "sex": "female",
+    "vocative": "Borice"
+  },
+  {
+    "name": "Borislava",
+    "sex": "female",
+    "vocative": "Borislava"
+  },
+  {
+    "name": "Borislavka",
+    "sex": "female",
+    "vocative": "Borislavka"
+  },
+  {
+    "name": "Borjana",
+    "sex": "female",
+    "vocative": "Borjana"
+  },
+  {
+    "name": "Borjanka",
+    "sex": "female",
+    "vocative": "Borjanka"
+  },
+  {
+    "name": "Borka",
+    "sex": "female",
+    "vocative": "Borka"
+  },
+  {
+    "name": "Bosa",
+    "sex": "female",
+    "vocative": "Boso"
+  },
+  {
+    "name": "Bosiljka",
+    "sex": "female",
+    "vocative": "Bosiljka"
+  },
+  {
+    "name": "Bosna",
+    "sex": "female",
+    "vocative": "Bosna"
+  },
+  {
+    "name": "Bosanka",
+    "sex": "female",
+    "vocative": "Bosanka"
+  },
+  {
+    "name": "Branislava",
+    "sex": "female",
+    "vocative": "Branislava"
+  },
+  {
+    "name": "Branislavka",
+    "sex": "female",
+    "vocative": "Branislavka"
+  },
+  {
+    "name": "Branka",
+    "sex": "female",
+    "vocative": "Branka"
+  },
+  {
+    "name": "Brankica",
+    "sex": "female",
+    "vocative": "Brankice"
+  },
+  {
+    "name": "Bratislava",
+    "sex": "female",
+    "vocative": "Bratislava"
+  },
+  {
+    "name": "Budimirka",
+    "sex": "female",
+    "vocative": "Budimirka"
+  },
+  {
+    "name": "Budimka",
+    "sex": "female",
+    "vocative": "Budimka"
+  },
+  {
+    "name": "Budislava",
+    "sex": "female",
+    "vocative": "Budislava"
+  },
+  {
+    "name": "Budislavka",
+    "sex": "female",
+    "vocative": "Budislavka"
+  },
+  {
+    "name": "Vanja",
+    "sex": "male",
+    "vocative": "Vanja"
+  },
+  {
+    "name": "Vartolomej",
+    "sex": "male",
+    "vocative": "Vartolomeju"
+  },
+  {
+    "name": "Vasilije",
+    "sex": "male",
+    "vocative": "Vasilije"
+  },
+  {
+    "name": "Vajo",
+    "sex": "male",
+    "vocative": "Vajo"
+  },
+  {
+    "name": "Vasilj",
+    "sex": "male",
+    "vocative": "Vasilju"
+  },
+  {
+    "name": "Vasiljko",
+    "sex": "male",
+    "vocative": "Vasiljko"
+  },
+  {
+    "name": "Vasko",
+    "sex": "male",
+    "vocative": "Vasko"
+  },
+  {
+    "name": "Vasoje",
+    "sex": "male",
+    "vocative": "Vasoje"
+  },
+  {
+    "name": "Vasa",
+    "sex": "male",
+    "vocative": "Vaso"
+  },
+  {
+    "name": "Vaso",
+    "sex": "male",
+    "vocative": "Vaso"
+  },
+  {
+    "name": "Vaskrsije",
+    "sex": "male",
+    "vocative": "Vaskrsije"
+  },
+  {
+    "name": "Vatolj",
+    "sex": "male",
+    "vocative": "Vatolju"
+  },
+  {
+    "name": "Vedran",
+    "sex": "male",
+    "vocative": "Vedrane"
+  },
+  {
+    "name": "Vekoslav",
+    "sex": "male",
+    "vocative": "Vekoslave"
+  },
+  {
+    "name": "Vjekoslav",
+    "sex": "male",
+    "vocative": "Vjekoslave"
+  },
+  {
+    "name": "Velibor",
+    "sex": "male",
+    "vocative": "Velibore"
+  },
+  {
+    "name": "Velizar",
+    "sex": "male",
+    "vocative": "Velizare"
+  },
+  {
+    "name": "Velimir",
+    "sex": "male",
+    "vocative": "Velimire"
+  },
+  {
+    "name": "Velemir",
+    "sex": "male",
+    "vocative": "Velemire"
+  },
+  {
+    "name": "Velisav",
+    "sex": "male",
+    "vocative": "Velisave"
+  },
+  {
+    "name": "Velislav",
+    "sex": "male",
+    "vocative": "Velislave"
+  },
+  {
+    "name": "Veličko",
+    "sex": "male",
+    "vocative": "Veličko"
+  },
+  {
+    "name": "Veliša",
+    "sex": "male",
+    "vocative": "Veliša"
+  },
+  {
+    "name": "Veljko",
+    "sex": "male",
+    "vocative": "Veljko"
+  },
+  {
+    "name": "Veran",
+    "sex": "male",
+    "vocative": "Verane"
+  },
+  {
+    "name": "Veroljub",
+    "sex": "male",
+    "vocative": "Veroljube"
+  },
+  {
+    "name": "Veselin",
+    "sex": "male",
+    "vocative": "Veseline"
+  },
+  {
+    "name": "Veselko",
+    "sex": "male",
+    "vocative": "Veselko"
+  },
+  {
+    "name": "Vesko",
+    "sex": "male",
+    "vocative": "Vesko"
+  },
+  {
+    "name": "Veso",
+    "sex": "male",
+    "vocative": "Veso"
+  },
+  {
+    "name": "Vesa",
+    "sex": "male",
+    "vocative": "Veso"
+  },
+  {
+    "name": "Vidoje",
+    "sex": "male",
+    "vocative": "Vidoje"
+  },
+  {
+    "name": "Vidak",
+    "sex": "male",
+    "vocative": "Vidače"
+  },
+  {
+    "name": "Vid",
+    "sex": "male",
+    "vocative": "Vide"
+  },
+  {
+    "name": "Vidač",
+    "sex": "male",
+    "vocative": "Vidače"
+  },
+  {
+    "name": "Vidan",
+    "sex": "male",
+    "vocative": "Vidane"
+  },
+  {
+    "name": "Viden",
+    "sex": "male",
+    "vocative": "Videne"
+  },
+  {
+    "name": "Vidoslav",
+    "sex": "male",
+    "vocative": "Vidoslave"
+  },
+  {
+    "name": "Vidosav",
+    "sex": "male",
+    "vocative": "Vidosave"
+  },
+  {
+    "name": "Vidojko",
+    "sex": "male",
+    "vocative": "Vidojko"
+  },
+  {
+    "name": "Vidoja",
+    "sex": "male",
+    "vocative": "Vidoja"
+  },
+  {
+    "name": "Viktor",
+    "sex": "male",
+    "vocative": "Viktore"
+  },
+  {
+    "name": "Vilotije",
+    "sex": "male",
+    "vocative": "Vilotije"
+  },
+  {
+    "name": "Vitomir",
+    "sex": "male",
+    "vocative": "Vitomire"
+  },
+  {
+    "name": "Vitko",
+    "sex": "male",
+    "vocative": "Vitko"
+  },
+  {
+    "name": "Vićentije",
+    "sex": "male",
+    "vocative": "Vićentije"
+  },
+  {
+    "name": "Vićan",
+    "sex": "male",
+    "vocative": "Vićane"
+  },
+  {
+    "name": "Višeslav",
+    "sex": "male",
+    "vocative": "Višeslave"
+  },
+  {
+    "name": "Vladan",
+    "sex": "male",
+    "vocative": "Vladane"
+  },
+  {
+    "name": "Vlada",
+    "sex": "male",
+    "vocative": "Vlado"
+  },
+  {
+    "name": "Vlade",
+    "sex": "male",
+    "vocative": "Vlade"
+  },
+  {
+    "name": "Vlado",
+    "sex": "male",
+    "vocative": "Vlado"
+  },
+  {
+    "name": "Vlatko",
+    "sex": "male",
+    "vocative": "Vlatko"
+  },
+  {
+    "name": "Vladeta",
+    "sex": "male",
+    "vocative": "Vladeta"
+  },
+  {
+    "name": "Vladica",
+    "sex": "male",
+    "vocative": "Vladice"
+  },
+  {
+    "name": "Vladoje",
+    "sex": "male",
+    "vocative": "Vladoje"
+  },
+  {
+    "name": "Vladun",
+    "sex": "male",
+    "vocative": "Vladune"
+  },
+  {
+    "name": "Vladimir",
+    "sex": "male",
+    "vocative": "Vladimire"
+  },
+  {
+    "name": "Vladislav",
+    "sex": "male",
+    "vocative": "Vladislave"
+  },
+  {
+    "name": "Vladisav",
+    "sex": "male",
+    "vocative": "Vladisave"
+  },
+  {
+    "name": "Vlaisav",
+    "sex": "male",
+    "vocative": "Vlaisave"
+  },
+  {
+    "name": "Vlasije",
+    "sex": "male",
+    "vocative": "Vlasije"
+  },
+  {
+    "name": "Vlajko",
+    "sex": "male",
+    "vocative": "Vlajko"
+  },
+  {
+    "name": "Vlastimir",
+    "sex": "male",
+    "vocative": "Vlastimire"
+  },
+  {
+    "name": "Vlaško",
+    "sex": "male",
+    "vocative": "Vlaško"
+  },
+  {
+    "name": "Vojdrag",
+    "sex": "male",
+    "vocative": "Vojdraže"
+  },
+  {
+    "name": "Vojimir",
+    "sex": "male",
+    "vocative": "Vojimire"
+  },
+  {
+    "name": "Vojkan",
+    "sex": "male",
+    "vocative": "Vojkane"
+  },
+  {
+    "name": "Vojin",
+    "sex": "male",
+    "vocative": "Vojine"
+  },
+  {
+    "name": "Vojko",
+    "sex": "male",
+    "vocative": "Vojko"
+  },
+  {
+    "name": "Voin",
+    "sex": "male",
+    "vocative": "Voine"
+  },
+  {
+    "name": "Vojica",
+    "sex": "male"
+  },
+  {
+    "name": "Voja",
+    "sex": "male",
+    "vocative": "Vojo"
+  },
+  {
+    "name": "Vojo",
+    "sex": "male",
+    "vocative": "Vojo"
+  },
+  {
+    "name": "Vojislav",
+    "sex": "male",
+    "vocative": "Vojislave"
+  },
+  {
+    "name": "Voislav",
+    "sex": "male"
+  },
+  {
+    "name": "Vraneš",
+    "sex": "male"
+  },
+  {
+    "name": "Vugdrag",
+    "sex": "male",
+    "vocative": "Vugdraže"
+  },
+  {
+    "name": "Vuzman",
+    "sex": "male",
+    "vocative": "Vuzmane"
+  },
+  {
+    "name": "Vuilo",
+    "sex": "male",
+    "vocative": "Vuilo"
+  },
+  {
+    "name": "Vuin",
+    "sex": "male",
+    "vocative": "Vuine"
+  },
+  {
+    "name": "Vuica",
+    "sex": "male",
+    "vocative": "Vuica"
+  },
+  {
+    "name": "Vujadin",
+    "sex": "male",
+    "vocative": "Vujadine"
+  },
+  {
+    "name": "Vujak",
+    "sex": "male",
+    "vocative": "Vujače"
+  },
+  {
+    "name": "Vujan",
+    "sex": "male",
+    "vocative": "Vujane"
+  },
+  {
+    "name": "Vujeta",
+    "sex": "male",
+    "vocative": "Vujeta"
+  },
+  {
+    "name": "Vujko",
+    "sex": "male",
+    "vocative": "Vujko"
+  },
+  {
+    "name": "Vujčeta",
+    "sex": "male",
+    "vocative": "Vujčeta"
+  },
+  {
+    "name": "Vujčin",
+    "sex": "male",
+    "vocative": "Vujčine"
+  },
+  {
+    "name": "Vujo",
+    "sex": "male",
+    "vocative": "Vujo"
+  },
+  {
+    "name": "Vujoš",
+    "sex": "male",
+    "vocative": "Vujoše"
+  },
+  {
+    "name": "Vuk",
+    "sex": "male",
+    "vocative": "Vuče"
+  },
+  {
+    "name": "Vuko",
+    "sex": "male",
+    "vocative": "Vuko"
+  },
+  {
+    "name": "Vukalj",
+    "sex": "male",
+    "vocative": "Vukalju"
+  },
+  {
+    "name": "Vukas",
+    "sex": "male",
+    "vocative": "Vukase"
+  },
+  {
+    "name": "Vukac",
+    "sex": "male"
+  },
+  {
+    "name": "Vukač",
+    "sex": "male",
+    "vocative": "Vukače"
+  },
+  {
+    "name": "Vukelja",
+    "sex": "male",
+    "vocative": "Vukelja"
+  },
+  {
+    "name": "Vukić",
+    "sex": "male",
+    "vocative": "Vukiću"
+  },
+  {
+    "name": "Vukša",
+    "sex": "male",
+    "vocative": "Vukša"
+  },
+  {
+    "name": "Vukadin",
+    "sex": "male",
+    "vocative": "Vukadine"
+  },
+  {
+    "name": "Vukan",
+    "sex": "male",
+    "vocative": "Vukane"
+  },
+  {
+    "name": "Vukota",
+    "sex": "male",
+    "vocative": "Vukota"
+  },
+  {
+    "name": "Vukajlo",
+    "sex": "male",
+    "vocative": "Vukajlo"
+  },
+  {
+    "name": "Vukalo",
+    "sex": "male",
+    "vocative": "Vukalo"
+  },
+  {
+    "name": "Vukman",
+    "sex": "male",
+    "vocative": "Vukmane"
+  },
+  {
+    "name": "Vukoman",
+    "sex": "male",
+    "vocative": "Vukomane"
+  },
+  {
+    "name": "Vukmilj",
+    "sex": "male"
+  },
+  {
+    "name": "Vukoje",
+    "sex": "male",
+    "vocative": "Vukoje"
+  },
+  {
+    "name": "Vukojica",
+    "sex": "male",
+    "vocative": "Vukojice"
+  },
+  {
+    "name": "Vukoica",
+    "sex": "male",
+    "vocative": "Vukoice"
+  },
+  {
+    "name": "Vukola",
+    "sex": "male",
+    "vocative": "Vukola"
+  },
+  {
+    "name": "Vukovoje",
+    "sex": "male",
+    "vocative": "Vukovoje"
+  },
+  {
+    "name": "Vukašin",
+    "sex": "male",
+    "vocative": "Vukašine"
+  },
+  {
+    "name": "Vukomir",
+    "sex": "male",
+    "vocative": "Vukomire"
+  },
+  {
+    "name": "Vukmir",
+    "sex": "male",
+    "vocative": "Vukmire"
+  },
+  {
+    "name": "Vukoslav",
+    "sex": "male",
+    "vocative": "Vukoslave"
+  },
+  {
+    "name": "Vukosav",
+    "sex": "male",
+    "vocative": "Vukosave"
+  },
+  {
+    "name": "Vuksan",
+    "sex": "male",
+    "vocative": "Vuksane"
+  },
+  {
+    "name": "Vuleta",
+    "sex": "male",
+    "vocative": "Vuleta"
+  },
+  {
+    "name": "Vule",
+    "sex": "male",
+    "vocative": "Vule"
+  },
+  {
+    "name": "Vunko",
+    "sex": "male",
+    "vocative": "Vunko"
+  },
+  {
+    "name": "Vučeta",
+    "sex": "male",
+    "vocative": "Vučeta"
+  },
+  {
+    "name": "Vučina",
+    "sex": "male",
+    "vocative": "Vučina"
+  },
+  {
+    "name": "Vučan",
+    "sex": "male",
+    "vocative": "Vučane"
+  },
+  {
+    "name": "Vučen",
+    "sex": "male",
+    "vocative": "Vučene"
+  },
+  {
+    "name": "Vučić",
+    "sex": "male",
+    "vocative": "Vučiću"
+  },
+  {
+    "name": "Vučko",
+    "sex": "male",
+    "vocative": "Vučko"
+  },
+  {
+    "name": "Vučur",
+    "sex": "male",
+    "vocative": "Vučure"
+  },
+  {
+    "name": "Vuča",
+    "sex": "male",
+    "vocative": "Vučo"
+  },
+  {
+    "name": "Valerija",
+    "sex": "female",
+    "vocative": "Valerija"
+  },
+  {
+    "name": "Vanja",
+    "sex": "female",
+    "vocative": "Vanja"
+  },
+  {
+    "name": "Varvara",
+    "sex": "female",
+    "vocative": "Varvara"
+  },
+  {
+    "name": "Vasilija",
+    "sex": "female",
+    "vocative": "Vasilija"
+  },
+  {
+    "name": "Vasiljka",
+    "sex": "female",
+    "vocative": "Vasiljka"
+  },
+  {
+    "name": "Vaska",
+    "sex": "female",
+    "vocative": "Vaska"
+  },
+  {
+    "name": "Vasilka",
+    "sex": "female",
+    "vocative": "Vasilka"
+  },
+  {
+    "name": "Vaskrsija",
+    "sex": "female",
+    "vocative": "Vaskrsija"
+  },
+  {
+    "name": "Veliborka",
+    "sex": "female",
+    "vocative": "Veliborka"
+  },
+  {
+    "name": "Velika",
+    "sex": "female",
+    "vocative": "Velika"
+  },
+  {
+    "name": "Velimirka",
+    "sex": "female",
+    "vocative": "Velimirka"
+  },
+  {
+    "name": "Velinka",
+    "sex": "female",
+    "vocative": "Velinka"
+  },
+  {
+    "name": "Velina",
+    "sex": "female",
+    "vocative": "Velina"
+  },
+  {
+    "name": "Velisava",
+    "sex": "female",
+    "vocative": "Velisava"
+  },
+  {
+    "name": "Vera",
+    "sex": "female",
+    "vocative": "Vera"
+  },
+  {
+    "name": "Verka",
+    "sex": "female",
+    "vocative": "Verka"
+  },
+  {
+    "name": "Verica",
+    "sex": "female",
+    "vocative": "Verice"
+  },
+  {
+    "name": "Veronika",
+    "sex": "female",
+    "vocative": "Veronika"
+  },
+  {
+    "name": "Veroslava",
+    "sex": "female",
+    "vocative": "Veroslava"
+  },
+  {
+    "name": "Veselina",
+    "sex": "female",
+    "vocative": "Veselina"
+  },
+  {
+    "name": "Veselinka",
+    "sex": "female",
+    "vocative": "Veselinka"
+  },
+  {
+    "name": "Veselka",
+    "sex": "female",
+    "vocative": "Veselka"
+  },
+  {
+    "name": "Vesela",
+    "sex": "female",
+    "vocative": "Vesela"
+  },
+  {
+    "name": "Veska",
+    "sex": "female",
+    "vocative": "Veska"
+  },
+  {
+    "name": "Vesna",
+    "sex": "female",
+    "vocative": "Vesna"
+  },
+  {
+    "name": "Vida",
+    "sex": "female",
+    "vocative": "Vido"
+  },
+  {
+    "name": "Vidojka",
+    "sex": "female",
+    "vocative": "Vidojka"
+  },
+  {
+    "name": "Vidosava",
+    "sex": "female",
+    "vocative": "Vidosava"
+  },
+  {
+    "name": "Viktorija",
+    "sex": "female",
+    "vocative": "Viktorija"
+  },
+  {
+    "name": "Vinka",
+    "sex": "female",
+    "vocative": "Vinka"
+  },
+  {
+    "name": "Violeta",
+    "sex": "female",
+    "vocative": "Violeta"
+  },
+  {
+    "name": "Vitka",
+    "sex": "female",
+    "vocative": "Vitka"
+  },
+  {
+    "name": "Vitomirka",
+    "sex": "female",
+    "vocative": "Vitomirka"
+  },
+  {
+    "name": "Višeslava",
+    "sex": "female",
+    "vocative": "Višeslava"
+  },
+  {
+    "name": "Višnja",
+    "sex": "female",
+    "vocative": "Višnja"
+  },
+  {
+    "name": "Vladana",
+    "sex": "female",
+    "vocative": "Vladana"
+  },
+  {
+    "name": "Vladanka",
+    "sex": "female",
+    "vocative": "Vladanka"
+  },
+  {
+    "name": "Vladimirka",
+    "sex": "female",
+    "vocative": "Vladimirka"
+  },
+  {
+    "name": "Vladislava",
+    "sex": "female",
+    "vocative": "Vladislava"
+  },
+  {
+    "name": "Vladislavka",
+    "sex": "female",
+    "vocative": "Vladislavka"
+  },
+  {
+    "name": "Vladisava",
+    "sex": "female"
+  },
+  {
+    "name": "Vlajka",
+    "sex": "female",
+    "vocative": "Vlajka"
+  },
+  {
+    "name": "Vlasta",
+    "sex": "female",
+    "vocative": "Vlasto"
+  },
+  {
+    "name": "Vlastimirka",
+    "sex": "female",
+    "vocative": "Vlastimirka"
+  },
+  {
+    "name": "Vlatka",
+    "sex": "female",
+    "vocative": "Vlatka"
+  },
+  {
+    "name": "Vojislava",
+    "sex": "female",
+    "vocative": "Vojislava"
+  },
+  {
+    "name": "Voislava",
+    "sex": "female"
+  },
+  {
+    "name": "Vojislavka",
+    "sex": "female",
+    "vocative": "Vojislavka"
+  },
+  {
+    "name": "Vojka",
+    "sex": "female",
+    "vocative": "Vojka"
+  },
+  {
+    "name": "Vojinka",
+    "sex": "female",
+    "vocative": "Vojinka"
+  },
+  {
+    "name": "Vujadinka",
+    "sex": "female",
+    "vocative": "Vujadinka"
+  },
+  {
+    "name": "Vujka",
+    "sex": "female",
+    "vocative": "Vujka"
+  },
+  {
+    "name": "Vujana",
+    "sex": "female",
+    "vocative": "Vujana"
+  },
+  {
+    "name": "Vukadinka",
+    "sex": "female",
+    "vocative": "Vukadinka"
+  },
+  {
+    "name": "Vukana",
+    "sex": "female",
+    "vocative": "Vukana"
+  },
+  {
+    "name": "Vukica",
+    "sex": "female",
+    "vocative": "Vukice"
+  },
+  {
+    "name": "Vukena",
+    "sex": "female",
+    "vocative": "Vukena"
+  },
+  {
+    "name": "Vukosava",
+    "sex": "female",
+    "vocative": "Vukosava"
+  },
+  {
+    "name": "Vukmira",
+    "sex": "female",
+    "vocative": "Vukmira"
+  },
+  {
+    "name": "Gavrilo",
+    "sex": "male",
+    "vocative": "Gavrilo"
+  },
+  {
+    "name": "Gaja",
+    "sex": "male",
+    "vocative": "Gaja"
+  },
+  {
+    "name": "Gajo",
+    "sex": "male",
+    "vocative": "Gajo"
+  },
+  {
+    "name": "Gača",
+    "sex": "male",
+    "vocative": "Gačo"
+  },
+  {
+    "name": "Gavra",
+    "sex": "male",
+    "vocative": "Gavro"
+  },
+  {
+    "name": "Gavro",
+    "sex": "male",
+    "vocative": "Gavro"
+  },
+  {
+    "name": "Gajin",
+    "sex": "male",
+    "vocative": "Gajine"
+  },
+  {
+    "name": "Gvozden",
+    "sex": "male",
+    "vocative": "Gvozdene"
+  },
+  {
+    "name": "Gvozdenko",
+    "sex": "male",
+    "vocative": "Gvozdenko"
+  },
+  {
+    "name": "Genadije",
+    "sex": "male",
+    "vocative": "Genadije"
+  },
+  {
+    "name": "Georgije",
+    "sex": "male",
+    "vocative": "Georgije"
+  },
+  {
+    "name": "Gerasim",
+    "sex": "male",
+    "vocative": "Gerasime"
+  },
+  {
+    "name": "German",
+    "sex": "male",
+    "vocative": "Germane"
+  },
+  {
+    "name": "Gligorije",
+    "sex": "male",
+    "vocative": "Gligorije"
+  },
+  {
+    "name": "Gligor",
+    "sex": "male",
+    "vocative": "Gligore"
+  },
+  {
+    "name": "Gliša",
+    "sex": "male",
+    "vocative": "Glišo"
+  },
+  {
+    "name": "Glišo",
+    "sex": "male",
+    "vocative": "Glišo"
+  },
+  {
+    "name": "Grigorije",
+    "sex": "male",
+    "vocative": "Grigorije"
+  },
+  {
+    "name": "Godeč",
+    "sex": "male"
+  },
+  {
+    "name": "Godomir",
+    "sex": "male",
+    "vocative": "Godomire"
+  },
+  {
+    "name": "Gojko",
+    "sex": "male",
+    "vocative": "Gojko"
+  },
+  {
+    "name": "Gojimir",
+    "sex": "male",
+    "vocative": "Gojimire"
+  },
+  {
+    "name": "Golub",
+    "sex": "male",
+    "vocative": "Golube"
+  },
+  {
+    "name": "Goran",
+    "sex": "male",
+    "vocative": "Gorane"
+  },
+  {
+    "name": "Gorjan",
+    "sex": "male",
+    "vocative": "Gorjane"
+  },
+  {
+    "name": "Gordan",
+    "sex": "male",
+    "vocative": "Gordane"
+  },
+  {
+    "name": "Goroljub",
+    "sex": "male",
+    "vocative": "Goroljube"
+  },
+  {
+    "name": "Gorčin",
+    "sex": "male",
+    "vocative": "Gorčine"
+  },
+  {
+    "name": "Gorčilo",
+    "sex": "male",
+    "vocative": "Gorčilo"
+  },
+  {
+    "name": "Gostimir",
+    "sex": "male",
+    "vocative": "Gostimire"
+  },
+  {
+    "name": "Gostoljub",
+    "sex": "male",
+    "vocative": "Gostoljube"
+  },
+  {
+    "name": "Gradimir",
+    "sex": "male",
+    "vocative": "Gradimire"
+  },
+  {
+    "name": "Gradeta",
+    "sex": "male",
+    "vocative": "Gradeta"
+  },
+  {
+    "name": "Gradiša",
+    "sex": "male",
+    "vocative": "Gradiša"
+  },
+  {
+    "name": "Grgur",
+    "sex": "male",
+    "vocative": "Grgure"
+  },
+  {
+    "name": "Grdan",
+    "sex": "male",
+    "vocative": "Grdane"
+  },
+  {
+    "name": "Grijak",
+    "sex": "male",
+    "vocative": "Grijače"
+  },
+  {
+    "name": "Grozdan",
+    "sex": "male",
+    "vocative": "Grozdane"
+  },
+  {
+    "name": "Grubeta",
+    "sex": "male",
+    "vocative": "Grubeta"
+  },
+  {
+    "name": "Grubiša",
+    "sex": "male",
+    "vocative": "Grubiša"
+  },
+  {
+    "name": "Gruban",
+    "sex": "male",
+    "vocative": "Grubane"
+  },
+  {
+    "name": "Grubac",
+    "sex": "male",
+    "vocative": "Grubače"
+  },
+  {
+    "name": "Grubač",
+    "sex": "male",
+    "vocative": "Grubače"
+  },
+  {
+    "name": "Grubeša",
+    "sex": "male",
+    "vocative": "Grubeša"
+  },
+  {
+    "name": "Gruja",
+    "sex": "male",
+    "vocative": "Grujo"
+  },
+  {
+    "name": "Grujica",
+    "sex": "male",
+    "vocative": "Grujice"
+  },
+  {
+    "name": "Grujo",
+    "sex": "male",
+    "vocative": "Grujo"
+  },
+  {
+    "name": "Gavrila",
+    "sex": "female",
+    "vocative": "Gavrila"
+  },
+  {
+    "name": "Gavrilka",
+    "sex": "female",
+    "vocative": "Gavrilka"
+  },
+  {
+    "name": "Gvozdenija",
+    "sex": "female",
+    "vocative": "Gvozdenija"
+  },
+  {
+    "name": "Gvozdenka",
+    "sex": "female",
+    "vocative": "Gvozdenka"
+  },
+  {
+    "name": "Georgina",
+    "sex": "female",
+    "vocative": "Georgina"
+  },
+  {
+    "name": "Gorana",
+    "sex": "female",
+    "vocative": "Gorana"
+  },
+  {
+    "name": "Gorica",
+    "sex": "female",
+    "vocative": "Gorice"
+  },
+  {
+    "name": "Goranka",
+    "sex": "female",
+    "vocative": "Goranka"
+  },
+  {
+    "name": "Gorjana",
+    "sex": "female",
+    "vocative": "Gorjana"
+  },
+  {
+    "name": "Gordana",
+    "sex": "female",
+    "vocative": "Gordana"
+  },
+  {
+    "name": "Gospava",
+    "sex": "female",
+    "vocative": "Gospava"
+  },
+  {
+    "name": "Gospana",
+    "sex": "female",
+    "vocative": "Gospana"
+  },
+  {
+    "name": "Gradimirka",
+    "sex": "female",
+    "vocative": "Gradimirka"
+  },
+  {
+    "name": "Grozdana",
+    "sex": "female",
+    "vocative": "Grozdana"
+  },
+  {
+    "name": "Grozda",
+    "sex": "female",
+    "vocative": "Grozdo"
+  },
+  {
+    "name": "Dabiša",
+    "sex": "male",
+    "vocative": "Dabiša"
+  },
+  {
+    "name": "Dabo",
+    "sex": "male",
+    "vocative": "Dabo"
+  },
+  {
+    "name": "Dabiživ",
+    "sex": "male",
+    "vocative": "Dabižive"
+  },
+  {
+    "name": "David",
+    "sex": "male",
+    "vocative": "Davide"
+  },
+  {
+    "name": "Davor",
+    "sex": "male",
+    "vocative": "Davore"
+  },
+  {
+    "name": "Dalibor",
+    "sex": "male",
+    "vocative": "Dalibore"
+  },
+  {
+    "name": "Damir",
+    "sex": "male",
+    "vocative": "Damire"
+  },
+  {
+    "name": "Damjan",
+    "sex": "male",
+    "vocative": "Damjane"
+  },
+  {
+    "name": "Damljan",
+    "sex": "male",
+    "vocative": "Damljane"
+  },
+  {
+    "name": "Damnjan",
+    "sex": "male",
+    "vocative": "Damnjane"
+  },
+  {
+    "name": "Danijel",
+    "sex": "male",
+    "vocative": "Danijele"
+  },
+  {
+    "name": "Danilo",
+    "sex": "male",
+    "vocative": "Danilo"
+  },
+  {
+    "name": "Dane",
+    "sex": "male",
+    "vocative": "Dane"
+  },
+  {
+    "name": "Danko",
+    "sex": "male",
+    "vocative": "Danko"
+  },
+  {
+    "name": "Dančul",
+    "sex": "male",
+    "vocative": "Dančule"
+  },
+  {
+    "name": "Darije",
+    "sex": "male",
+    "vocative": "Darije"
+  },
+  {
+    "name": "Dario",
+    "sex": "male",
+    "vocative": "Dario"
+  },
+  {
+    "name": "Darijo",
+    "sex": "male",
+    "vocative": "Darijo"
+  },
+  {
+    "name": "Darjan",
+    "sex": "male",
+    "vocative": "Darjane"
+  },
+  {
+    "name": "Darko",
+    "sex": "male",
+    "vocative": "Darko"
+  },
+  {
+    "name": "Dejan",
+    "sex": "male",
+    "vocative": "Dejane"
+  },
+  {
+    "name": "Delivoje",
+    "sex": "male",
+    "vocative": "Delivoje"
+  },
+  {
+    "name": "Desimir",
+    "sex": "male",
+    "vocative": "Desimire"
+  },
+  {
+    "name": "Despot",
+    "sex": "male",
+    "vocative": "Despote"
+  },
+  {
+    "name": "Dimitrije",
+    "sex": "male",
+    "vocative": "Dimitrije"
+  },
+  {
+    "name": "Dimčo",
+    "sex": "male",
+    "vocative": "Dimčo"
+  },
+  {
+    "name": "Dmitar",
+    "sex": "male",
+    "vocative": "Dmitre"
+  },
+  {
+    "name": "Dionisije",
+    "sex": "male",
+    "vocative": "Dionisije"
+  },
+  {
+    "name": "Dobrašin",
+    "sex": "male",
+    "vocative": "Dobrašine"
+  },
+  {
+    "name": "Dobrilo",
+    "sex": "male",
+    "vocative": "Dobrilo"
+  },
+  {
+    "name": "Dobrica",
+    "sex": "male",
+    "vocative": "Dobrice"
+  },
+  {
+    "name": "Dobrinko",
+    "sex": "male",
+    "vocative": "Dobrinko"
+  },
+  {
+    "name": "Dobrivoje",
+    "sex": "male",
+    "vocative": "Dobrivoje"
+  },
+  {
+    "name": "Dobrivoj",
+    "sex": "male",
+    "vocative": "Dobrivoj"
+  },
+  {
+    "name": "Dobrovuk",
+    "sex": "male",
+    "vocative": "Dobrovuče"
+  },
+  {
+    "name": "Dobroslav",
+    "sex": "male",
+    "vocative": "Dobroslave"
+  },
+  {
+    "name": "Dobrosav",
+    "sex": "male",
+    "vocative": "Dobrosave"
+  },
+  {
+    "name": "Dobrislav",
+    "sex": "male",
+    "vocative": "Dobrislave"
+  },
+  {
+    "name": "Dobrisav",
+    "sex": "male",
+    "vocative": "Dobrisave"
+  },
+  {
+    "name": "Dojčin",
+    "sex": "male",
+    "vocative": "Dojčine"
+  },
+  {
+    "name": "Dojčilo",
+    "sex": "male",
+    "vocative": "Dojčilo"
+  },
+  {
+    "name": "Doko",
+    "sex": "male",
+    "vocative": "Doko"
+  },
+  {
+    "name": "Dorotej",
+    "sex": "male",
+    "vocative": "Doroteju"
+  },
+  {
+    "name": "Dositej",
+    "sex": "male",
+    "vocative": "Dositeju"
+  },
+  {
+    "name": "Dragan",
+    "sex": "male",
+    "vocative": "Dragane"
+  },
+  {
+    "name": "Dragiša",
+    "sex": "male",
+    "vocative": "Dragiša"
+  },
+  {
+    "name": "Dragić",
+    "sex": "male",
+    "vocative": "Dragiću"
+  },
+  {
+    "name": "Dragoja",
+    "sex": "male",
+    "vocative": "Dragoja"
+  },
+  {
+    "name": "Dragoje",
+    "sex": "male",
+    "vocative": "Dragoje"
+  },
+  {
+    "name": "Dragaš",
+    "sex": "male",
+    "vocative": "Dragaše"
+  },
+  {
+    "name": "Dragojlo",
+    "sex": "male",
+    "vocative": "Dragojlo"
+  },
+  {
+    "name": "Dragoš",
+    "sex": "male",
+    "vocative": "Dragoše"
+  },
+  {
+    "name": "Dragobrat",
+    "sex": "male",
+    "vocative": "Dragobrate"
+  },
+  {
+    "name": "Dragosije",
+    "sex": "male",
+    "vocative": "Dragosije"
+  },
+  {
+    "name": "Drago",
+    "sex": "male",
+    "vocative": "Drago"
+  },
+  {
+    "name": "Dragi",
+    "sex": "male",
+    "vocative": "Dragi"
+  },
+  {
+    "name": "Dragovan",
+    "sex": "male",
+    "vocative": "Dragovane"
+  },
+  {
+    "name": "Dragodan",
+    "sex": "male",
+    "vocative": "Dragodane"
+  },
+  {
+    "name": "Dragoljub",
+    "sex": "male",
+    "vocative": "Dragoljube"
+  },
+  {
+    "name": "Dragoman",
+    "sex": "male",
+    "vocative": "Dragomane"
+  },
+  {
+    "name": "Dragomir",
+    "sex": "male",
+    "vocative": "Dragomire"
+  },
+  {
+    "name": "Dragorad",
+    "sex": "male",
+    "vocative": "Dragorade"
+  },
+  {
+    "name": "Dragoslav",
+    "sex": "male",
+    "vocative": "Dragoslave"
+  },
+  {
+    "name": "Dragosav",
+    "sex": "male",
+    "vocative": "Dragosave"
+  },
+  {
+    "name": "Dragislav",
+    "sex": "male",
+    "vocative": "Dragislave"
+  },
+  {
+    "name": "Dragisav",
+    "sex": "male",
+    "vocative": "Dragisave"
+  },
+  {
+    "name": "Dragutin",
+    "sex": "male",
+    "vocative": "Dragutine"
+  },
+  {
+    "name": "Draža",
+    "sex": "male",
+    "vocative": "Dražo"
+  },
+  {
+    "name": "Dražo",
+    "sex": "male",
+    "vocative": "Dražo"
+  },
+  {
+    "name": "Dražeta",
+    "sex": "male"
+  },
+  {
+    "name": "Draže",
+    "sex": "male",
+    "vocative": "Draže"
+  },
+  {
+    "name": "Dražen",
+    "sex": "male",
+    "vocative": "Dražene"
+  },
+  {
+    "name": "Dražimir",
+    "sex": "male",
+    "vocative": "Dražimire"
+  },
+  {
+    "name": "Drailo",
+    "sex": "male",
+    "vocative": "Drailo"
+  },
+  {
+    "name": "Drakša",
+    "sex": "male",
+    "vocative": "Drakša"
+  },
+  {
+    "name": "Draško",
+    "sex": "male",
+    "vocative": "Draško"
+  },
+  {
+    "name": "Dubravac",
+    "sex": "male",
+    "vocative": "Dubravče"
+  },
+  {
+    "name": "Dubravko",
+    "sex": "male",
+    "vocative": "Dubravko"
+  },
+  {
+    "name": "Dujak",
+    "sex": "male",
+    "vocative": "Dujače"
+  },
+  {
+    "name": "Duka",
+    "sex": "male",
+    "vocative": "Duko"
+  },
+  {
+    "name": "Dukadin",
+    "sex": "male",
+    "vocative": "Dukadine"
+  },
+  {
+    "name": "Dušan",
+    "sex": "male",
+    "vocative": "Dušane"
+  },
+  {
+    "name": "Duško",
+    "sex": "male",
+    "vocative": "Duško"
+  },
+  {
+    "name": "Davorka",
+    "sex": "female",
+    "vocative": "Davorka"
+  },
+  {
+    "name": "Davorjanka",
+    "sex": "female",
+    "vocative": "Davorjanka"
+  },
+  {
+    "name": "Daliborka",
+    "sex": "female",
+    "vocative": "Daliborka"
+  },
+  {
+    "name": "Damjanka",
+    "sex": "female",
+    "vocative": "Damjanka"
+  },
+  {
+    "name": "Damljanka",
+    "sex": "female",
+    "vocative": "Damljanka"
+  },
+  {
+    "name": "Danijela",
+    "sex": "female",
+    "vocative": "Danijela"
+  },
+  {
+    "name": "Danica",
+    "sex": "female",
+    "vocative": "Danice"
+  },
+  {
+    "name": "Danka",
+    "sex": "female",
+    "vocative": "Danka"
+  },
+  {
+    "name": "Dana",
+    "sex": "female",
+    "vocative": "Dano"
+  },
+  {
+    "name": "Danojla",
+    "sex": "female",
+    "vocative": "Danojla"
+  },
+  {
+    "name": "Darinka",
+    "sex": "female",
+    "vocative": "Darinka"
+  },
+  {
+    "name": "Dara",
+    "sex": "female",
+    "vocative": "Daro"
+  },
+  {
+    "name": "Darka",
+    "sex": "female",
+    "vocative": "Darka"
+  },
+  {
+    "name": "Dafina",
+    "sex": "female",
+    "vocative": "Dafina"
+  },
+  {
+    "name": "Daša",
+    "sex": "female",
+    "vocative": "Dašo"
+  },
+  {
+    "name": "Dvorka",
+    "sex": "female",
+    "vocative": "Dvorka"
+  },
+  {
+    "name": "Deva",
+    "sex": "female",
+    "vocative": "Devo"
+  },
+  {
+    "name": "Dejana",
+    "sex": "female",
+    "vocative": "Dejana"
+  },
+  {
+    "name": "Dajana",
+    "sex": "female",
+    "vocative": "Dajana"
+  },
+  {
+    "name": "Desanka",
+    "sex": "female",
+    "vocative": "Desanka"
+  },
+  {
+    "name": "Desa",
+    "sex": "female",
+    "vocative": "Deso"
+  },
+  {
+    "name": "Desimirka",
+    "sex": "female",
+    "vocative": "Desimirka"
+  },
+  {
+    "name": "Despina",
+    "sex": "female",
+    "vocative": "Despina"
+  },
+  {
+    "name": "Despinja",
+    "sex": "female",
+    "vocative": "Despinja"
+  },
+  {
+    "name": "Divna",
+    "sex": "female",
+    "vocative": "Divna"
+  },
+  {
+    "name": "Dikosava",
+    "sex": "female",
+    "vocative": "Dikosava"
+  },
+  {
+    "name": "Dmitra",
+    "sex": "female"
+  },
+  {
+    "name": "Dobrila",
+    "sex": "female",
+    "vocative": "Dobrila"
+  },
+  {
+    "name": "Dobrina",
+    "sex": "female",
+    "vocative": "Dobrina"
+  },
+  {
+    "name": "Dobrinka",
+    "sex": "female",
+    "vocative": "Dobrinka"
+  },
+  {
+    "name": "Dobrica",
+    "sex": "female",
+    "vocative": "Dobrice"
+  },
+  {
+    "name": "Dobrija",
+    "sex": "female",
+    "vocative": "Dobrija"
+  },
+  {
+    "name": "Dobroslava",
+    "sex": "female",
+    "vocative": "Dobroslava"
+  },
+  {
+    "name": "Dobrosava",
+    "sex": "female",
+    "vocative": "Dobrosava"
+  },
+  {
+    "name": "Dobrosavka",
+    "sex": "female",
+    "vocative": "Dobrosavka"
+  },
+  {
+    "name": "Dokna",
+    "sex": "female",
+    "vocative": "Dokna"
+  },
+  {
+    "name": "Doroteja",
+    "sex": "female",
+    "vocative": "Doroteja"
+  },
+  {
+    "name": "Dora",
+    "sex": "female",
+    "vocative": "Dora"
+  },
+  {
+    "name": "Dostana",
+    "sex": "female",
+    "vocative": "Dostana"
+  },
+  {
+    "name": "Dragica",
+    "sex": "female",
+    "vocative": "Dragice"
+  },
+  {
+    "name": "Dragana",
+    "sex": "female",
+    "vocative": "Dragana"
+  },
+  {
+    "name": "Draga",
+    "sex": "female",
+    "vocative": "Draga"
+  },
+  {
+    "name": "Draginja",
+    "sex": "female",
+    "vocative": "Draginja"
+  },
+  {
+    "name": "Dragojla",
+    "sex": "female",
+    "vocative": "Dragojla"
+  },
+  {
+    "name": "Dragija",
+    "sex": "female",
+    "vocative": "Dragija"
+  },
+  {
+    "name": "Dragomira",
+    "sex": "female",
+    "vocative": "Dragomira"
+  },
+  {
+    "name": "Dragomirka",
+    "sex": "female",
+    "vocative": "Dragomirka"
+  },
+  {
+    "name": "Dragoslava",
+    "sex": "female",
+    "vocative": "Dragoslava"
+  },
+  {
+    "name": "Dragoslavka",
+    "sex": "female",
+    "vocative": "Dragoslavka"
+  },
+  {
+    "name": "Drenka",
+    "sex": "female",
+    "vocative": "Drenka"
+  },
+  {
+    "name": "Drena",
+    "sex": "female",
+    "vocative": "Dreno"
+  },
+  {
+    "name": "Drina",
+    "sex": "female",
+    "vocative": "Drino"
+  },
+  {
+    "name": "Drinka",
+    "sex": "female",
+    "vocative": "Drinka"
+  },
+  {
+    "name": "Dubravka",
+    "sex": "female",
+    "vocative": "Dubravka"
+  },
+  {
+    "name": "Dunja",
+    "sex": "female",
+    "vocative": "Dunja"
+  },
+  {
+    "name": "Draženka",
+    "sex": "female"
+  },
+  {
+    "name": "Dušanka",
+    "sex": "female",
+    "vocative": "Dušanka"
+  },
+  {
+    "name": "Dušica",
+    "sex": "female",
+    "vocative": "Dušice"
+  },
+  {
+    "name": "Duška",
+    "sex": "female",
+    "vocative": "Duška"
+  },
+  {
+    "name": "Đenadije",
+    "sex": "male",
+    "vocative": "Đenadije"
+  },
+  {
+    "name": "Đora",
+    "sex": "male",
+    "vocative": "Đoro"
+  },
+  {
+    "name": "Đorđe",
+    "sex": "male",
+    "vocative": "Đorđe"
+  },
+  {
+    "name": "Đorđo",
+    "sex": "male",
+    "vocative": "Đorđo"
+  },
+  {
+    "name": "Đura",
+    "sex": "male",
+    "vocative": "Đuro"
+  },
+  {
+    "name": "Đuran",
+    "sex": "male",
+    "vocative": "Đurane"
+  },
+  {
+    "name": "Đukan",
+    "sex": "male",
+    "vocative": "Đukane"
+  },
+  {
+    "name": "Đurađ",
+    "sex": "male",
+    "vocative": "Đurađe"
+  },
+  {
+    "name": "Đuro",
+    "sex": "male",
+    "vocative": "Đuro"
+  },
+  {
+    "name": "Đoka",
+    "sex": "male",
+    "vocative": "Đoko"
+  },
+  {
+    "name": "Đoko",
+    "sex": "male",
+    "vocative": "Đoko"
+  },
+  {
+    "name": "Đorđije",
+    "sex": "male",
+    "vocative": "Đorđije"
+  },
+  {
+    "name": "Đuraš",
+    "sex": "male",
+    "vocative": "Đuraše"
+  },
+  {
+    "name": "Đurašin",
+    "sex": "male",
+    "vocative": "Đurašine"
+  },
+  {
+    "name": "Đuraško",
+    "sex": "male",
+    "vocative": "Đuraško"
+  },
+  {
+    "name": "Đurisav",
+    "sex": "male",
+    "vocative": "Đurisave"
+  },
+  {
+    "name": "Đurica",
+    "sex": "male",
+    "vocative": "Đurice"
+  },
+  {
+    "name": "Đuriša",
+    "sex": "male",
+    "vocative": "Đuriša"
+  },
+  {
+    "name": "Đurko",
+    "sex": "male",
+    "vocative": "Đurko"
+  },
+  {
+    "name": "Đurđe",
+    "sex": "male",
+    "vocative": "Đurđe"
+  },
+  {
+    "name": "Đurđa",
+    "sex": "female",
+    "vocative": "Đurđa"
+  },
+  {
+    "name": "Đurđica",
+    "sex": "female",
+    "vocative": "Đurđice"
+  },
+  {
+    "name": "Đurđija",
+    "sex": "female",
+    "vocative": "Đurđija"
+  },
+  {
+    "name": "Đurisava",
+    "sex": "female",
+    "vocative": "Đurisava"
+  },
+  {
+    "name": "Đurđina",
+    "sex": "female",
+    "vocative": "Đurđina"
+  },
+  {
+    "name": "Đorđina",
+    "sex": "female",
+    "vocative": "Đorđina"
+  },
+  {
+    "name": "Đurđijana",
+    "sex": "female",
+    "vocative": "Đurđijana"
+  },
+  {
+    "name": "Đurđevka",
+    "sex": "female",
+    "vocative": "Đurđevka"
+  },
+  {
+    "name": "Đuka",
+    "sex": "female",
+    "vocative": "Đuko"
+  },
+  {
+    "name": "Evgenije",
+    "sex": "male",
+    "vocative": "Evgenije"
+  },
+  {
+    "name": "Emilijan",
+    "sex": "male",
+    "vocative": "Emilijane"
+  },
+  {
+    "name": "Emilije",
+    "sex": "male",
+    "vocative": "Emilije"
+  },
+  {
+    "name": "Emil",
+    "sex": "male",
+    "vocative": "Emile"
+  },
+  {
+    "name": "Erak",
+    "sex": "male",
+    "vocative": "Erače"
+  },
+  {
+    "name": "Evan",
+    "sex": "male",
+    "vocative": "Evane"
+  },
+  {
+    "name": "Evo",
+    "sex": "male",
+    "vocative": "Evo"
+  },
+  {
+    "name": "Eva",
+    "sex": "female",
+    "vocative": "Evo"
+  },
+  {
+    "name": "Evana",
+    "sex": "female",
+    "vocative": "Evana"
+  },
+  {
+    "name": "Evanka",
+    "sex": "female",
+    "vocative": "Evanka"
+  },
+  {
+    "name": "Evica",
+    "sex": "female",
+    "vocative": "Evice"
+  },
+  {
+    "name": "Evgenija",
+    "sex": "female",
+    "vocative": "Evgenija"
+  },
+  {
+    "name": "Evdokija",
+    "sex": "female",
+    "vocative": "Evdokija"
+  },
+  {
+    "name": "Ekaterina",
+    "sex": "female",
+    "vocative": "Ekaterina"
+  },
+  {
+    "name": "Elena",
+    "sex": "female",
+    "vocative": "Elena"
+  },
+  {
+    "name": "Emilija",
+    "sex": "female",
+    "vocative": "Emilija"
+  },
+  {
+    "name": "Žarko",
+    "sex": "male",
+    "vocative": "Žarko"
+  },
+  {
+    "name": "Želimir",
+    "sex": "male",
+    "vocative": "Želimire"
+  },
+  {
+    "name": "Željko",
+    "sex": "male",
+    "vocative": "Željko"
+  },
+  {
+    "name": "Živa",
+    "sex": "male",
+    "vocative": "Živo"
+  },
+  {
+    "name": "Živica",
+    "sex": "male",
+    "vocative": "Živice"
+  },
+  {
+    "name": "Živadin",
+    "sex": "male",
+    "vocative": "Živadine"
+  },
+  {
+    "name": "Živan",
+    "sex": "male",
+    "vocative": "Živane"
+  },
+  {
+    "name": "Živanko",
+    "sex": "male",
+    "vocative": "Živanko"
+  },
+  {
+    "name": "Živko",
+    "sex": "male",
+    "vocative": "Živko"
+  },
+  {
+    "name": "Živoje",
+    "sex": "male",
+    "vocative": "Živoje"
+  },
+  {
+    "name": "Živojin",
+    "sex": "male",
+    "vocative": "Živojine"
+  },
+  {
+    "name": "Živoin",
+    "sex": "male",
+    "vocative": "Živoine"
+  },
+  {
+    "name": "Živoljub",
+    "sex": "male",
+    "vocative": "Živoljube"
+  },
+  {
+    "name": "Živomir",
+    "sex": "male",
+    "vocative": "Živomire"
+  },
+  {
+    "name": "Živorad",
+    "sex": "male",
+    "vocative": "Živorade"
+  },
+  {
+    "name": "Živoslav",
+    "sex": "male",
+    "vocative": "Živoslave"
+  },
+  {
+    "name": "Života",
+    "sex": "male",
+    "vocative": "Života"
+  },
+  {
+    "name": "Životije",
+    "sex": "male",
+    "vocative": "Životije"
+  },
+  {
+    "name": "Žika",
+    "sex": "male",
+    "vocative": "Žiko"
+  },
+  {
+    "name": "Žikica",
+    "sex": "male",
+    "vocative": "Žikice"
+  },
+  {
+    "name": "Žitomir",
+    "sex": "male",
+    "vocative": "Žitomire"
+  },
+  {
+    "name": "Žaklina",
+    "sex": "female",
+    "vocative": "Žaklina"
+  },
+  {
+    "name": "Žanka",
+    "sex": "female",
+    "vocative": "Žanka"
+  },
+  {
+    "name": "Želimirka",
+    "sex": "female",
+    "vocative": "Želimirka"
+  },
+  {
+    "name": "Željka",
+    "sex": "female",
+    "vocative": "Željka"
+  },
+  {
+    "name": "Željana",
+    "sex": "female",
+    "vocative": "Željana"
+  },
+  {
+    "name": "Živadinka",
+    "sex": "female",
+    "vocative": "Živadinka"
+  },
+  {
+    "name": "Živana",
+    "sex": "female",
+    "vocative": "Živana"
+  },
+  {
+    "name": "Živanka",
+    "sex": "female",
+    "vocative": "Živanka"
+  },
+  {
+    "name": "Živka",
+    "sex": "female",
+    "vocative": "Živka"
+  },
+  {
+    "name": "Živodarka",
+    "sex": "female",
+    "vocative": "Živodarka"
+  },
+  {
+    "name": "Živomirka",
+    "sex": "female",
+    "vocative": "Živomirka"
+  },
+  {
+    "name": "Živoratka",
+    "sex": "female",
+    "vocative": "Živoratka"
+  },
+  {
+    "name": "Živoslava",
+    "sex": "female",
+    "vocative": "Živoslava"
+  },
+  {
+    "name": "Živoslavka",
+    "sex": "female",
+    "vocative": "Živoslavka"
+  },
+  {
+    "name": "Zavida",
+    "sex": "male",
+    "vocative": "Zavida"
+  },
+  {
+    "name": "Zaviša",
+    "sex": "male",
+    "vocative": "Zaviša"
+  },
+  {
+    "name": "Zarija",
+    "sex": "male",
+    "vocative": "Zarija"
+  },
+  {
+    "name": "Zarije",
+    "sex": "male",
+    "vocative": "Zarije"
+  },
+  {
+    "name": "Zaharije",
+    "sex": "male",
+    "vocative": "Zaharije"
+  },
+  {
+    "name": "Zafir",
+    "sex": "male",
+    "vocative": "Zafire"
+  },
+  {
+    "name": "Zvezdan",
+    "sex": "male",
+    "vocative": "Zvezdane"
+  },
+  {
+    "name": "Zvjezdan",
+    "sex": "male",
+    "vocative": "Zvjezdane"
+  },
+  {
+    "name": "Zvezdodrag",
+    "sex": "male",
+    "vocative": "Zvezdodraže"
+  },
+  {
+    "name": "Zvezdoslav",
+    "sex": "male",
+    "vocative": "Zvezdoslave"
+  },
+  {
+    "name": "Zvonimir",
+    "sex": "male",
+    "vocative": "Zvonimire"
+  },
+  {
+    "name": "Zvonko",
+    "sex": "male",
+    "vocative": "Zvonko"
+  },
+  {
+    "name": "Zdravko",
+    "sex": "male",
+    "vocative": "Zdravko"
+  },
+  {
+    "name": "Zdraviša",
+    "sex": "male",
+    "vocative": "Zdraviša"
+  },
+  {
+    "name": "Zlatan",
+    "sex": "male",
+    "vocative": "Zlatane"
+  },
+  {
+    "name": "Zlatko",
+    "sex": "male",
+    "vocative": "Zlatko"
+  },
+  {
+    "name": "Zlatoje",
+    "sex": "male",
+    "vocative": "Zlatoje"
+  },
+  {
+    "name": "Zlatibor",
+    "sex": "male",
+    "vocative": "Zlatibore"
+  },
+  {
+    "name": "Zlatomir",
+    "sex": "male",
+    "vocative": "Zlatomire"
+  },
+  {
+    "name": "Zlatimir",
+    "sex": "male",
+    "vocative": "Zlatimire"
+  },
+  {
+    "name": "Zlatosav",
+    "sex": "male",
+    "vocative": "Zlatosave"
+  },
+  {
+    "name": "Zoran",
+    "sex": "male",
+    "vocative": "Zorane"
+  },
+  {
+    "name": "Zrinko",
+    "sex": "male",
+    "vocative": "Zrinko"
+  },
+  {
+    "name": "Zagorka",
+    "sex": "female",
+    "vocative": "Zagorka"
+  },
+  {
+    "name": "Zaga",
+    "sex": "female",
+    "vocative": "Zago"
+  },
+  {
+    "name": "Zvezdana",
+    "sex": "female",
+    "vocative": "Zvezdana"
+  },
+  {
+    "name": "Zvjezdana",
+    "sex": "female",
+    "vocative": "Zvjezdana"
+  },
+  {
+    "name": "Zvonka",
+    "sex": "female",
+    "vocative": "Zvonka"
+  },
+  {
+    "name": "Zdravka",
+    "sex": "female",
+    "vocative": "Zdravka"
+  },
+  {
+    "name": "Zlata",
+    "sex": "female",
+    "vocative": "Zlato"
+  },
+  {
+    "name": "Zlatica",
+    "sex": "female",
+    "vocative": "Zlatice"
+  },
+  {
+    "name": "Zlatka",
+    "sex": "female",
+    "vocative": "Zlatka"
+  },
+  {
+    "name": "Zlatana",
+    "sex": "female",
+    "vocative": "Zlatana"
+  },
+  {
+    "name": "Zlatanka",
+    "sex": "female",
+    "vocative": "Zlatanka"
+  },
+  {
+    "name": "Zlatija",
+    "sex": "female",
+    "vocative": "Zlatija"
+  },
+  {
+    "name": "Zlatinka",
+    "sex": "female",
+    "vocative": "Zlatinka"
+  },
+  {
+    "name": "Zlatiborka",
+    "sex": "female",
+    "vocative": "Zlatiborka"
+  },
+  {
+    "name": "Zlatomirka",
+    "sex": "female",
+    "vocative": "Zlatomirka"
+  },
+  {
+    "name": "Zora",
+    "sex": "female",
+    "vocative": "Zoro"
+  },
+  {
+    "name": "Zorica",
+    "sex": "female",
+    "vocative": "Zorice"
+  },
+  {
+    "name": "Zorana",
+    "sex": "female",
+    "vocative": "Zorana"
+  },
+  {
+    "name": "Zorka",
+    "sex": "female",
+    "vocative": "Zorka"
+  },
+  {
+    "name": "Zoranka",
+    "sex": "female",
+    "vocative": "Zoranka"
+  },
+  {
+    "name": "Zorislava",
+    "sex": "female",
+    "vocative": "Zorislava"
+  },
+  {
+    "name": "Zrinka",
+    "sex": "female",
+    "vocative": "Zrinka"
+  },
+  {
+    "name": "Ivan",
+    "sex": "male",
+    "vocative": "Ivane"
+  },
+  {
+    "name": "Ivica",
+    "sex": "male",
+    "vocative": "Ivice"
+  },
+  {
+    "name": "Iva",
+    "sex": "male",
+    "vocative": "Ivo"
+  },
+  {
+    "name": "Ivo",
+    "sex": "male",
+    "vocative": "Ivo"
+  },
+  {
+    "name": "Ivko",
+    "sex": "male",
+    "vocative": "Ivko"
+  },
+  {
+    "name": "Ivaniš",
+    "sex": "male",
+    "vocative": "Ivaniše"
+  },
+  {
+    "name": "Ignjat",
+    "sex": "male",
+    "vocative": "Ignjate"
+  },
+  {
+    "name": "Ignjatije",
+    "sex": "male",
+    "vocative": "Ignjatije"
+  },
+  {
+    "name": "Igor",
+    "sex": "male",
+    "vocative": "Igore"
+  },
+  {
+    "name": "Ilija",
+    "sex": "male",
+    "vocative": "Ilija"
+  },
+  {
+    "name": "Ilinko",
+    "sex": "male",
+    "vocative": "Ilinko"
+  },
+  {
+    "name": "Isaija",
+    "sex": "male",
+    "vocative": "Isaija"
+  },
+  {
+    "name": "Isailo",
+    "sex": "male",
+    "vocative": "Isailo"
+  },
+  {
+    "name": "Isak",
+    "sex": "male",
+    "vocative": "Isače"
+  },
+  {
+    "name": "Isidor",
+    "sex": "male",
+    "vocative": "Isidore"
+  },
+  {
+    "name": "Ismail",
+    "sex": "male",
+    "vocative": "Ismaile"
+  },
+  {
+    "name": "Iva",
+    "sex": "female",
+    "vocative": "Ivo"
+  },
+  {
+    "name": "Ivana",
+    "sex": "female",
+    "vocative": "Ivana"
+  },
+  {
+    "name": "Ivanka",
+    "sex": "female",
+    "vocative": "Ivanka"
+  },
+  {
+    "name": "Ivka",
+    "sex": "female",
+    "vocative": "Ivka"
+  },
+  {
+    "name": "Ivona",
+    "sex": "female",
+    "vocative": "Ivona"
+  },
+  {
+    "name": "Ikonija",
+    "sex": "female",
+    "vocative": "Ikonija"
+  },
+  {
+    "name": "Ilinka",
+    "sex": "female",
+    "vocative": "Ilinka"
+  },
+  {
+    "name": "Ilina",
+    "sex": "female",
+    "vocative": "Ilina"
+  },
+  {
+    "name": "Irena",
+    "sex": "female",
+    "vocative": "Irena"
+  },
+  {
+    "name": "Irina",
+    "sex": "female",
+    "vocative": "Irina"
+  },
+  {
+    "name": "Isidora",
+    "sex": "female",
+    "vocative": "Isidora"
+  },
+  {
+    "name": "Iskra",
+    "sex": "female",
+    "vocative": "Iskra"
+  },
+  {
+    "name": "Jablan",
+    "sex": "male",
+    "vocative": "Jablane"
+  },
+  {
+    "name": "Javorko",
+    "sex": "male",
+    "vocative": "Javorko"
+  },
+  {
+    "name": "Jagoš",
+    "sex": "male",
+    "vocative": "Jagoše"
+  },
+  {
+    "name": "Jadranko",
+    "sex": "male",
+    "vocative": "Jadranko"
+  },
+  {
+    "name": "Jakov",
+    "sex": "male",
+    "vocative": "Jakove"
+  },
+  {
+    "name": "Jakša",
+    "sex": "male",
+    "vocative": "Jakša"
+  },
+  {
+    "name": "Jandrija",
+    "sex": "male",
+    "vocative": "Jandrija"
+  },
+  {
+    "name": "Jandre",
+    "sex": "male",
+    "vocative": "Jandre"
+  },
+  {
+    "name": "Janićije",
+    "sex": "male",
+    "vocative": "Janićije"
+  },
+  {
+    "name": "Janko",
+    "sex": "male",
+    "vocative": "Janko"
+  },
+  {
+    "name": "Janča",
+    "sex": "male",
+    "vocative": "Janča"
+  },
+  {
+    "name": "Jaroslav",
+    "sex": "male",
+    "vocative": "Jaroslave"
+  },
+  {
+    "name": "Jasen",
+    "sex": "male",
+    "vocative": "Jasene"
+  },
+  {
+    "name": "Jasenko",
+    "sex": "male",
+    "vocative": "Jasenko"
+  },
+  {
+    "name": "Jevrem",
+    "sex": "male",
+    "vocative": "Jevreme"
+  },
+  {
+    "name": "Jevtimije",
+    "sex": "male",
+    "vocative": "Jevtimije"
+  },
+  {
+    "name": "Jevta",
+    "sex": "male",
+    "vocative": "Jevto"
+  },
+  {
+    "name": "Jevto",
+    "sex": "male",
+    "vocative": "Jevto"
+  },
+  {
+    "name": "Jevtan",
+    "sex": "male",
+    "vocative": "Jevtane"
+  },
+  {
+    "name": "Jeftimije",
+    "sex": "male",
+    "vocative": "Jeftimije"
+  },
+  {
+    "name": "Jezdimir",
+    "sex": "male",
+    "vocative": "Jezdimire"
+  },
+  {
+    "name": "Jezda",
+    "sex": "male",
+    "vocative": "Jezdo"
+  },
+  {
+    "name": "Jelašin",
+    "sex": "male",
+    "vocative": "Jelašine"
+  },
+  {
+    "name": "Jelen",
+    "sex": "male",
+    "vocative": "Jelene"
+  },
+  {
+    "name": "Jelenko",
+    "sex": "male",
+    "vocative": "Jelenko"
+  },
+  {
+    "name": "Jelisav",
+    "sex": "male",
+    "vocative": "Jelisave"
+  },
+  {
+    "name": "Jelisije",
+    "sex": "male",
+    "vocative": "Jelisije"
+  },
+  {
+    "name": "Jeremija",
+    "sex": "male",
+    "vocative": "Jeremija"
+  },
+  {
+    "name": "Jerko",
+    "sex": "male",
+    "vocative": "Jerko"
+  },
+  {
+    "name": "Jerotije",
+    "sex": "male",
+    "vocative": "Jerotije"
+  },
+  {
+    "name": "Jesenko",
+    "sex": "male",
+    "vocative": "Jesenko"
+  },
+  {
+    "name": "Joakim",
+    "sex": "male",
+    "vocative": "Joakime"
+  },
+  {
+    "name": "Jovan",
+    "sex": "male",
+    "vocative": "Jovane"
+  },
+  {
+    "name": "Jovica",
+    "sex": "male",
+    "vocative": "Jovice"
+  },
+  {
+    "name": "Joviša",
+    "sex": "male",
+    "vocative": "Joviša"
+  },
+  {
+    "name": "Jova",
+    "sex": "male",
+    "vocative": "Jovo"
+  },
+  {
+    "name": "Jovo",
+    "sex": "male",
+    "vocative": "Jovo"
+  },
+  {
+    "name": "Jovko",
+    "sex": "male",
+    "vocative": "Jovko"
+  },
+  {
+    "name": "Joko",
+    "sex": "male",
+    "vocative": "Joko"
+  },
+  {
+    "name": "Jokan",
+    "sex": "male",
+    "vocative": "Jokane"
+  },
+  {
+    "name": "Joksim",
+    "sex": "male",
+    "vocative": "Joksime"
+  },
+  {
+    "name": "Jordan",
+    "sex": "male",
+    "vocative": "Jordane"
+  },
+  {
+    "name": "Josif",
+    "sex": "male",
+    "vocative": "Josife"
+  },
+  {
+    "name": "Josip",
+    "sex": "male",
+    "vocative": "Josipe"
+  },
+  {
+    "name": "Jugoljub",
+    "sex": "male",
+    "vocative": "Jugoljube"
+  },
+  {
+    "name": "Jugomir",
+    "sex": "male",
+    "vocative": "Jugomire"
+  },
+  {
+    "name": "Jugoslav",
+    "sex": "male",
+    "vocative": "Jugoslave"
+  },
+  {
+    "name": "Julijan",
+    "sex": "male",
+    "vocative": "Julijane"
+  },
+  {
+    "name": "Junoša",
+    "sex": "male",
+    "vocative": "Junoša"
+  },
+  {
+    "name": "Juriša",
+    "sex": "male",
+    "vocative": "Juriša"
+  },
+  {
+    "name": "Juroš",
+    "sex": "male",
+    "vocative": "Juroše"
+  },
+  {
+    "name": "Justin",
+    "sex": "male",
+    "vocative": "Justine"
+  },
+  {
+    "name": "Javorka",
+    "sex": "female",
+    "vocative": "Javorka"
+  },
+  {
+    "name": "Jaglika",
+    "sex": "female",
+    "vocative": "Jaglika"
+  },
+  {
+    "name": "Jagoda",
+    "sex": "female",
+    "vocative": "Jagoda"
+  },
+  {
+    "name": "Jagodinka",
+    "sex": "female",
+    "vocative": "Jagodinka"
+  },
+  {
+    "name": "Jadranka",
+    "sex": "female",
+    "vocative": "Jadranka"
+  },
+  {
+    "name": "Jana",
+    "sex": "female",
+    "vocative": "Jano"
+  },
+  {
+    "name": "Janja",
+    "sex": "female",
+    "vocative": "Janjo"
+  },
+  {
+    "name": "Janica",
+    "sex": "female",
+    "vocative": "Janice"
+  },
+  {
+    "name": "Janovka",
+    "sex": "female",
+    "vocative": "Janovka"
+  },
+  {
+    "name": "Jasmina",
+    "sex": "female",
+    "vocative": "Jasmina"
+  },
+  {
+    "name": "Jasminka",
+    "sex": "female",
+    "vocative": "Jasminka"
+  },
+  {
+    "name": "Jasna",
+    "sex": "female",
+    "vocative": "Jasna"
+  },
+  {
+    "name": "Jeva",
+    "sex": "female",
+    "vocative": "Jevo"
+  },
+  {
+    "name": "Jevdokija",
+    "sex": "female",
+    "vocative": "Jevdokija"
+  },
+  {
+    "name": "Jevrosima",
+    "sex": "female",
+    "vocative": "Jevrosima"
+  },
+  {
+    "name": "Jegda",
+    "sex": "female",
+    "vocative": "Jegdo"
+  },
+  {
+    "name": "Jela",
+    "sex": "female",
+    "vocative": "Jelo"
+  },
+  {
+    "name": "Jelica",
+    "sex": "female",
+    "vocative": "Jelice"
+  },
+  {
+    "name": "Jelka",
+    "sex": "female",
+    "vocative": "Jelka"
+  },
+  {
+    "name": "Jeka",
+    "sex": "female",
+    "vocative": "Jeko"
+  },
+  {
+    "name": "Jelača",
+    "sex": "female",
+    "vocative": "Jelača"
+  },
+  {
+    "name": "Jelena",
+    "sex": "female",
+    "vocative": "Jelena"
+  },
+  {
+    "name": "Jelenka",
+    "sex": "female",
+    "vocative": "Jelenka"
+  },
+  {
+    "name": "Jelisava",
+    "sex": "female",
+    "vocative": "Jelisava"
+  },
+  {
+    "name": "Jelisaveta",
+    "sex": "female",
+    "vocative": "Jelisaveta"
+  },
+  {
+    "name": "Jelisavka",
+    "sex": "female",
+    "vocative": "Jelisavka"
+  },
+  {
+    "name": "Jerina",
+    "sex": "female",
+    "vocative": "Jerina"
+  },
+  {
+    "name": "Jefimija",
+    "sex": "female",
+    "vocative": "Jefimija"
+  },
+  {
+    "name": "Ješa",
+    "sex": "female",
+    "vocative": "Ješo"
+  },
+  {
+    "name": "Jovana",
+    "sex": "female",
+    "vocative": "Jovana"
+  },
+  {
+    "name": "Jovanka",
+    "sex": "female",
+    "vocative": "Jovanka"
+  },
+  {
+    "name": "Jovka",
+    "sex": "female",
+    "vocative": "Jovka"
+  },
+  {
+    "name": "Joka",
+    "sex": "female",
+    "vocative": "Joko"
+  },
+  {
+    "name": "Jorgovanka",
+    "sex": "female",
+    "vocative": "Jorgovanka"
+  },
+  {
+    "name": "Jordanka",
+    "sex": "female",
+    "vocative": "Jordanka"
+  },
+  {
+    "name": "Julija",
+    "sex": "female",
+    "vocative": "Julija"
+  },
+  {
+    "name": "Julijana",
+    "sex": "female",
+    "vocative": "Julijana"
+  },
+  {
+    "name": "Julka",
+    "sex": "female",
+    "vocative": "Julka"
+  },
+  {
+    "name": "Jula",
+    "sex": "female",
+    "vocative": "Julo"
+  },
+  {
+    "name": "Julkica",
+    "sex": "female",
+    "vocative": "Julkice"
+  },
+  {
+    "name": "Justina",
+    "sex": "female",
+    "vocative": "Justina"
+  },
+  {
+    "name": "Kažimir",
+    "sex": "male",
+    "vocative": "Kažimire"
+  },
+  {
+    "name": "Kazimir",
+    "sex": "male",
+    "vocative": "Kazimire"
+  },
+  {
+    "name": "Kalin",
+    "sex": "male",
+    "vocative": "Kaline"
+  },
+  {
+    "name": "Kamenko",
+    "sex": "male",
+    "vocative": "Kamenko"
+  },
+  {
+    "name": "Kiprijan",
+    "sex": "male",
+    "vocative": "Kiprijane"
+  },
+  {
+    "name": "Kirilo",
+    "sex": "male",
+    "vocative": "Kirilo"
+  },
+  {
+    "name": "Kitan",
+    "sex": "male",
+    "vocative": "Kitane"
+  },
+  {
+    "name": "Koviljko",
+    "sex": "male",
+    "vocative": "Koviljko"
+  },
+  {
+    "name": "Kozma",
+    "sex": "male",
+    "vocative": "Kozma"
+  },
+  {
+    "name": "Kojadin",
+    "sex": "male",
+    "vocative": "Kojadine"
+  },
+  {
+    "name": "Kojčin",
+    "sex": "male",
+    "vocative": "Kojčine"
+  },
+  {
+    "name": "Kokan",
+    "sex": "male",
+    "vocative": "Kokane"
+  },
+  {
+    "name": "Komnen",
+    "sex": "male",
+    "vocative": "Komnene"
+  },
+  {
+    "name": "Konstantin",
+    "sex": "male",
+    "vocative": "Konstantine"
+  },
+  {
+    "name": "Kostadin",
+    "sex": "male",
+    "vocative": "Kostadine"
+  },
+  {
+    "name": "Kosta",
+    "sex": "male",
+    "vocative": "Kosta"
+  },
+  {
+    "name": "Kornelije",
+    "sex": "male",
+    "vocative": "Kornelije"
+  },
+  {
+    "name": "Koča",
+    "sex": "male",
+    "vocative": "Koča"
+  },
+  {
+    "name": "Kraguj",
+    "sex": "male",
+    "vocative": "Kraguje"
+  },
+  {
+    "name": "Kraisav",
+    "sex": "male",
+    "vocative": "Kraisave"
+  },
+  {
+    "name": "Krajčin",
+    "sex": "male",
+    "vocative": "Krajčine"
+  },
+  {
+    "name": "Krasimir",
+    "sex": "male",
+    "vocative": "Krasimire"
+  },
+  {
+    "name": "Krasoje",
+    "sex": "male",
+    "vocative": "Krasoje"
+  },
+  {
+    "name": "Krsman",
+    "sex": "male",
+    "vocative": "Krsmane"
+  },
+  {
+    "name": "Krsto",
+    "sex": "male",
+    "vocative": "Krsto"
+  },
+  {
+    "name": "Krsta",
+    "sex": "male",
+    "vocative": "Krsto"
+  },
+  {
+    "name": "Krstan",
+    "sex": "male",
+    "vocative": "Krstane"
+  },
+  {
+    "name": "Krstivoje",
+    "sex": "male",
+    "vocative": "Krstivoje"
+  },
+  {
+    "name": "Krstimir",
+    "sex": "male",
+    "vocative": "Krstimire"
+  },
+  {
+    "name": "Krstomir",
+    "sex": "male",
+    "vocative": "Krstomire"
+  },
+  {
+    "name": "Krunislav",
+    "sex": "male",
+    "vocative": "Krunislave"
+  },
+  {
+    "name": "Krunoslav",
+    "sex": "male",
+    "vocative": "Krunoslave"
+  },
+  {
+    "name": "Kuzman",
+    "sex": "male",
+    "vocative": "Kuzmane"
+  },
+  {
+    "name": "Kumodrag",
+    "sex": "male",
+    "vocative": "Kumodraže"
+  },
+  {
+    "name": "Kadivka",
+    "sex": "female",
+    "vocative": "Kadivka"
+  },
+  {
+    "name": "Kazimira",
+    "sex": "female",
+    "vocative": "Kazimira"
+  },
+  {
+    "name": "Kalina",
+    "sex": "female",
+    "vocative": "Kalina"
+  },
+  {
+    "name": "Kalinka",
+    "sex": "female",
+    "vocative": "Kalinka"
+  },
+  {
+    "name": "Kasija",
+    "sex": "female",
+    "vocative": "Kasija"
+  },
+  {
+    "name": "Katarina",
+    "sex": "female",
+    "vocative": "Katarina"
+  },
+  {
+    "name": "Kata",
+    "sex": "female",
+    "vocative": "Kato"
+  },
+  {
+    "name": "Katica",
+    "sex": "female",
+    "vocative": "Katice"
+  },
+  {
+    "name": "Klara",
+    "sex": "female",
+    "vocative": "Klaro"
+  },
+  {
+    "name": "Kovana",
+    "sex": "female",
+    "vocative": "Kovana"
+  },
+  {
+    "name": "Koviljka",
+    "sex": "female",
+    "vocative": "Koviljka"
+  },
+  {
+    "name": "Kovina",
+    "sex": "female",
+    "vocative": "Kovina"
+  },
+  {
+    "name": "Kovinka",
+    "sex": "female",
+    "vocative": "Kovinka"
+  },
+  {
+    "name": "Kojadinka",
+    "sex": "female",
+    "vocative": "Kojadinka"
+  },
+  {
+    "name": "Komnenija",
+    "sex": "female",
+    "vocative": "Komnenija"
+  },
+  {
+    "name": "Kosana",
+    "sex": "female",
+    "vocative": "Kosana"
+  },
+  {
+    "name": "Kosanka",
+    "sex": "female",
+    "vocative": "Kosanka"
+  },
+  {
+    "name": "Kosara",
+    "sex": "female",
+    "vocative": "Kosara"
+  },
+  {
+    "name": "Kosovka",
+    "sex": "female",
+    "vocative": "Kosovka"
+  },
+  {
+    "name": "Kosa",
+    "sex": "female",
+    "vocative": "Koso"
+  },
+  {
+    "name": "Kostadina",
+    "sex": "female",
+    "vocative": "Kostadina"
+  },
+  {
+    "name": "Kostadinka",
+    "sex": "female",
+    "vocative": "Kostadinka"
+  },
+  {
+    "name": "Koštana",
+    "sex": "female",
+    "vocative": "Koštana"
+  },
+  {
+    "name": "Kraisava",
+    "sex": "female",
+    "vocative": "Kraislava"
+  },
+  {
+    "name": "Krainka",
+    "sex": "female",
+    "vocative": "Krainka"
+  },
+  {
+    "name": "Kristina",
+    "sex": "female",
+    "vocative": "Kristina"
+  },
+  {
+    "name": "Krstina",
+    "sex": "female",
+    "vocative": "Krstina"
+  },
+  {
+    "name": "Krsmanija",
+    "sex": "female",
+    "vocative": "Krsmanija"
+  },
+  {
+    "name": "Krstana",
+    "sex": "female",
+    "vocative": "Krstana"
+  },
+  {
+    "name": "Krsjana",
+    "sex": "female",
+    "vocative": "Krsjana"
+  },
+  {
+    "name": "Krstinja",
+    "sex": "female",
+    "vocative": "Krstinja"
+  },
+  {
+    "name": "Kruna",
+    "sex": "female",
+    "vocative": "Kruno"
+  },
+  {
+    "name": "Krunislava",
+    "sex": "female",
+    "vocative": "Krunislava"
+  },
+  {
+    "name": "Krunislavka",
+    "sex": "female",
+    "vocative": "Krunislavka"
+  },
+  {
+    "name": "Krunoslava",
+    "sex": "female",
+    "vocative": "Krunislava"
+  },
+  {
+    "name": "Krunoslavka",
+    "sex": "female",
+    "vocative": "Krunoslavka"
+  },
+  {
+    "name": "Ksenija",
+    "sex": "female",
+    "vocative": "Ksenija"
+  },
+  {
+    "name": "Labud",
+    "sex": "male",
+    "vocative": "Labude"
+  },
+  {
+    "name": "Lazar",
+    "sex": "male",
+    "vocative": "Lazare"
+  },
+  {
+    "name": "Laza",
+    "sex": "male",
+    "vocative": "Lazo"
+  },
+  {
+    "name": "Lazo",
+    "sex": "male",
+    "vocative": "Lazo"
+  },
+  {
+    "name": "Laka",
+    "sex": "male",
+    "vocative": "Lako"
+  },
+  {
+    "name": "Lako",
+    "sex": "male",
+    "vocative": "Lako"
+  },
+  {
+    "name": "Laketa",
+    "sex": "male",
+    "vocative": "Laketa"
+  },
+  {
+    "name": "Lale",
+    "sex": "male",
+    "vocative": "Lale"
+  },
+  {
+    "name": "Ležimir",
+    "sex": "male",
+    "vocative": "Ležimire"
+  },
+  {
+    "name": "Lepoje",
+    "sex": "male",
+    "vocative": "Lepoje"
+  },
+  {
+    "name": "Lepomir",
+    "sex": "male",
+    "vocative": "Lepomire"
+  },
+  {
+    "name": "Leposlav",
+    "sex": "male",
+    "vocative": "Leposlave"
+  },
+  {
+    "name": "Lozan",
+    "sex": "male",
+    "vocative": "Lozane"
+  },
+  {
+    "name": "Lola",
+    "sex": "male",
+    "vocative": "Lolo"
+  },
+  {
+    "name": "Luka",
+    "sex": "male",
+    "vocative": "Luka"
+  },
+  {
+    "name": "Lujo",
+    "sex": "male",
+    "vocative": "Lujo"
+  },
+  {
+    "name": "Lana",
+    "sex": "female",
+    "vocative": "Lano"
+  },
+  {
+    "name": "Lara",
+    "sex": "female",
+    "vocative": "Laro"
+  },
+  {
+    "name": "Latinka",
+    "sex": "female",
+    "vocative": "Latinka"
+  },
+  {
+    "name": "Lata",
+    "sex": "female",
+    "vocative": "Lato"
+  },
+  {
+    "name": "Lela",
+    "sex": "female",
+    "vocative": "Lela"
+  },
+  {
+    "name": "Lelica",
+    "sex": "female"
+  },
+  {
+    "name": "Lena",
+    "sex": "female",
+    "vocative": "Leno"
+  },
+  {
+    "name": "Lenka",
+    "sex": "female",
+    "vocative": "Lenka"
+  },
+  {
+    "name": "Leonida",
+    "sex": "female",
+    "vocative": "Leonida"
+  },
+  {
+    "name": "Leonora",
+    "sex": "female",
+    "vocative": "Leonora"
+  },
+  {
+    "name": "Lepa",
+    "sex": "female",
+    "vocative": "Lepa"
+  },
+  {
+    "name": "Leposava",
+    "sex": "female",
+    "vocative": "Leposava"
+  },
+  {
+    "name": "Lidija",
+    "sex": "female",
+    "vocative": "Lidija"
+  },
+  {
+    "name": "Liza",
+    "sex": "female",
+    "vocative": "Liza"
+  },
+  {
+    "name": "Lilijana",
+    "sex": "female",
+    "vocative": "Ljiljana"
+  },
+  {
+    "name": "Lila",
+    "sex": "female",
+    "vocative": "Lila"
+  },
+  {
+    "name": "Lozana",
+    "sex": "female",
+    "vocative": "Lozana"
+  },
+  {
+    "name": "Lozanka",
+    "sex": "female",
+    "vocative": "Lozanka"
+  },
+  {
+    "name": "Lozinka",
+    "sex": "female",
+    "vocative": "Lozinka"
+  },
+  {
+    "name": "Loza",
+    "sex": "female",
+    "vocative": "Lozo"
+  },
+  {
+    "name": "Lola",
+    "sex": "female",
+    "vocative": "Lolo"
+  },
+  {
+    "name": "Luna",
+    "sex": "female",
+    "vocative": "Luna"
+  },
+  {
+    "name": "Lucija",
+    "sex": "female",
+    "vocative": "Lucija"
+  },
+  {
+    "name": "Lučija",
+    "sex": "female",
+    "vocative": "Lučija"
+  },
+  {
+    "name": "Luča",
+    "sex": "female",
+    "vocative": "Luča"
+  },
+  {
+    "name": "Ljiljan",
+    "sex": "male",
+    "vocative": "Ljiljane"
+  },
+  {
+    "name": "Ljuban",
+    "sex": "male",
+    "vocative": "Ljubane"
+  },
+  {
+    "name": "Ljubinko",
+    "sex": "male",
+    "vocative": "Ljubinko"
+  },
+  {
+    "name": "Ljubo",
+    "sex": "male",
+    "vocative": "Ljubo"
+  },
+  {
+    "name": "Ljubiša",
+    "sex": "male",
+    "vocative": "Ljubiša"
+  },
+  {
+    "name": "Ljubivoje",
+    "sex": "male",
+    "vocative": "Ljubivoje"
+  },
+  {
+    "name": "Ljuboje",
+    "sex": "male",
+    "vocative": "Ljuboje"
+  },
+  {
+    "name": "Ljuboja",
+    "sex": "male",
+    "vocative": "Ljuboje"
+  },
+  {
+    "name": "Ljuben",
+    "sex": "male",
+    "vocative": "Ljubene"
+  },
+  {
+    "name": "Ljubenko",
+    "sex": "male",
+    "vocative": "Ljubenko"
+  },
+  {
+    "name": "Ljupko",
+    "sex": "male",
+    "vocative": "Ljupko"
+  },
+  {
+    "name": "Ljubislav",
+    "sex": "male",
+    "vocative": "Ljubislave"
+  },
+  {
+    "name": "Ljubisav",
+    "sex": "male",
+    "vocative": "Ljubisave"
+  },
+  {
+    "name": "Ljubobrat",
+    "sex": "male",
+    "vocative": "Ljubobrate"
+  },
+  {
+    "name": "Ljubodrag",
+    "sex": "male",
+    "vocative": "Ljubodraže"
+  },
+  {
+    "name": "Ljubomir",
+    "sex": "male",
+    "vocative": "Ljubomire"
+  },
+  {
+    "name": "Ljepava",
+    "sex": "female",
+    "vocative": "Ljepava"
+  },
+  {
+    "name": "Ljeposava",
+    "sex": "female",
+    "vocative": "Ljeposava"
+  },
+  {
+    "name": "Ljiljana",
+    "sex": "female",
+    "vocative": "Ljiljana"
+  },
+  {
+    "name": "Ljilja",
+    "sex": "female",
+    "vocative": "Ljiljo"
+  },
+  {
+    "name": "Ljubica",
+    "sex": "female",
+    "vocative": "Ljubice"
+  },
+  {
+    "name": "Ljuba",
+    "sex": "female",
+    "vocative": "Ljubo"
+  },
+  {
+    "name": "Ljubina",
+    "sex": "female",
+    "vocative": "Ljubina"
+  },
+  {
+    "name": "Ljubinka",
+    "sex": "female",
+    "vocative": "Ljubinka"
+  },
+  {
+    "name": "Ljubisavka",
+    "sex": "female",
+    "vocative": "Ljubisavka"
+  },
+  {
+    "name": "Ljubomirka",
+    "sex": "female",
+    "vocative": "Ljubomirka"
+  },
+  {
+    "name": "Ljubosava",
+    "sex": "female",
+    "vocative": "Ljubosava"
+  },
+  {
+    "name": "Ljupka",
+    "sex": "female",
+    "vocative": "Ljupka"
+  },
+  {
+    "name": "Mavren",
+    "sex": "male",
+    "vocative": "Mavrene"
+  },
+  {
+    "name": "Maksim",
+    "sex": "male",
+    "vocative": "Maksime"
+  },
+  {
+    "name": "Maksimilijan",
+    "sex": "male",
+    "vocative": "Maksimilijane"
+  },
+  {
+    "name": "Maleta",
+    "sex": "male",
+    "vocative": "Maleta"
+  },
+  {
+    "name": "Maleš",
+    "sex": "male",
+    "vocative": "Maleše"
+  },
+  {
+    "name": "Mališa",
+    "sex": "male",
+    "vocative": "Mališa"
+  },
+  {
+    "name": "Manojlo",
+    "sex": "male",
+    "vocative": "Manojlo"
+  },
+  {
+    "name": "Mane",
+    "sex": "male",
+    "vocative": "Mane"
+  },
+  {
+    "name": "Marinko",
+    "sex": "male",
+    "vocative": "Marinko"
+  },
+  {
+    "name": "Marislav",
+    "sex": "male",
+    "vocative": "Marislave"
+  },
+  {
+    "name": "Marisav",
+    "sex": "male",
+    "vocative": "Marisave"
+  },
+  {
+    "name": "Marjan",
+    "sex": "male",
+    "vocative": "Marjane"
+  },
+  {
+    "name": "Marko",
+    "sex": "male",
+    "vocative": "Marko"
+  },
+  {
+    "name": "Martin",
+    "sex": "male",
+    "vocative": "Martine"
+  },
+  {
+    "name": "Matija",
+    "sex": "male",
+    "vocative": "Matija"
+  },
+  {
+    "name": "Matijaš",
+    "sex": "male",
+    "vocative": "Matijaše"
+  },
+  {
+    "name": "Mateja",
+    "sex": "male",
+    "vocative": "Mateja"
+  },
+  {
+    "name": "Matej",
+    "sex": "male",
+    "vocative": "Matej"
+  },
+  {
+    "name": "Mato",
+    "sex": "male",
+    "vocative": "Mato"
+  },
+  {
+    "name": "Mašan",
+    "sex": "male",
+    "vocative": "Mašane"
+  },
+  {
+    "name": "Maško",
+    "sex": "male",
+    "vocative": "Maško"
+  },
+  {
+    "name": "Medak",
+    "sex": "male",
+    "vocative": "Medače"
+  },
+  {
+    "name": "Mijak",
+    "sex": "male",
+    "vocative": "Mijače"
+  },
+  {
+    "name": "Mijan",
+    "sex": "male",
+    "vocative": "Mijane"
+  },
+  {
+    "name": "Mijat",
+    "sex": "male",
+    "vocative": "Mijate"
+  },
+  {
+    "name": "Mija",
+    "sex": "male",
+    "vocative": "Mijo"
+  },
+  {
+    "name": "Mijo",
+    "sex": "male",
+    "vocative": "Mijo"
+  },
+  {
+    "name": "Mijobrat",
+    "sex": "male",
+    "vocative": "Mijobrate"
+  },
+  {
+    "name": "Mikan",
+    "sex": "male",
+    "vocative": "Mikane"
+  },
+  {
+    "name": "Mikonja",
+    "sex": "male",
+    "vocative": "Mikonja"
+  },
+  {
+    "name": "Mikoš",
+    "sex": "male",
+    "vocative": "Mikoše"
+  },
+  {
+    "name": "Miladin",
+    "sex": "male",
+    "vocative": "Miladine"
+  },
+  {
+    "name": "Milak",
+    "sex": "male",
+    "vocative": "Milače"
+  },
+  {
+    "name": "Milan",
+    "sex": "male",
+    "vocative": "Milane"
+  },
+  {
+    "name": "Milanko",
+    "sex": "male",
+    "vocative": "Milanko"
+  },
+  {
+    "name": "Milat",
+    "sex": "male",
+    "vocative": "Milate"
+  },
+  {
+    "name": "Milaš",
+    "sex": "male",
+    "vocative": "Milaše"
+  },
+  {
+    "name": "Milašin",
+    "sex": "male",
+    "vocative": "Milašine"
+  },
+  {
+    "name": "Mile",
+    "sex": "male",
+    "vocative": "Mile"
+  },
+  {
+    "name": "Milo",
+    "sex": "male",
+    "vocative": "Milo"
+  },
+  {
+    "name": "Mili",
+    "sex": "male",
+    "vocative": "Mili"
+  },
+  {
+    "name": "Milen",
+    "sex": "male",
+    "vocative": "Milene"
+  },
+  {
+    "name": "Milenko",
+    "sex": "male",
+    "vocative": "Milenko"
+  },
+  {
+    "name": "Milentije",
+    "sex": "male",
+    "vocative": "Milentije"
+  },
+  {
+    "name": "Mileta",
+    "sex": "male",
+    "vocative": "Mileta"
+  },
+  {
+    "name": "Mileš",
+    "sex": "male",
+    "vocative": "Mileše"
+  },
+  {
+    "name": "Milivoje",
+    "sex": "male",
+    "vocative": "Milivoje"
+  },
+  {
+    "name": "Milivoj",
+    "sex": "male",
+    "vocative": "Milivoje"
+  },
+  {
+    "name": "Milija",
+    "sex": "male",
+    "vocative": "Milija"
+  },
+  {
+    "name": "Milijan",
+    "sex": "male",
+    "vocative": "Milijane"
+  },
+  {
+    "name": "Milijaš",
+    "sex": "male",
+    "vocative": "Milijaše"
+  },
+  {
+    "name": "Milika",
+    "sex": "male",
+    "vocative": "Milika"
+  },
+  {
+    "name": "Milin",
+    "sex": "male",
+    "vocative": "Miline"
+  },
+  {
+    "name": "Milinko",
+    "sex": "male",
+    "vocative": "Milinko"
+  },
+  {
+    "name": "Milić",
+    "sex": "male",
+    "vocative": "Miliću"
+  },
+  {
+    "name": "Miličko",
+    "sex": "male",
+    "vocative": "Miličko"
+  },
+  {
+    "name": "Miliša",
+    "sex": "male",
+    "vocative": "Miliša"
+  },
+  {
+    "name": "Milko",
+    "sex": "male",
+    "vocative": "Milko"
+  },
+  {
+    "name": "Milkan",
+    "sex": "male",
+    "vocative": "Milkane"
+  },
+  {
+    "name": "Milobran",
+    "sex": "male",
+    "vocative": "Milobrane"
+  },
+  {
+    "name": "Milovan",
+    "sex": "male",
+    "vocative": "Milovane"
+  },
+  {
+    "name": "Miloje",
+    "sex": "male",
+    "vocative": "Miloje"
+  },
+  {
+    "name": "Milojko",
+    "sex": "male",
+    "vocative": "Milojko"
+  },
+  {
+    "name": "Miloja",
+    "sex": "male",
+    "vocative": "Miloja"
+  },
+  {
+    "name": "Milojica",
+    "sex": "male",
+    "vocative": "Milojice"
+  },
+  {
+    "name": "Miloica",
+    "sex": "male",
+    "vocative": "Miloice"
+  },
+  {
+    "name": "Miloljub",
+    "sex": "male",
+    "vocative": "Miloljube"
+  },
+  {
+    "name": "Milomir",
+    "sex": "male",
+    "vocative": "Milomire"
+  },
+  {
+    "name": "Milimir",
+    "sex": "male",
+    "vocative": "Milimire"
+  },
+  {
+    "name": "Milonja",
+    "sex": "male",
+    "vocative": "Milonja"
+  },
+  {
+    "name": "Milorad",
+    "sex": "male",
+    "vocative": "Milorade"
+  },
+  {
+    "name": "Miloslav",
+    "sex": "male",
+    "vocative": "Miloslave"
+  },
+  {
+    "name": "Milosav",
+    "sex": "male",
+    "vocative": "Milosave"
+  },
+  {
+    "name": "Milisav",
+    "sex": "male",
+    "vocative": "Milisave"
+  },
+  {
+    "name": "Miloš",
+    "sex": "male",
+    "vocative": "Miloše"
+  },
+  {
+    "name": "Milten",
+    "sex": "male",
+    "vocative": "Miltene"
+  },
+  {
+    "name": "Milun",
+    "sex": "male",
+    "vocative": "Milune"
+  },
+  {
+    "name": "Milutin",
+    "sex": "male",
+    "vocative": "Milutine"
+  },
+  {
+    "name": "Miluš",
+    "sex": "male",
+    "vocative": "Miluše"
+  },
+  {
+    "name": "Miljan",
+    "sex": "male",
+    "vocative": "Miljane"
+  },
+  {
+    "name": "Miljen",
+    "sex": "male",
+    "vocative": "Miljene"
+  },
+  {
+    "name": "Miljko",
+    "sex": "male",
+    "vocative": "Miljko"
+  },
+  {
+    "name": "Milj",
+    "sex": "male"
+  },
+  {
+    "name": "Miljkan",
+    "sex": "male",
+    "vocative": "Miljkane"
+  },
+  {
+    "name": "Miljojko",
+    "sex": "male",
+    "vocative": "Miljojko"
+  },
+  {
+    "name": "Miljurko",
+    "sex": "male",
+    "vocative": "Miljurko"
+  },
+  {
+    "name": "Miodrag",
+    "sex": "male",
+    "vocative": "Miodraže"
+  },
+  {
+    "name": "Mioljub",
+    "sex": "male",
+    "vocative": "Mioljube"
+  },
+  {
+    "name": "Miomir",
+    "sex": "male",
+    "vocative": "Miomire"
+  },
+  {
+    "name": "Miraš",
+    "sex": "male",
+    "vocative": "Miraše"
+  },
+  {
+    "name": "Miren",
+    "sex": "male",
+    "vocative": "Mirene"
+  },
+  {
+    "name": "Mirko",
+    "sex": "male",
+    "vocative": "Mirko"
+  },
+  {
+    "name": "Miro",
+    "sex": "male",
+    "vocative": "Miro"
+  },
+  {
+    "name": "Miroje",
+    "sex": "male",
+    "vocative": "Miroje"
+  },
+  {
+    "name": "Miroljub",
+    "sex": "male",
+    "vocative": "Miroljube"
+  },
+  {
+    "name": "Miroslav",
+    "sex": "male",
+    "vocative": "Miroslave"
+  },
+  {
+    "name": "Mirosav",
+    "sex": "male",
+    "vocative": "Mirosave"
+  },
+  {
+    "name": "Mirča",
+    "sex": "male",
+    "vocative": "Mirča"
+  },
+  {
+    "name": "Mirčeta",
+    "sex": "male",
+    "vocative": "Mirčeta"
+  },
+  {
+    "name": "Mitar",
+    "sex": "male",
+    "vocative": "Mitre"
+  },
+  {
+    "name": "Mita",
+    "sex": "male",
+    "vocative": "Mito"
+  },
+  {
+    "name": "Mićan",
+    "sex": "male",
+    "vocative": "Mićane"
+  },
+  {
+    "name": "Mićko",
+    "sex": "male",
+    "vocative": "Mićko"
+  },
+  {
+    "name": "Mića",
+    "sex": "male",
+    "vocative": "Mićo"
+  },
+  {
+    "name": "Mićo",
+    "sex": "male",
+    "vocative": "Mićo"
+  },
+  {
+    "name": "Mićun",
+    "sex": "male",
+    "vocative": "Mićune"
+  },
+  {
+    "name": "Mihailo",
+    "sex": "male",
+    "vocative": "Mihailo"
+  },
+  {
+    "name": "Mihajlo",
+    "sex": "male",
+    "vocative": "Mihajlo"
+  },
+  {
+    "name": "Mijailo",
+    "sex": "male",
+    "vocative": "Mijailo"
+  },
+  {
+    "name": "Mijuško",
+    "sex": "male",
+    "vocative": "Mijuško"
+  },
+  {
+    "name": "Mijalko",
+    "sex": "male",
+    "vocative": "Mijalko"
+  },
+  {
+    "name": "Mikailo",
+    "sex": "male",
+    "vocative": "Mikailo"
+  },
+  {
+    "name": "Miško",
+    "sex": "male",
+    "vocative": "Miško"
+  },
+  {
+    "name": "Miša",
+    "sex": "male",
+    "vocative": "Mišo"
+  },
+  {
+    "name": "Mišo",
+    "sex": "male",
+    "vocative": "Mišo"
+  },
+  {
+    "name": "Mišljen",
+    "sex": "male",
+    "vocative": "Mišljene"
+  },
+  {
+    "name": "Mladen",
+    "sex": "male",
+    "vocative": "Mladene"
+  },
+  {
+    "name": "Mlađen",
+    "sex": "male",
+    "vocative": "Mlađene"
+  },
+  {
+    "name": "Mlađan",
+    "sex": "male",
+    "vocative": "Mlađane"
+  },
+  {
+    "name": "Mojsilo",
+    "sex": "male",
+    "vocative": "Mojsilo"
+  },
+  {
+    "name": "Mojaš",
+    "sex": "male",
+    "vocative": "Mojaše"
+  },
+  {
+    "name": "Momir",
+    "sex": "male",
+    "vocative": "Momire"
+  },
+  {
+    "name": "Momčilo",
+    "sex": "male",
+    "vocative": "Momčilo"
+  },
+  {
+    "name": "Mrđan",
+    "sex": "male",
+    "vocative": "Mrđane"
+  },
+  {
+    "name": "Mrđen",
+    "sex": "male",
+    "vocative": "Mrđene"
+  },
+  {
+    "name": "Mrkša",
+    "sex": "male",
+    "vocative": "Mrkša"
+  },
+  {
+    "name": "Magdalena",
+    "sex": "female",
+    "vocative": "Magdalena"
+  },
+  {
+    "name": "Magda",
+    "sex": "female",
+    "vocative": "Magda"
+  },
+  {
+    "name": "Maja",
+    "sex": "female",
+    "vocative": "Majo"
+  },
+  {
+    "name": "Majda",
+    "sex": "female",
+    "vocative": "Majda"
+  },
+  {
+    "name": "Makivija",
+    "sex": "female",
+    "vocative": "Makivija"
+  },
+  {
+    "name": "Malina",
+    "sex": "female",
+    "vocative": "Malina"
+  },
+  {
+    "name": "Malinka",
+    "sex": "female",
+    "vocative": "Malinka"
+  },
+  {
+    "name": "Manda",
+    "sex": "female",
+    "vocative": "Mando"
+  },
+  {
+    "name": "Manduša",
+    "sex": "female",
+    "vocative": "Manduša"
+  },
+  {
+    "name": "Marija",
+    "sex": "female",
+    "vocative": "Marija"
+  },
+  {
+    "name": "Mara",
+    "sex": "female",
+    "vocative": "Maro"
+  },
+  {
+    "name": "Marica",
+    "sex": "female",
+    "vocative": "Marice"
+  },
+  {
+    "name": "Maša",
+    "sex": "female",
+    "vocative": "Mašo"
+  },
+  {
+    "name": "Marijana",
+    "sex": "female",
+    "vocative": "Marijana"
+  },
+  {
+    "name": "Marina",
+    "sex": "female",
+    "vocative": "Marina"
+  },
+  {
+    "name": "Marinka",
+    "sex": "female",
+    "vocative": "Marinka"
+  },
+  {
+    "name": "Marta",
+    "sex": "female",
+    "vocative": "Marta"
+  },
+  {
+    "name": "Melanija",
+    "sex": "female",
+    "vocative": "Melanija"
+  },
+  {
+    "name": "Metohija",
+    "sex": "female",
+    "vocative": "Metohijo"
+  },
+  {
+    "name": "Mijana",
+    "sex": "female",
+    "vocative": "Mijana"
+  },
+  {
+    "name": "Mikaina",
+    "sex": "female",
+    "vocative": "Mikaina"
+  },
+  {
+    "name": "Mikosava",
+    "sex": "female",
+    "vocative": "Mikosava"
+  },
+  {
+    "name": "Mila",
+    "sex": "female",
+    "vocative": "Mila"
+  },
+  {
+    "name": "Milana",
+    "sex": "female",
+    "vocative": "Milana"
+  },
+  {
+    "name": "Milanka",
+    "sex": "female",
+    "vocative": "Milanka"
+  },
+  {
+    "name": "Miladija",
+    "sex": "female",
+    "vocative": "Miladija"
+  },
+  {
+    "name": "Miladinka",
+    "sex": "female",
+    "vocative": "Miladika"
+  },
+  {
+    "name": "Mileva",
+    "sex": "female",
+    "vocative": "Mileva"
+  },
+  {
+    "name": "Milevka",
+    "sex": "female",
+    "vocative": "Milevka"
+  },
+  {
+    "name": "Milena",
+    "sex": "female",
+    "vocative": "Milena"
+  },
+  {
+    "name": "Milenka",
+    "sex": "female",
+    "vocative": "Milenka"
+  },
+  {
+    "name": "Milenija",
+    "sex": "female",
+    "vocative": "Milenija"
+  },
+  {
+    "name": "Milija",
+    "sex": "female",
+    "vocative": "Milija"
+  },
+  {
+    "name": "Milka",
+    "sex": "female",
+    "vocative": "Milka"
+  },
+  {
+    "name": "Milkica",
+    "sex": "female",
+    "vocative": "Milkice"
+  },
+  {
+    "name": "Milijana",
+    "sex": "female",
+    "vocative": "Miljana"
+  },
+  {
+    "name": "Milina",
+    "sex": "female",
+    "vocative": "Milina"
+  },
+  {
+    "name": "Milinka",
+    "sex": "female",
+    "vocative": "Milinka"
+  },
+  {
+    "name": "Milesa",
+    "sex": "female",
+    "vocative": "Milesa"
+  },
+  {
+    "name": "Milivojka",
+    "sex": "female",
+    "vocative": "Milivojka"
+  },
+  {
+    "name": "Milisava",
+    "sex": "female",
+    "vocative": "Milisava"
+  },
+  {
+    "name": "Milisavka",
+    "sex": "female",
+    "vocative": "Milisavka"
+  },
+  {
+    "name": "Milosava",
+    "sex": "female",
+    "vocative": "Milosava"
+  },
+  {
+    "name": "Milosavka",
+    "sex": "female",
+    "vocative": "Milosavka"
+  },
+  {
+    "name": "Milica",
+    "sex": "female",
+    "vocative": "Milice"
+  },
+  {
+    "name": "Milna",
+    "sex": "female",
+    "vocative": "Milna"
+  },
+  {
+    "name": "Milovanka",
+    "sex": "female",
+    "vocative": "Milovanka"
+  },
+  {
+    "name": "Milojka",
+    "sex": "female",
+    "vocative": "Milojka"
+  },
+  {
+    "name": "Milomirka",
+    "sex": "female",
+    "vocative": "Milomirka"
+  },
+  {
+    "name": "Milimirka",
+    "sex": "female",
+    "vocative": "Milimirka"
+  },
+  {
+    "name": "Milosija",
+    "sex": "female",
+    "vocative": "Milosija"
+  },
+  {
+    "name": "Miluka",
+    "sex": "female",
+    "vocative": "Milunka"
+  },
+  {
+    "name": "Miluna",
+    "sex": "female",
+    "vocative": "Miluna"
+  },
+  {
+    "name": "Milunka",
+    "sex": "female",
+    "vocative": "Milunka"
+  },
+  {
+    "name": "Milunika",
+    "sex": "female",
+    "vocative": "Milunika"
+  },
+  {
+    "name": "Miluša",
+    "sex": "female",
+    "vocative": "Miluša"
+  },
+  {
+    "name": "Miljana",
+    "sex": "female",
+    "vocative": "Miljana"
+  },
+  {
+    "name": "Miljka",
+    "sex": "female",
+    "vocative": "Miljka"
+  },
+  {
+    "name": "Milja",
+    "sex": "female",
+    "vocative": "Miljo"
+  },
+  {
+    "name": "Mina",
+    "sex": "female",
+    "vocative": "Mina"
+  },
+  {
+    "name": "Minja",
+    "sex": "female",
+    "vocative": "Minja"
+  },
+  {
+    "name": "Miona",
+    "sex": "female",
+    "vocative": "Miona"
+  },
+  {
+    "name": "Mionka",
+    "sex": "female",
+    "vocative": "Mionka"
+  },
+  {
+    "name": "Miomirka",
+    "sex": "female",
+    "vocative": "Miomirka"
+  },
+  {
+    "name": "Miomira",
+    "sex": "female",
+    "vocative": "Miomira"
+  },
+  {
+    "name": "Mira",
+    "sex": "female",
+    "vocative": "Miro"
+  },
+  {
+    "name": "Mirka",
+    "sex": "female",
+    "vocative": "Mirka"
+  },
+  {
+    "name": "Mirna",
+    "sex": "female",
+    "vocative": "Mirna"
+  },
+  {
+    "name": "Mirjana",
+    "sex": "female",
+    "vocative": "Mirjana"
+  },
+  {
+    "name": "Mirosinka",
+    "sex": "female",
+    "vocative": "Mirosinka"
+  },
+  {
+    "name": "Miroslava",
+    "sex": "female",
+    "vocative": "Miroslava"
+  },
+  {
+    "name": "Mirosava",
+    "sex": "female",
+    "vocative": "Miroslava"
+  },
+  {
+    "name": "Miroslavka",
+    "sex": "female",
+    "vocative": "Miroslavka"
+  },
+  {
+    "name": "Mitra",
+    "sex": "female",
+    "vocative": "Mitra"
+  },
+  {
+    "name": "Miholjka",
+    "sex": "female",
+    "vocative": "Miholjka"
+  },
+  {
+    "name": "Mioljka",
+    "sex": "female",
+    "vocative": "Mioljka"
+  },
+  {
+    "name": "Mladenka",
+    "sex": "female",
+    "vocative": "Mladenka"
+  },
+  {
+    "name": "Mladena",
+    "sex": "female",
+    "vocative": "Mladena"
+  },
+  {
+    "name": "Mlađana",
+    "sex": "female"
+  },
+  {
+    "name": "Momirka",
+    "sex": "female",
+    "vocative": "Momirka"
+  },
+  {
+    "name": "Momira",
+    "sex": "female",
+    "vocative": "Momira"
+  },
+  {
+    "name": "Monika",
+    "sex": "female",
+    "vocative": "Monika"
+  },
+  {
+    "name": "Najdan",
+    "sex": "male",
+    "vocative": "Najdane"
+  },
+  {
+    "name": "Naum",
+    "sex": "male",
+    "vocative": "Naume"
+  },
+  {
+    "name": "Nebojša",
+    "sex": "male",
+    "vocative": "Nebojša"
+  },
+  {
+    "name": "Neven",
+    "sex": "male",
+    "vocative": "Nevene"
+  },
+  {
+    "name": "Nevenko",
+    "sex": "male",
+    "vocative": "Nevenko"
+  },
+  {
+    "name": "Negovan",
+    "sex": "male",
+    "vocative": "Negovane"
+  },
+  {
+    "name": "Negomir",
+    "sex": "male",
+    "vocative": "Negomire"
+  },
+  {
+    "name": "Negoslav",
+    "sex": "male",
+    "vocative": "Negoslave"
+  },
+  {
+    "name": "Nedeljko",
+    "sex": "male",
+    "vocative": "Nedeljko"
+  },
+  {
+    "name": "Neđeljko",
+    "sex": "male",
+    "vocative": "Neđeljko"
+  },
+  {
+    "name": "Neđo",
+    "sex": "male",
+    "vocative": "Neđo"
+  },
+  {
+    "name": "Nemanja",
+    "sex": "male",
+    "vocative": "Nemanja"
+  },
+  {
+    "name": "Nenad",
+    "sex": "male",
+    "vocative": "Nenade"
+  },
+  {
+    "name": "Neško",
+    "sex": "male",
+    "vocative": "Neško"
+  },
+  {
+    "name": "Nestor",
+    "sex": "male",
+    "vocative": "Nestore"
+  },
+  {
+    "name": "Nikašin",
+    "sex": "male",
+    "vocative": "Nikašine"
+  },
+  {
+    "name": "Nikodim",
+    "sex": "male",
+    "vocative": "Nikodime"
+  },
+  {
+    "name": "Nikodije",
+    "sex": "male",
+    "vocative": "Nikodije"
+  },
+  {
+    "name": "Nikola",
+    "sex": "male",
+    "vocative": "Nikola"
+  },
+  {
+    "name": "Nikša",
+    "sex": "male",
+    "vocative": "Nikša"
+  },
+  {
+    "name": "Nikon",
+    "sex": "male",
+    "vocative": "Nikone"
+  },
+  {
+    "name": "Nikoslav",
+    "sex": "male"
+  },
+  {
+    "name": "Nikosav",
+    "sex": "male"
+  },
+  {
+    "name": "Ninko",
+    "sex": "male",
+    "vocative": "Ninko"
+  },
+  {
+    "name": "Nino",
+    "sex": "male",
+    "vocative": "Nino"
+  },
+  {
+    "name": "Ninoslav",
+    "sex": "male",
+    "vocative": "Ninoslave"
+  },
+  {
+    "name": "Nićifor",
+    "sex": "male",
+    "vocative": "Nićifore"
+  },
+  {
+    "name": "Novak",
+    "sex": "male",
+    "vocative": "Novače"
+  },
+  {
+    "name": "Novica",
+    "sex": "male",
+    "vocative": "Novice"
+  },
+  {
+    "name": "Noviša",
+    "sex": "male",
+    "vocative": "Noviša"
+  },
+  {
+    "name": "Novko",
+    "sex": "male",
+    "vocative": "Novko"
+  },
+  {
+    "name": "Novo",
+    "sex": "male",
+    "vocative": "Novo"
+  },
+  {
+    "name": "Nada",
+    "sex": "female",
+    "vocative": "Nado"
+  },
+  {
+    "name": "Nadežda",
+    "sex": "female",
+    "vocative": "Nadežda"
+  },
+  {
+    "name": "Nađa",
+    "sex": "female",
+    "vocative": "Nađa"
+  },
+  {
+    "name": "Nadica",
+    "sex": "female",
+    "vocative": "Nadice"
+  },
+  {
+    "name": "Najda",
+    "sex": "female",
+    "vocative": "Najda"
+  },
+  {
+    "name": "Natalija",
+    "sex": "female",
+    "vocative": "Natalija"
+  },
+  {
+    "name": "Nataša",
+    "sex": "female",
+    "vocative": "Nataša"
+  },
+  {
+    "name": "Nata",
+    "sex": "female",
+    "vocative": "Nato"
+  },
+  {
+    "name": "Nevena",
+    "sex": "female",
+    "vocative": "Nevena"
+  },
+  {
+    "name": "Nevenka",
+    "sex": "female",
+    "vocative": "Nevenka"
+  },
+  {
+    "name": "Negovanka",
+    "sex": "female",
+    "vocative": "Negovanka"
+  },
+  {
+    "name": "Negica",
+    "sex": "female",
+    "vocative": "Negice"
+  },
+  {
+    "name": "Negomirka",
+    "sex": "female",
+    "vocative": "Negomirka"
+  },
+  {
+    "name": "Negoslava",
+    "sex": "female",
+    "vocative": "Negoslava"
+  },
+  {
+    "name": "Negoslavka",
+    "sex": "female",
+    "vocative": "Negoslavka"
+  },
+  {
+    "name": "Negosava",
+    "sex": "female",
+    "vocative": "Negosava"
+  },
+  {
+    "name": "Neda",
+    "sex": "female",
+    "vocative": "Nedo"
+  },
+  {
+    "name": "Nedeljka",
+    "sex": "female",
+    "vocative": "Nedeljka"
+  },
+  {
+    "name": "Neđeljka",
+    "sex": "female",
+    "vocative": "Neđeljka"
+  },
+  {
+    "name": "Nela",
+    "sex": "female",
+    "vocative": "Nela"
+  },
+  {
+    "name": "Nika",
+    "sex": "female"
+  },
+  {
+    "name": "Nikodija",
+    "sex": "female"
+  },
+  {
+    "name": "Nikoleta",
+    "sex": "female",
+    "vocative": "Nikoleta"
+  },
+  {
+    "name": "Nikolija",
+    "sex": "female",
+    "vocative": "Nikolija"
+  },
+  {
+    "name": "Nikolina",
+    "sex": "female",
+    "vocative": "Nikolina"
+  },
+  {
+    "name": "Nikoslava",
+    "sex": "female"
+  },
+  {
+    "name": "Nikosava",
+    "sex": "female"
+  },
+  {
+    "name": "Nina",
+    "sex": "female",
+    "vocative": "Nina"
+  },
+  {
+    "name": "ru",
+    "sex": "female"
+  },
+  {
+    "name": "Ninoslava",
+    "sex": "female",
+    "vocative": "Ninoslava"
+  },
+  {
+    "name": "Nišava",
+    "sex": "female",
+    "vocative": "Nišava"
+  },
+  {
+    "name": "Novka",
+    "sex": "female",
+    "vocative": "Novka"
+  },
+  {
+    "name": "Njegovan",
+    "sex": "male",
+    "vocative": "Njegovane"
+  },
+  {
+    "name": "Njegomir",
+    "sex": "male",
+    "vocative": "Njegomire"
+  },
+  {
+    "name": "Njegoslav",
+    "sex": "male",
+    "vocative": "Njegoslave"
+  },
+  {
+    "name": "Njegosav",
+    "sex": "male",
+    "vocative": "Njegosave"
+  },
+  {
+    "name": "Njegoš",
+    "sex": "male",
+    "vocative": "Njegošu"
+  },
+  {
+    "name": "Njegovanka",
+    "sex": "female"
+  },
+  {
+    "name": "Njegomirka",
+    "sex": "female",
+    "vocative": "Njegomirka"
+  },
+  {
+    "name": "Njegoslava",
+    "sex": "female",
+    "vocative": "Njegoslava"
+  },
+  {
+    "name": "Njegosava",
+    "sex": "female",
+    "vocative": "Njegosava"
+  },
+  {
+    "name": "Obrad",
+    "sex": "male",
+    "vocative": "Obrade"
+  },
+  {
+    "name": "Obradin",
+    "sex": "male",
+    "vocative": "Obradine"
+  },
+  {
+    "name": "Obren",
+    "sex": "male",
+    "vocative": "Obrene"
+  },
+  {
+    "name": "Obrenko",
+    "sex": "male",
+    "vocative": "Obrenko"
+  },
+  {
+    "name": "Obreten",
+    "sex": "male",
+    "vocative": "Obretene"
+  },
+  {
+    "name": "Ognjen",
+    "sex": "male",
+    "vocative": "Ognjene"
+  },
+  {
+    "name": "Ognjan",
+    "sex": "male",
+    "vocative": "Ognjane"
+  },
+  {
+    "name": "Ozren",
+    "sex": "male",
+    "vocative": "Ozrene"
+  },
+  {
+    "name": "Ozriša",
+    "sex": "male",
+    "vocative": "Ozriša"
+  },
+  {
+    "name": "Oleg",
+    "sex": "male",
+    "vocative": "Oleže"
+  },
+  {
+    "name": "Oliver",
+    "sex": "male",
+    "vocative": "Olivere"
+  },
+  {
+    "name": "Omilj",
+    "sex": "male"
+  },
+  {
+    "name": "Omiljen",
+    "sex": "male"
+  },
+  {
+    "name": "Ostoja",
+    "sex": "male",
+    "vocative": "Ostoja"
+  },
+  {
+    "name": "Otaš",
+    "sex": "male",
+    "vocative": "Otaše"
+  },
+  {
+    "name": "Obradinka",
+    "sex": "female",
+    "vocative": "Obradinka"
+  },
+  {
+    "name": "Obrenija",
+    "sex": "female",
+    "vocative": "Obrenija"
+  },
+  {
+    "name": "Ognjena",
+    "sex": "female",
+    "vocative": "Ognjena"
+  },
+  {
+    "name": "Ognjenka",
+    "sex": "female",
+    "vocative": "Ognjenka"
+  },
+  {
+    "name": "Ognjana",
+    "sex": "female",
+    "vocative": "Ognjana"
+  },
+  {
+    "name": "Ognjanka",
+    "sex": "female",
+    "vocative": "Ognjanka"
+  },
+  {
+    "name": "Ozrenka",
+    "sex": "female",
+    "vocative": "Ozrenka"
+  },
+  {
+    "name": "Ojdana",
+    "sex": "female",
+    "vocative": "Ojdana"
+  },
+  {
+    "name": "Olga",
+    "sex": "female",
+    "vocative": "Olga"
+  },
+  {
+    "name": "Olgica",
+    "sex": "female",
+    "vocative": "Olgice"
+  },
+  {
+    "name": "Olja",
+    "sex": "female",
+    "vocative": "Olja"
+  },
+  {
+    "name": "Olivera",
+    "sex": "female",
+    "vocative": "Olivera"
+  },
+  {
+    "name": "Pavle",
+    "sex": "male",
+    "vocative": "Pavle"
+  },
+  {
+    "name": "Pavko",
+    "sex": "male",
+    "vocative": "Pavko"
+  },
+  {
+    "name": "Pavlić",
+    "sex": "male",
+    "vocative": "Pavliću"
+  },
+  {
+    "name": "Pavić",
+    "sex": "male",
+    "vocative": "Paviću"
+  },
+  {
+    "name": "Pantelija",
+    "sex": "male",
+    "vocative": "Pantelija"
+  },
+  {
+    "name": "Panta",
+    "sex": "male",
+    "vocative": "Panto"
+  },
+  {
+    "name": "Panto",
+    "sex": "male",
+    "vocative": "Panto"
+  },
+  {
+    "name": "Paun",
+    "sex": "male",
+    "vocative": "Paune"
+  },
+  {
+    "name": "Pejak",
+    "sex": "male",
+    "vocative": "Pejače"
+  },
+  {
+    "name": "Pejo",
+    "sex": "male",
+    "vocative": "Pejo"
+  },
+  {
+    "name": "Pejko",
+    "sex": "male",
+    "vocative": "Pejko"
+  },
+  {
+    "name": "Periša",
+    "sex": "male",
+    "vocative": "Periša"
+  },
+  {
+    "name": "Perun",
+    "sex": "male",
+    "vocative": "Perune"
+  },
+  {
+    "name": "Perunko",
+    "sex": "male",
+    "vocative": "Perunko"
+  },
+  {
+    "name": "Petak",
+    "sex": "male",
+    "vocative": "Petače"
+  },
+  {
+    "name": "Petar",
+    "sex": "male",
+    "vocative": "Petre"
+  },
+  {
+    "name": "Petruš",
+    "sex": "male"
+  },
+  {
+    "name": "Pera",
+    "sex": "male",
+    "vocative": "Pero"
+  },
+  {
+    "name": "Pero",
+    "sex": "male",
+    "vocative": "Pero"
+  },
+  {
+    "name": "Perica",
+    "sex": "male",
+    "vocative": "Perice"
+  },
+  {
+    "name": "Perko",
+    "sex": "male",
+    "vocative": "Perko"
+  },
+  {
+    "name": "Petko",
+    "sex": "male",
+    "vocative": "Petko"
+  },
+  {
+    "name": "Petoje",
+    "sex": "male",
+    "vocative": "Petoje"
+  },
+  {
+    "name": "Petoš",
+    "sex": "male",
+    "vocative": "Petoše"
+  },
+  {
+    "name": "Petrašin",
+    "sex": "male",
+    "vocative": "Petrašine"
+  },
+  {
+    "name": "Petronije",
+    "sex": "male",
+    "vocative": "Petronije"
+  },
+  {
+    "name": "Pilip",
+    "sex": "male",
+    "vocative": "Pilipe"
+  },
+  {
+    "name": "Plavša",
+    "sex": "male",
+    "vocative": "Plavša"
+  },
+  {
+    "name": "Poznan",
+    "sex": "male",
+    "vocative": "Poznane"
+  },
+  {
+    "name": "Pokrajac",
+    "sex": "male"
+  },
+  {
+    "name": "Prvoslav",
+    "sex": "male",
+    "vocative": "Prvoslave"
+  },
+  {
+    "name": "Predrag",
+    "sex": "male",
+    "vocative": "Predraže"
+  },
+  {
+    "name": "Premil",
+    "sex": "male",
+    "vocative": "Premile"
+  },
+  {
+    "name": "Prerad",
+    "sex": "male",
+    "vocative": "Prerade"
+  },
+  {
+    "name": "Pribić",
+    "sex": "male"
+  },
+  {
+    "name": "Prodan",
+    "sex": "male",
+    "vocative": "Prodane"
+  },
+  {
+    "name": "Prokopije",
+    "sex": "male",
+    "vocative": "Prokopije"
+  },
+  {
+    "name": "Puniša",
+    "sex": "male",
+    "vocative": "Puniša"
+  },
+  {
+    "name": "Punan",
+    "sex": "male",
+    "vocative": "Punane"
+  },
+  {
+    "name": "Pureš",
+    "sex": "male",
+    "vocative": "Pureše"
+  },
+  {
+    "name": "Purko",
+    "sex": "male",
+    "vocative": "Purko"
+  },
+  {
+    "name": "Puro",
+    "sex": "male",
+    "vocative": "Puro"
+  },
+  {
+    "name": "Pava",
+    "sex": "female",
+    "vocative": "Pavo"
+  },
+  {
+    "name": "Pavija",
+    "sex": "female",
+    "vocative": "Pavija"
+  },
+  {
+    "name": "Pavlija",
+    "sex": "female",
+    "vocative": "Pavija"
+  },
+  {
+    "name": "Pavlina",
+    "sex": "female",
+    "vocative": "Pavlina"
+  },
+  {
+    "name": "Paraskeva",
+    "sex": "female",
+    "vocative": "Paraskeva"
+  },
+  {
+    "name": "Paulina",
+    "sex": "female",
+    "vocative": "Paulina"
+  },
+  {
+    "name": "Pavka",
+    "sex": "female",
+    "vocative": "Pavka"
+  },
+  {
+    "name": "Pauna",
+    "sex": "female",
+    "vocative": "Pauna"
+  },
+  {
+    "name": "Pejka",
+    "sex": "female",
+    "vocative": "Pejka"
+  },
+  {
+    "name": "Pepica",
+    "sex": "female",
+    "vocative": "Pepice"
+  },
+  {
+    "name": "Pelagija",
+    "sex": "female",
+    "vocative": "Pelagija"
+  },
+  {
+    "name": "Persa",
+    "sex": "female",
+    "vocative": "Perso"
+  },
+  {
+    "name": "Persida",
+    "sex": "female",
+    "vocative": "Persida"
+  },
+  {
+    "name": "Perunika",
+    "sex": "female",
+    "vocative": "Perunika"
+  },
+  {
+    "name": "Petkana",
+    "sex": "female",
+    "vocative": "Petkana"
+  },
+  {
+    "name": "Petra",
+    "sex": "female",
+    "vocative": "Petra"
+  },
+  {
+    "name": "Petrija",
+    "sex": "female",
+    "vocative": "Petrija"
+  },
+  {
+    "name": "Petruša",
+    "sex": "female",
+    "vocative": "Petruša"
+  },
+  {
+    "name": "Petruška",
+    "sex": "female",
+    "vocative": "Petruška"
+  },
+  {
+    "name": "Petrojka",
+    "sex": "female",
+    "vocative": "Petrojka"
+  },
+  {
+    "name": "Perka",
+    "sex": "female",
+    "vocative": "Perka"
+  },
+  {
+    "name": "Plamenka",
+    "sex": "female",
+    "vocative": "Plamenka"
+  },
+  {
+    "name": "Planinka",
+    "sex": "female",
+    "vocative": "Planinka"
+  },
+  {
+    "name": "Poznana",
+    "sex": "female",
+    "vocative": "Poznana"
+  },
+  {
+    "name": "Poleksija",
+    "sex": "female",
+    "vocative": "Poleksija"
+  },
+  {
+    "name": "Prvoslava",
+    "sex": "female",
+    "vocative": "Prvoslava"
+  },
+  {
+    "name": "Prvoslavka",
+    "sex": "female",
+    "vocative": "Prvoslavka"
+  },
+  {
+    "name": "Prodana",
+    "sex": "female",
+    "vocative": "Prodana"
+  },
+  {
+    "name": "Radak",
+    "sex": "male",
+    "vocative": "Radače"
+  },
+  {
+    "name": "Radan",
+    "sex": "male",
+    "vocative": "Radane"
+  },
+  {
+    "name": "Radas",
+    "sex": "male",
+    "vocative": "Radase"
+  },
+  {
+    "name": "Radašin",
+    "sex": "male",
+    "vocative": "Radašine"
+  },
+  {
+    "name": "Rade",
+    "sex": "male",
+    "vocative": "Rade"
+  },
+  {
+    "name": "Raden",
+    "sex": "male",
+    "vocative": "Radene"
+  },
+  {
+    "name": "Radenko",
+    "sex": "male",
+    "vocative": "Radenko"
+  },
+  {
+    "name": "Radeta",
+    "sex": "male",
+    "vocative": "Radeta"
+  },
+  {
+    "name": "Radivoje",
+    "sex": "male",
+    "vocative": "Radivoje"
+  },
+  {
+    "name": "Radivoj",
+    "sex": "male",
+    "vocative": "Radivoju"
+  },
+  {
+    "name": "Radin",
+    "sex": "male",
+    "vocative": "Radine"
+  },
+  {
+    "name": "Radinko",
+    "sex": "male",
+    "vocative": "Radinko"
+  },
+  {
+    "name": "Radič",
+    "sex": "male",
+    "vocative": "Radiče"
+  },
+  {
+    "name": "Radiša",
+    "sex": "male",
+    "vocative": "Radiša"
+  },
+  {
+    "name": "Radman",
+    "sex": "male",
+    "vocative": "Radmane"
+  },
+  {
+    "name": "Radoman",
+    "sex": "male",
+    "vocative": "Radomane"
+  },
+  {
+    "name": "Radmilo",
+    "sex": "male",
+    "vocative": "Radmilo"
+  },
+  {
+    "name": "Radoba",
+    "sex": "male",
+    "vocative": "Radoba"
+  },
+  {
+    "name": "Radobud",
+    "sex": "male",
+    "vocative": "Radobude"
+  },
+  {
+    "name": "Radovan",
+    "sex": "male",
+    "vocative": "Radovane"
+  },
+  {
+    "name": "Radovac",
+    "sex": "male"
+  },
+  {
+    "name": "Radovin",
+    "sex": "male",
+    "vocative": "Radovine"
+  },
+  {
+    "name": "Radoje",
+    "sex": "male",
+    "vocative": "Radoje"
+  },
+  {
+    "name": "Radojko",
+    "sex": "male",
+    "vocative": "Radojko"
+  },
+  {
+    "name": "Radojlo",
+    "sex": "male",
+    "vocative": "Radojlo"
+  },
+  {
+    "name": "Radoja",
+    "sex": "male",
+    "vocative": "Radoja"
+  },
+  {
+    "name": "Radojica",
+    "sex": "male",
+    "vocative": "Radojice"
+  },
+  {
+    "name": "Radoica",
+    "sex": "male",
+    "vocative": "Radoice"
+  },
+  {
+    "name": "Radomir",
+    "sex": "male",
+    "vocative": "Radomire"
+  },
+  {
+    "name": "Radimir",
+    "sex": "male",
+    "vocative": "Radimire"
+  },
+  {
+    "name": "Radonja",
+    "sex": "male",
+    "vocative": "Radonja"
+  },
+  {
+    "name": "Radoslav",
+    "sex": "male",
+    "vocative": "Radoslave"
+  },
+  {
+    "name": "Radosav",
+    "sex": "male",
+    "vocative": "Radosave"
+  },
+  {
+    "name": "Radislav",
+    "sex": "male",
+    "vocative": "Radislave"
+  },
+  {
+    "name": "Radisav",
+    "sex": "male",
+    "vocative": "Radisave"
+  },
+  {
+    "name": "Radota",
+    "sex": "male",
+    "vocative": "Radota"
+  },
+  {
+    "name": "Radoš",
+    "sex": "male",
+    "vocative": "Radoše"
+  },
+  {
+    "name": "Radukan",
+    "sex": "male",
+    "vocative": "Radukane"
+  },
+  {
+    "name": "Radul",
+    "sex": "male",
+    "vocative": "Radule"
+  },
+  {
+    "name": "Radule",
+    "sex": "male",
+    "vocative": "Radule"
+  },
+  {
+    "name": "Radulin",
+    "sex": "male",
+    "vocative": "Raduline"
+  },
+  {
+    "name": "Radun",
+    "sex": "male",
+    "vocative": "Radune"
+  },
+  {
+    "name": "Radusin",
+    "sex": "male",
+    "vocative": "Radusine"
+  },
+  {
+    "name": "Rađen",
+    "sex": "male",
+    "vocative": "Rađene"
+  },
+  {
+    "name": "Rain",
+    "sex": "male",
+    "vocative": "Raine"
+  },
+  {
+    "name": "Raica",
+    "sex": "male",
+    "vocative": "Raice"
+  },
+  {
+    "name": "Raič",
+    "sex": "male",
+    "vocative": "Raiče"
+  },
+  {
+    "name": "Raičko",
+    "sex": "male",
+    "vocative": "Raičko"
+  },
+  {
+    "name": "Rajak",
+    "sex": "male",
+    "vocative": "Rajače"
+  },
+  {
+    "name": "Rajan",
+    "sex": "male",
+    "vocative": "Rajane"
+  },
+  {
+    "name": "Rajko",
+    "sex": "male",
+    "vocative": "Rajko"
+  },
+  {
+    "name": "Rajčeta",
+    "sex": "male",
+    "vocative": "Rajčeta"
+  },
+  {
+    "name": "Ralen",
+    "sex": "male",
+    "vocative": "Ralene"
+  },
+  {
+    "name": "Raleta",
+    "sex": "male",
+    "vocative": "Raleta"
+  },
+  {
+    "name": "Ranisav",
+    "sex": "male",
+    "vocative": "Ranisave"
+  },
+  {
+    "name": "Ranko",
+    "sex": "male",
+    "vocative": "Ranko"
+  },
+  {
+    "name": "Raosav",
+    "sex": "male",
+    "vocative": "Raosave"
+  },
+  {
+    "name": "Rasko",
+    "sex": "male",
+    "vocative": "Rasko"
+  },
+  {
+    "name": "Rastislav",
+    "sex": "male",
+    "vocative": "Rastislave"
+  },
+  {
+    "name": "Rastko",
+    "sex": "male",
+    "vocative": "Rastko"
+  },
+  {
+    "name": "Ratibor",
+    "sex": "male",
+    "vocative": "Ratibore"
+  },
+  {
+    "name": "Ratko",
+    "sex": "male",
+    "vocative": "Ratko"
+  },
+  {
+    "name": "Ratomir",
+    "sex": "male",
+    "vocative": "Ratomire"
+  },
+  {
+    "name": "Rafailo",
+    "sex": "male",
+    "vocative": "Rafailo"
+  },
+  {
+    "name": "Racko",
+    "sex": "male",
+    "vocative": "Racko"
+  },
+  {
+    "name": "Račeta",
+    "sex": "male",
+    "vocative": "Račeta"
+  },
+  {
+    "name": "Raško",
+    "sex": "male",
+    "vocative": "Raško"
+  },
+  {
+    "name": "Rekula",
+    "sex": "male",
+    "vocative": "Rekula"
+  },
+  {
+    "name": "Relja",
+    "sex": "male",
+    "vocative": "Relja"
+  },
+  {
+    "name": "Resan",
+    "sex": "male",
+    "vocative": "Resane"
+  },
+  {
+    "name": "Ristan",
+    "sex": "male",
+    "vocative": "Ristane"
+  },
+  {
+    "name": "Risto",
+    "sex": "male",
+    "vocative": "Risto"
+  },
+  {
+    "name": "Rista",
+    "sex": "male",
+    "vocative": "Risto"
+  },
+  {
+    "name": "Ristivoje",
+    "sex": "male",
+    "vocative": "Ristivoje"
+  },
+  {
+    "name": "Rodoljub",
+    "sex": "male",
+    "vocative": "Rodoljube"
+  },
+  {
+    "name": "Rusmir",
+    "sex": "male",
+    "vocative": "Rusmire"
+  },
+  {
+    "name": "Rusimir",
+    "sex": "male",
+    "vocative": "Rusimire"
+  },
+  {
+    "name": "Rada",
+    "sex": "female",
+    "vocative": "Rado"
+  },
+  {
+    "name": "Radica",
+    "sex": "female",
+    "vocative": "Radice"
+  },
+  {
+    "name": "Radana",
+    "sex": "female",
+    "vocative": "Radana"
+  },
+  {
+    "name": "Radanka",
+    "sex": "female",
+    "vocative": "Radanka"
+  },
+  {
+    "name": "Radena",
+    "sex": "female",
+    "vocative": "Radena"
+  },
+  {
+    "name": "Radenka",
+    "sex": "female",
+    "vocative": "Radenka"
+  },
+  {
+    "name": "Radivojka",
+    "sex": "female",
+    "vocative": "Radivojka"
+  },
+  {
+    "name": "Radina",
+    "sex": "female",
+    "vocative": "Radina"
+  },
+  {
+    "name": "Radinka",
+    "sex": "female",
+    "vocative": "Radinka"
+  },
+  {
+    "name": "Radika",
+    "sex": "female",
+    "vocative": "Radika"
+  },
+  {
+    "name": "Radmila",
+    "sex": "female",
+    "vocative": "Radmila"
+  },
+  {
+    "name": "Radna",
+    "sex": "female",
+    "vocative": "Radna"
+  },
+  {
+    "name": "Radovanka",
+    "sex": "female",
+    "vocative": "Radovanka"
+  },
+  {
+    "name": "Radovinka",
+    "sex": "female",
+    "vocative": "Radovinka"
+  },
+  {
+    "name": "Radojka",
+    "sex": "female",
+    "vocative": "Radojka"
+  },
+  {
+    "name": "Radojla",
+    "sex": "female",
+    "vocative": "Radojla"
+  },
+  {
+    "name": "Radomira",
+    "sex": "female",
+    "vocative": "Radomira"
+  },
+  {
+    "name": "Radomirka",
+    "sex": "female",
+    "vocative": "Radomirka"
+  },
+  {
+    "name": "Radosija",
+    "sex": "female",
+    "vocative": "Radosija"
+  },
+  {
+    "name": "Radoslava",
+    "sex": "female",
+    "vocative": "Radoslava"
+  },
+  {
+    "name": "Radoslavka",
+    "sex": "female",
+    "vocative": "Radoslavka"
+  },
+  {
+    "name": "Radislava",
+    "sex": "female",
+    "vocative": "Radislava"
+  },
+  {
+    "name": "Radislavka",
+    "sex": "female",
+    "vocative": "Radisavka"
+  },
+  {
+    "name": "Raduka",
+    "sex": "female",
+    "vocative": "Raduka"
+  },
+  {
+    "name": "Radula",
+    "sex": "female",
+    "vocative": "Radula"
+  },
+  {
+    "name": "Radulka",
+    "sex": "female",
+    "vocative": "Radulka"
+  },
+  {
+    "name": "Radunka",
+    "sex": "female",
+    "vocative": "Radunka"
+  },
+  {
+    "name": "Raduša",
+    "sex": "female",
+    "vocative": "Raduša"
+  },
+  {
+    "name": "Raduška",
+    "sex": "female",
+    "vocative": "Raduška"
+  },
+  {
+    "name": "Razumenka",
+    "sex": "female",
+    "vocative": "Razumenka"
+  },
+  {
+    "name": "Rajka",
+    "sex": "female",
+    "vocative": "Rajka"
+  },
+  {
+    "name": "Rajna",
+    "sex": "female",
+    "vocative": "Rajna"
+  },
+  {
+    "name": "Ranka",
+    "sex": "female",
+    "vocative": "Ranka"
+  },
+  {
+    "name": "Ratka",
+    "sex": "female",
+    "vocative": "Ratka"
+  },
+  {
+    "name": "Roksanda",
+    "sex": "female",
+    "vocative": "Roksanda"
+  },
+  {
+    "name": "Rosanda",
+    "sex": "female",
+    "vocative": "Rosanda"
+  },
+  {
+    "name": "Roksa",
+    "sex": "female",
+    "vocative": "Roksa"
+  },
+  {
+    "name": "Rosa",
+    "sex": "female",
+    "vocative": "Roso"
+  },
+  {
+    "name": "Ruža",
+    "sex": "female",
+    "vocative": "Ružo"
+  },
+  {
+    "name": "Ružica",
+    "sex": "female",
+    "vocative": "Ružice"
+  },
+  {
+    "name": "Ruzmarinka",
+    "sex": "female",
+    "vocative": "Ruzmarinka"
+  },
+  {
+    "name": "Rusmira",
+    "sex": "female",
+    "vocative": "Rusmira"
+  },
+  {
+    "name": "Sava",
+    "sex": "male",
+    "vocative": "Savo"
+  },
+  {
+    "name": "Savo",
+    "sex": "male",
+    "vocative": "Savo"
+  },
+  {
+    "name": "Savan",
+    "sex": "male",
+    "vocative": "Savane"
+  },
+  {
+    "name": "Savko",
+    "sex": "male",
+    "vocative": "Savko"
+  },
+  {
+    "name": "Savić",
+    "sex": "male",
+    "vocative": "Saviću"
+  },
+  {
+    "name": "Savatije",
+    "sex": "male",
+    "vocative": "Savatije"
+  },
+  {
+    "name": "Samuilo",
+    "sex": "male",
+    "vocative": "Samuilo"
+  },
+  {
+    "name": "Saša",
+    "sex": "male",
+    "vocative": "Saša"
+  },
+  {
+    "name": "Svetibor",
+    "sex": "male",
+    "vocative": "Svetibore"
+  },
+  {
+    "name": "Svetislav",
+    "sex": "male",
+    "vocative": "Svetislave"
+  },
+  {
+    "name": "Svetko",
+    "sex": "male",
+    "vocative": "Svetko"
+  },
+  {
+    "name": "Svetozar",
+    "sex": "male",
+    "vocative": "Svetozare"
+  },
+  {
+    "name": "Svetolik",
+    "sex": "male",
+    "vocative": "Svetoliče"
+  },
+  {
+    "name": "Svetoljub",
+    "sex": "male",
+    "vocative": "Svetoljube"
+  },
+  {
+    "name": "Svetomir",
+    "sex": "male",
+    "vocative": "Svetomire"
+  },
+  {
+    "name": "Svetorad",
+    "sex": "male",
+    "vocative": "Svetorade"
+  },
+  {
+    "name": "Sekula",
+    "sex": "male",
+    "vocative": "Sekula"
+  },
+  {
+    "name": "Sekule",
+    "sex": "male",
+    "vocative": "Sekule"
+  },
+  {
+    "name": "Selak",
+    "sex": "male",
+    "vocative": "Selače"
+  },
+  {
+    "name": "Selimir",
+    "sex": "male",
+    "vocative": "Selimire"
+  },
+  {
+    "name": "Serafim",
+    "sex": "male",
+    "vocative": "Serafime"
+  },
+  {
+    "name": "Sibin",
+    "sex": "male",
+    "vocative": "Sibine"
+  },
+  {
+    "name": "Simeon",
+    "sex": "male",
+    "vocative": "Simeone"
+  },
+  {
+    "name": "Simeun",
+    "sex": "male",
+    "vocative": "Simeune"
+  },
+  {
+    "name": "Sima",
+    "sex": "male",
+    "vocative": "Simo"
+  },
+  {
+    "name": "Simo",
+    "sex": "male",
+    "vocative": "Simo"
+  },
+  {
+    "name": "Simon",
+    "sex": "male",
+    "vocative": "Simone"
+  },
+  {
+    "name": "Sinadin",
+    "sex": "male",
+    "vocative": "Sinadine"
+  },
+  {
+    "name": "Sinđel",
+    "sex": "male",
+    "vocative": "Sinđele"
+  },
+  {
+    "name": "Siniša",
+    "sex": "male",
+    "vocative": "Siniša"
+  },
+  {
+    "name": "Skorosav",
+    "sex": "male",
+    "vocative": "Skorosave"
+  },
+  {
+    "name": "Slaven",
+    "sex": "male",
+    "vocative": "Slavene"
+  },
+  {
+    "name": "Slavenko",
+    "sex": "male",
+    "vocative": "Slavenko"
+  },
+  {
+    "name": "Slavko",
+    "sex": "male",
+    "vocative": "Slavko"
+  },
+  {
+    "name": "Slaviša",
+    "sex": "male",
+    "vocative": "Slaviša"
+  },
+  {
+    "name": "Slavo",
+    "sex": "male",
+    "vocative": "Slavo"
+  },
+  {
+    "name": "Slavoljub",
+    "sex": "male",
+    "vocative": "Slavoljube"
+  },
+  {
+    "name": "Slavomir",
+    "sex": "male",
+    "vocative": "Slavomire"
+  },
+  {
+    "name": "Slavimir",
+    "sex": "male",
+    "vocative": "Slavimire"
+  },
+  {
+    "name": "Slavuj",
+    "sex": "male",
+    "vocative": "Slavuju"
+  },
+  {
+    "name": "Sladoje",
+    "sex": "male",
+    "vocative": "Sladoje"
+  },
+  {
+    "name": "Slađan",
+    "sex": "male",
+    "vocative": "Slađane"
+  },
+  {
+    "name": "Slobodan",
+    "sex": "male",
+    "vocative": "Slobodane"
+  },
+  {
+    "name": "Smiljan",
+    "sex": "male",
+    "vocative": "Smiljane"
+  },
+  {
+    "name": "Smiljko",
+    "sex": "male",
+    "vocative": "Smiljko"
+  },
+  {
+    "name": "Smoljan",
+    "sex": "male",
+    "vocative": "Smoljane"
+  },
+  {
+    "name": "Snježan",
+    "sex": "male",
+    "vocative": "Snježane"
+  },
+  {
+    "name": "Sokol",
+    "sex": "male",
+    "vocative": "Sokole"
+  },
+  {
+    "name": "Soko",
+    "sex": "male",
+    "vocative": "Sokole"
+  },
+  {
+    "name": "Solomon",
+    "sex": "male",
+    "vocative": "Solomone"
+  },
+  {
+    "name": "Sotir",
+    "sex": "male",
+    "vocative": "Sotire"
+  },
+  {
+    "name": "Spasoje",
+    "sex": "male",
+    "vocative": "Spasoje"
+  },
+  {
+    "name": "Spasoja",
+    "sex": "male",
+    "vocative": "Spasoja"
+  },
+  {
+    "name": "Spiridon",
+    "sex": "male",
+    "vocative": "Spiridone"
+  },
+  {
+    "name": "Spira",
+    "sex": "male",
+    "vocative": "Spiro"
+  },
+  {
+    "name": "Spomenko",
+    "sex": "male",
+    "vocative": "Spomenko"
+  },
+  {
+    "name": "Srbislav",
+    "sex": "male",
+    "vocative": "Srbislave"
+  },
+  {
+    "name": "Srboslav",
+    "sex": "male",
+    "vocative": "Srboslave"
+  },
+  {
+    "name": "Srboljub",
+    "sex": "male",
+    "vocative": "Srboljube"
+  },
+  {
+    "name": "Srdan",
+    "sex": "male",
+    "vocative": "Srdane"
+  },
+  {
+    "name": "Srđan",
+    "sex": "male",
+    "vocative": "Srđane"
+  },
+  {
+    "name": "Srđa",
+    "sex": "male",
+    "vocative": "Srđo"
+  },
+  {
+    "name": "Sergije",
+    "sex": "male",
+    "vocative": "Sergije"
+  },
+  {
+    "name": "Sergej",
+    "sex": "male",
+    "vocative": "Sergeju"
+  },
+  {
+    "name": "Sredoje",
+    "sex": "male",
+    "vocative": "Sredoje"
+  },
+  {
+    "name": "Sredoja",
+    "sex": "male",
+    "vocative": "Sredoja"
+  },
+  {
+    "name": "Sreten",
+    "sex": "male",
+    "vocative": "Sretene"
+  },
+  {
+    "name": "Sretko",
+    "sex": "male",
+    "vocative": "Sretko"
+  },
+  {
+    "name": "Sreto",
+    "sex": "male",
+    "vocative": "Sreto"
+  },
+  {
+    "name": "Srećko",
+    "sex": "male",
+    "vocative": "Srećko"
+  },
+  {
+    "name": "Srećan",
+    "sex": "male",
+    "vocative": "Srećane"
+  },
+  {
+    "name": "Stajko",
+    "sex": "male",
+    "vocative": "Stajko"
+  },
+  {
+    "name": "Staja",
+    "sex": "male",
+    "vocative": "Stajo"
+  },
+  {
+    "name": "Stajo",
+    "sex": "male",
+    "vocative": "Stajo"
+  },
+  {
+    "name": "Stamat",
+    "sex": "male",
+    "vocative": "Stamate"
+  },
+  {
+    "name": "Stamen",
+    "sex": "male",
+    "vocative": "Stamene"
+  },
+  {
+    "name": "Stamenko",
+    "sex": "male",
+    "vocative": "Stamenko"
+  },
+  {
+    "name": "Stanimir",
+    "sex": "male",
+    "vocative": "Stanimire"
+  },
+  {
+    "name": "Stanislav",
+    "sex": "male",
+    "vocative": "Stanislave"
+  },
+  {
+    "name": "Stanisav",
+    "sex": "male",
+    "vocative": "Stanisave"
+  },
+  {
+    "name": "Staniša",
+    "sex": "male",
+    "vocative": "Staniša"
+  },
+  {
+    "name": "Stanko",
+    "sex": "male",
+    "vocative": "Stanko"
+  },
+  {
+    "name": "Stanoje",
+    "sex": "male",
+    "vocative": "Stanoje"
+  },
+  {
+    "name": "Stanojko",
+    "sex": "male",
+    "vocative": "Stanojko"
+  },
+  {
+    "name": "Stanojlo",
+    "sex": "male",
+    "vocative": "Stanojlo"
+  },
+  {
+    "name": "Stanoja",
+    "sex": "male",
+    "vocative": "Stanoja"
+  },
+  {
+    "name": "Stefan",
+    "sex": "male",
+    "vocative": "Stefane"
+  },
+  {
+    "name": "Stevan",
+    "sex": "male",
+    "vocative": "Stevane"
+  },
+  {
+    "name": "Stevo",
+    "sex": "male",
+    "vocative": "Stevo"
+  },
+  {
+    "name": "Steva",
+    "sex": "male",
+    "vocative": "Stevo"
+  },
+  {
+    "name": "Stevica",
+    "sex": "male",
+    "vocative": "Stevice"
+  },
+  {
+    "name": "Stepan",
+    "sex": "male",
+    "vocative": "Stepane"
+  },
+  {
+    "name": "Stjepan",
+    "sex": "male",
+    "vocative": "Stjepane"
+  },
+  {
+    "name": "Stoiljko",
+    "sex": "male",
+    "vocative": "Stoiljko"
+  },
+  {
+    "name": "Stoin",
+    "sex": "male",
+    "vocative": "Stoine"
+  },
+  {
+    "name": "Stoić",
+    "sex": "male",
+    "vocative": "Stoiću"
+  },
+  {
+    "name": "Stojadin",
+    "sex": "male",
+    "vocative": "Stojadine"
+  },
+  {
+    "name": "Stojak",
+    "sex": "male",
+    "vocative": "Stojače"
+  },
+  {
+    "name": "Stojan",
+    "sex": "male",
+    "vocative": "Stojane"
+  },
+  {
+    "name": "Stojko",
+    "sex": "male",
+    "vocative": "Stojko"
+  },
+  {
+    "name": "Stojmen",
+    "sex": "male",
+    "vocative": "Stojmene"
+  },
+  {
+    "name": "Stojša",
+    "sex": "male",
+    "vocative": "Stojša"
+  },
+  {
+    "name": "Stratimir",
+    "sex": "male",
+    "vocative": "Stratimire"
+  },
+  {
+    "name": "Stracimir",
+    "sex": "male",
+    "vocative": "Stracimire"
+  },
+  {
+    "name": "Strahin",
+    "sex": "male",
+    "vocative": "Strahine"
+  },
+  {
+    "name": "Strain",
+    "sex": "male",
+    "vocative": "Straine"
+  },
+  {
+    "name": "Strahinja",
+    "sex": "male",
+    "vocative": "Strahinja"
+  },
+  {
+    "name": "Strainja",
+    "sex": "male",
+    "vocative": "Strainja"
+  },
+  {
+    "name": "Stribor",
+    "sex": "male",
+    "vocative": "Stribore"
+  },
+  {
+    "name": "Sava",
+    "sex": "female",
+    "vocative": "Savo"
+  },
+  {
+    "name": "Saveta",
+    "sex": "female",
+    "vocative": "Saveta"
+  },
+  {
+    "name": "Savetka",
+    "sex": "female",
+    "vocative": "Savetka"
+  },
+  {
+    "name": "Sevetka",
+    "sex": "female",
+    "vocative": "Sevetka"
+  },
+  {
+    "name": "Savica",
+    "sex": "female",
+    "vocative": "Savice"
+  },
+  {
+    "name": "Savka",
+    "sex": "female",
+    "vocative": "Savka"
+  },
+  {
+    "name": "Sazdana",
+    "sex": "female",
+    "vocative": "Sazdana"
+  },
+  {
+    "name": "Sandra",
+    "sex": "female",
+    "vocative": "Sandra"
+  },
+  {
+    "name": "Sanela",
+    "sex": "female",
+    "vocative": "Sanela"
+  },
+  {
+    "name": "Sanja",
+    "sex": "female",
+    "vocative": "Sanja"
+  },
+  {
+    "name": "Sara",
+    "sex": "female",
+    "vocative": "Saro"
+  },
+  {
+    "name": "Svetislava",
+    "sex": "female",
+    "vocative": "Svetislava"
+  },
+  {
+    "name": "Svetlana",
+    "sex": "female",
+    "vocative": "Svetlana"
+  },
+  {
+    "name": "Svjetlana",
+    "sex": "female",
+    "vocative": "Svjetlana"
+  },
+  {
+    "name": "Sekana",
+    "sex": "female",
+    "vocative": "Sekana"
+  },
+  {
+    "name": "Selena",
+    "sex": "female",
+    "vocative": "Selena"
+  },
+  {
+    "name": "Senija",
+    "sex": "female",
+    "vocative": "Senija"
+  },
+  {
+    "name": "Senka",
+    "sex": "female",
+    "vocative": "Senka"
+  },
+  {
+    "name": "Sibina",
+    "sex": "female",
+    "vocative": "Sibina"
+  },
+  {
+    "name": "Sibinka",
+    "sex": "female",
+    "vocative": "Sibinka"
+  },
+  {
+    "name": "Simana",
+    "sex": "female",
+    "vocative": "Simana"
+  },
+  {
+    "name": "Simeuna",
+    "sex": "female",
+    "vocative": "Simeuna"
+  },
+  {
+    "name": "Simka",
+    "sex": "female",
+    "vocative": "Simka"
+  },
+  {
+    "name": "Simonida",
+    "sex": "female",
+    "vocative": "Simonida"
+  },
+  {
+    "name": "Simona",
+    "sex": "female",
+    "vocative": "Simona"
+  },
+  {
+    "name": "Sinđa",
+    "sex": "female",
+    "vocative": "Sinđo"
+  },
+  {
+    "name": "Sinđelija",
+    "sex": "female",
+    "vocative": "Sinđelija"
+  },
+  {
+    "name": "Skorosava",
+    "sex": "female",
+    "vocative": "Skorosava"
+  },
+  {
+    "name": "Slavica",
+    "sex": "female",
+    "vocative": "Slavice"
+  },
+  {
+    "name": "Slavka",
+    "sex": "female",
+    "vocative": "Slavka"
+  },
+  {
+    "name": "Slavna",
+    "sex": "female",
+    "vocative": "Slavna"
+  },
+  {
+    "name": "Slavenka",
+    "sex": "female",
+    "vocative": "Slavenka"
+  },
+  {
+    "name": "Slavojka",
+    "sex": "female",
+    "vocative": "Slavojka"
+  },
+  {
+    "name": "Slavujka",
+    "sex": "female",
+    "vocative": "Slavujka"
+  },
+  {
+    "name": "Slađana",
+    "sex": "female",
+    "vocative": "Slađana"
+  },
+  {
+    "name": "Slađanka",
+    "sex": "female",
+    "vocative": "Slađanka"
+  },
+  {
+    "name": "Slobodanka",
+    "sex": "female",
+    "vocative": "Slobodanka"
+  },
+  {
+    "name": "Slovenka",
+    "sex": "female",
+    "vocative": "Slovenka"
+  },
+  {
+    "name": "Smiljana",
+    "sex": "female",
+    "vocative": "Smiljana"
+  },
+  {
+    "name": "Smiljka",
+    "sex": "female",
+    "vocative": "Smiljka"
+  },
+  {
+    "name": "Smilja",
+    "sex": "female",
+    "vocative": "Smiljo"
+  },
+  {
+    "name": "Smoljana",
+    "sex": "female",
+    "vocative": "Smoljana"
+  },
+  {
+    "name": "Smoljka",
+    "sex": "female",
+    "vocative": "Smoljka"
+  },
+  {
+    "name": "Snežana",
+    "sex": "female",
+    "vocative": "Snežana"
+  },
+  {
+    "name": "Snježana",
+    "sex": "female",
+    "vocative": "Snježana"
+  },
+  {
+    "name": "Sofija",
+    "sex": "female",
+    "vocative": "Sofija"
+  },
+  {
+    "name": "Sovija",
+    "sex": "female",
+    "vocative": "Sovija"
+  },
+  {
+    "name": "Soka",
+    "sex": "female",
+    "vocative": "Soko"
+  },
+  {
+    "name": "Sonja",
+    "sex": "female",
+    "vocative": "Sonja"
+  },
+  {
+    "name": "Sofka",
+    "sex": "female",
+    "vocative": "Sofka"
+  },
+  {
+    "name": "Sovka",
+    "sex": "female",
+    "vocative": "Sovka"
+  },
+  {
+    "name": "Solumija",
+    "sex": "female",
+    "vocative": "Solumija"
+  },
+  {
+    "name": "Spasenija",
+    "sex": "female",
+    "vocative": "Spasenija"
+  },
+  {
+    "name": "Spasena",
+    "sex": "female",
+    "vocative": "Spasena"
+  },
+  {
+    "name": "Spasenka",
+    "sex": "female",
+    "vocative": "Spasenka"
+  },
+  {
+    "name": "Spomenka",
+    "sex": "female",
+    "vocative": "Spomenka"
+  },
+  {
+    "name": "Srbijanka",
+    "sex": "female",
+    "vocative": "Srbijanka"
+  },
+  {
+    "name": "Srbislava",
+    "sex": "female",
+    "vocative": "Srbislava"
+  },
+  {
+    "name": "Sretenka",
+    "sex": "female",
+    "vocative": "Sretenka"
+  },
+  {
+    "name": "Stajka",
+    "sex": "female",
+    "vocative": "Stajka"
+  },
+  {
+    "name": "Staka",
+    "sex": "female",
+    "vocative": "Stako"
+  },
+  {
+    "name": "Stamena",
+    "sex": "female",
+    "vocative": "Stamena"
+  },
+  {
+    "name": "Stamenka",
+    "sex": "female",
+    "vocative": "Stamenka"
+  },
+  {
+    "name": "Stana",
+    "sex": "female",
+    "vocative": "Stano"
+  },
+  {
+    "name": "Stanka",
+    "sex": "female",
+    "vocative": "Stanka"
+  },
+  {
+    "name": "Stanija",
+    "sex": "female",
+    "vocative": "Stanija"
+  },
+  {
+    "name": "Stanica",
+    "sex": "female",
+    "vocative": "Stanice"
+  },
+  {
+    "name": "Stanika",
+    "sex": "female",
+    "vocative": "Stanika"
+  },
+  {
+    "name": "Stanava",
+    "sex": "female",
+    "vocative": "Stanava"
+  },
+  {
+    "name": "Stanača",
+    "sex": "female",
+    "vocative": "Stanača"
+  },
+  {
+    "name": "Stanimirka",
+    "sex": "female",
+    "vocative": "Stanimirka"
+  },
+  {
+    "name": "Stanislava",
+    "sex": "female",
+    "vocative": "Stanislava"
+  },
+  {
+    "name": "Stanislavka",
+    "sex": "female",
+    "vocative": "Stanislavka"
+  },
+  {
+    "name": "Stanisava",
+    "sex": "female",
+    "vocative": "Stanisava"
+  },
+  {
+    "name": "Stanojka",
+    "sex": "female",
+    "vocative": "Stanojka"
+  },
+  {
+    "name": "Stanojla",
+    "sex": "female",
+    "vocative": "Stanojla"
+  },
+  {
+    "name": "Staša",
+    "sex": "female",
+    "vocative": "Stašo"
+  },
+  {
+    "name": "Stefana",
+    "sex": "female",
+    "vocative": "Stefana"
+  },
+  {
+    "name": "Stefanija",
+    "sex": "female",
+    "vocative": "Stefanija"
+  },
+  {
+    "name": "Stevana",
+    "sex": "female"
+  },
+  {
+    "name": "Stevanka",
+    "sex": "female",
+    "vocative": "Stevanka"
+  },
+  {
+    "name": "Stevka",
+    "sex": "female",
+    "vocative": "Stevka"
+  },
+  {
+    "name": "Stevanija",
+    "sex": "female",
+    "vocative": "Stevanija"
+  },
+  {
+    "name": "Stepanija",
+    "sex": "female"
+  },
+  {
+    "name": "Stoisava",
+    "sex": "female",
+    "vocative": "Stoisava"
+  },
+  {
+    "name": "Stojadinka",
+    "sex": "female",
+    "vocative": "Stojadinka"
+  },
+  {
+    "name": "Stojana",
+    "sex": "female",
+    "vocative": "Stojana"
+  },
+  {
+    "name": "Stojanka",
+    "sex": "female",
+    "vocative": "Stojanka"
+  },
+  {
+    "name": "Stojka",
+    "sex": "female",
+    "vocative": "Stojka"
+  },
+  {
+    "name": "Stoja",
+    "sex": "female",
+    "vocative": "Stojo"
+  },
+  {
+    "name": "Stojna",
+    "sex": "female",
+    "vocative": "Stojna"
+  },
+  {
+    "name": "Struja",
+    "sex": "female",
+    "vocative": "Strujo"
+  },
+  {
+    "name": "Suzana",
+    "sex": "female",
+    "vocative": "Suzana"
+  },
+  {
+    "name": "Sunčica",
+    "sex": "female",
+    "vocative": "Sunčice"
+  },
+  {
+    "name": "Sunčanica",
+    "sex": "female",
+    "vocative": "Sunčanice"
+  },
+  {
+    "name": "Tadej",
+    "sex": "male",
+    "vocative": "Tadeje"
+  },
+  {
+    "name": "Tadija",
+    "sex": "male",
+    "vocative": "Tadija"
+  },
+  {
+    "name": "Tanasije",
+    "sex": "male",
+    "vocative": "Tanasije"
+  },
+  {
+    "name": "Tanasko",
+    "sex": "male",
+    "vocative": "Tanasko"
+  },
+  {
+    "name": "Tanacko",
+    "sex": "male",
+    "vocative": "Tanacko"
+  },
+  {
+    "name": "Tatomir",
+    "sex": "male",
+    "vocative": "Tatomire"
+  },
+  {
+    "name": "Tvrtko",
+    "sex": "male",
+    "vocative": "Tvrtko"
+  },
+  {
+    "name": "Teodor",
+    "sex": "male",
+    "vocative": "Teodore"
+  },
+  {
+    "name": "Todor",
+    "sex": "male",
+    "vocative": "Todore"
+  },
+  {
+    "name": "Toša",
+    "sex": "male",
+    "vocative": "Tošo"
+  },
+  {
+    "name": "Tošo",
+    "sex": "male",
+    "vocative": "Tošo"
+  },
+  {
+    "name": "Tiodor",
+    "sex": "male",
+    "vocative": "Tiodore"
+  },
+  {
+    "name": "Teodosije",
+    "sex": "male",
+    "vocative": "Teodosije"
+  },
+  {
+    "name": "Teofil",
+    "sex": "male",
+    "vocative": "Teofile"
+  },
+  {
+    "name": "Tešan",
+    "sex": "male",
+    "vocative": "Tešane"
+  },
+  {
+    "name": "Timotej",
+    "sex": "male",
+    "vocative": "Timoteju"
+  },
+  {
+    "name": "Timotije",
+    "sex": "male",
+    "vocative": "Timotije"
+  },
+  {
+    "name": "Tiosav",
+    "sex": "male",
+    "vocative": "Tiosave"
+  },
+  {
+    "name": "Tihomir",
+    "sex": "male",
+    "vocative": "Tihomire"
+  },
+  {
+    "name": "Toma",
+    "sex": "male",
+    "vocative": "Tomo"
+  },
+  {
+    "name": "Tomo",
+    "sex": "male",
+    "vocative": "Tomo"
+  },
+  {
+    "name": "Tomaš",
+    "sex": "male",
+    "vocative": "Tomaše"
+  },
+  {
+    "name": "Tomica",
+    "sex": "male",
+    "vocative": "Tomice"
+  },
+  {
+    "name": "Tomislav",
+    "sex": "male",
+    "vocative": "Tomislave"
+  },
+  {
+    "name": "Toplica",
+    "sex": "male",
+    "vocative": "Toplice"
+  },
+  {
+    "name": "Trajan",
+    "sex": "male",
+    "vocative": "Trajane"
+  },
+  {
+    "name": "Trajko",
+    "sex": "male",
+    "vocative": "Trajko"
+  },
+  {
+    "name": "Trajče",
+    "sex": "male",
+    "vocative": "Trajče"
+  },
+  {
+    "name": "Trifun",
+    "sex": "male",
+    "vocative": "Trifune"
+  },
+  {
+    "name": "Trivun",
+    "sex": "male",
+    "vocative": "Trivune"
+  },
+  {
+    "name": "Tripun",
+    "sex": "male",
+    "vocative": "Tripune"
+  },
+  {
+    "name": "Trifko",
+    "sex": "male",
+    "vocative": "Trifko"
+  },
+  {
+    "name": "Trivko",
+    "sex": "male",
+    "vocative": "Trivko"
+  },
+  {
+    "name": "Tripko",
+    "sex": "male",
+    "vocative": "Tripko"
+  },
+  {
+    "name": "Triva",
+    "sex": "male",
+    "vocative": "Trivo"
+  },
+  {
+    "name": "Trivo",
+    "sex": "male",
+    "vocative": "Trivo"
+  },
+  {
+    "name": "Tripo",
+    "sex": "male",
+    "vocative": "Tripo"
+  },
+  {
+    "name": "Triša",
+    "sex": "male",
+    "vocative": "Trišo"
+  },
+  {
+    "name": "Trišo",
+    "sex": "male",
+    "vocative": "Trišo"
+  },
+  {
+    "name": "Trile",
+    "sex": "male",
+    "vocative": "Trile"
+  },
+  {
+    "name": "Trojan",
+    "sex": "male",
+    "vocative": "Trojane"
+  },
+  {
+    "name": "Trpko",
+    "sex": "male",
+    "vocative": "Trpko"
+  },
+  {
+    "name": "Tadeja",
+    "sex": "female",
+    "vocative": "Tadeja"
+  },
+  {
+    "name": "Tajana",
+    "sex": "female",
+    "vocative": "Tajana"
+  },
+  {
+    "name": "Tamara",
+    "sex": "female",
+    "vocative": "Tamara"
+  },
+  {
+    "name": "Tanasija",
+    "sex": "female",
+    "vocative": "Tanasija"
+  },
+  {
+    "name": "Tankosa",
+    "sex": "female",
+    "vocative": "Tankosa"
+  },
+  {
+    "name": "Tankosava",
+    "sex": "female",
+    "vocative": "Tankosava"
+  },
+  {
+    "name": "Tara",
+    "sex": "female",
+    "vocative": "Taro"
+  },
+  {
+    "name": "Tatjana",
+    "sex": "female",
+    "vocative": "Tatjana"
+  },
+  {
+    "name": "Tanja",
+    "sex": "female",
+    "vocative": "Tanja"
+  },
+  {
+    "name": "Teodora",
+    "sex": "female",
+    "vocative": "Teodora"
+  },
+  {
+    "name": "Todora",
+    "sex": "female",
+    "vocative": "Todora"
+  },
+  {
+    "name": "Tea",
+    "sex": "female",
+    "vocative": "Tea"
+  },
+  {
+    "name": "Teona",
+    "sex": "female",
+    "vocative": "Teona"
+  },
+  {
+    "name": "Tijana",
+    "sex": "female",
+    "vocative": "Tijana"
+  },
+  {
+    "name": "Timka",
+    "sex": "female",
+    "vocative": "Timka"
+  },
+  {
+    "name": "Tiosava",
+    "sex": "female",
+    "vocative": "Tiosava"
+  },
+  {
+    "name": "Tihomirka",
+    "sex": "female",
+    "vocative": "Tihomirka"
+  },
+  {
+    "name": "Tomanija",
+    "sex": "female",
+    "vocative": "Tomanija"
+  },
+  {
+    "name": "Tomana",
+    "sex": "female",
+    "vocative": "Tomana"
+  },
+  {
+    "name": "Tomka",
+    "sex": "female",
+    "vocative": "Tomka"
+  },
+  {
+    "name": "Tomislava",
+    "sex": "female",
+    "vocative": "Tomislava"
+  },
+  {
+    "name": "Trajanka",
+    "sex": "female",
+    "vocative": "Trajanka"
+  },
+  {
+    "name": "Ćetko",
+    "sex": "male",
+    "vocative": "Ćetko"
+  },
+  {
+    "name": "Ćirilo",
+    "sex": "male",
+    "vocative": "Ćirilo"
+  },
+  {
+    "name": "Ćirko",
+    "sex": "male",
+    "vocative": "Ćirko"
+  },
+  {
+    "name": "Ćira",
+    "sex": "male",
+    "vocative": "Ćiro"
+  },
+  {
+    "name": "Ćiro",
+    "sex": "male",
+    "vocative": "Ćiro"
+  },
+  {
+    "name": "Ćirjak",
+    "sex": "male",
+    "vocative": "Ćirjače"
+  },
+  {
+    "name": "Ćerana",
+    "sex": "female",
+    "vocative": "Ćerana"
+  },
+  {
+    "name": "Uglješa",
+    "sex": "male",
+    "vocative": "Uglješa"
+  },
+  {
+    "name": "Ugrin",
+    "sex": "male",
+    "vocative": "Ugrine"
+  },
+  {
+    "name": "Ugren",
+    "sex": "male",
+    "vocative": "Ugrene"
+  },
+  {
+    "name": "Umiljen",
+    "sex": "male",
+    "vocative": "Umiljene"
+  },
+  {
+    "name": "Uroš",
+    "sex": "male",
+    "vocative": "Uroše"
+  },
+  {
+    "name": "Urošic",
+    "sex": "male"
+  },
+  {
+    "name": "Utješen",
+    "sex": "male",
+    "vocative": "Utješene"
+  },
+  {
+    "name": "Utešen",
+    "sex": "male",
+    "vocative": "Utešene"
+  },
+  {
+    "name": "Ubavka",
+    "sex": "female",
+    "vocative": "Ubavka"
+  },
+  {
+    "name": "Ugrinja",
+    "sex": "female",
+    "vocative": "Ugrinja"
+  },
+  {
+    "name": "Ugrinka",
+    "sex": "female",
+    "vocative": "Ugrinka"
+  },
+  {
+    "name": "Una",
+    "sex": "female",
+    "vocative": "Una"
+  },
+  {
+    "name": "Filimon",
+    "sex": "male",
+    "vocative": "Filimone"
+  },
+  {
+    "name": "Filip",
+    "sex": "male",
+    "vocative": "Filipe"
+  },
+  {
+    "name": "Fema",
+    "sex": "female",
+    "vocative": "Femo"
+  },
+  {
+    "name": "Femka",
+    "sex": "female",
+    "vocative": "Femka"
+  },
+  {
+    "name": "Hvalimir",
+    "sex": "male",
+    "vocative": "Hvalimire"
+  },
+  {
+    "name": "Hvalislav",
+    "sex": "male",
+    "vocative": "Hvalislave"
+  },
+  {
+    "name": "Hranimir",
+    "sex": "male",
+    "vocative": "Hranimire"
+  },
+  {
+    "name": "Hranislav",
+    "sex": "male",
+    "vocative": "Hranislave"
+  },
+  {
+    "name": "Hraniša",
+    "sex": "male",
+    "vocative": "Hraniša"
+  },
+  {
+    "name": "Hrastimir",
+    "sex": "male",
+    "vocative": "Hrastimire"
+  },
+  {
+    "name": "Hristivoje",
+    "sex": "male",
+    "vocative": "Hristivoje"
+  },
+  {
+    "name": "Hristijan",
+    "sex": "male",
+    "vocative": "Hristijane"
+  },
+  {
+    "name": "Hristoslav",
+    "sex": "male",
+    "vocative": "Hristoslave"
+  },
+  {
+    "name": "Hristof",
+    "sex": "male",
+    "vocative": "Hristofe"
+  },
+  {
+    "name": "Hranislava",
+    "sex": "female",
+    "vocative": "Hranislava"
+  },
+  {
+    "name": "Hristina",
+    "sex": "female",
+    "vocative": "Hrisitna"
+  },
+  {
+    "name": "Caka",
+    "sex": "male",
+    "vocative": "Cako"
+  },
+  {
+    "name": "Cakan",
+    "sex": "male",
+    "vocative": "Cakane"
+  },
+  {
+    "name": "Caki",
+    "sex": "male",
+    "vocative": "Caki"
+  },
+  {
+    "name": "Cvejan",
+    "sex": "male",
+    "vocative": "Cvejane"
+  },
+  {
+    "name": "Cvijan",
+    "sex": "male",
+    "vocative": "Cvijane"
+  },
+  {
+    "name": "Cveja",
+    "sex": "male",
+    "vocative": "Cvejo"
+  },
+  {
+    "name": "Cvijo",
+    "sex": "male",
+    "vocative": "Cvijo"
+  },
+  {
+    "name": "Cvija",
+    "sex": "male",
+    "vocative": "Cvijo"
+  },
+  {
+    "name": "Cvetan",
+    "sex": "male",
+    "vocative": "Cvetane"
+  },
+  {
+    "name": "Cvjetan",
+    "sex": "male",
+    "vocative": "Cvjetane"
+  },
+  {
+    "name": "Cvetin",
+    "sex": "male",
+    "vocative": "Cvetine"
+  },
+  {
+    "name": "Cvijetin",
+    "sex": "male",
+    "vocative": "Cvijetine"
+  },
+  {
+    "name": "Cvetko",
+    "sex": "male",
+    "vocative": "Cvetko"
+  },
+  {
+    "name": "Cvjetko",
+    "sex": "male",
+    "vocative": "Cvjetko"
+  },
+  {
+    "name": "Cvetoje",
+    "sex": "male",
+    "vocative": "Cvetoje"
+  },
+  {
+    "name": "Cvjetoje",
+    "sex": "male",
+    "vocative": "Cvjetoje"
+  },
+  {
+    "name": "Cvetoš",
+    "sex": "male",
+    "vocative": "Cvetoše"
+  },
+  {
+    "name": "Cvjetoš",
+    "sex": "male",
+    "vocative": "Cvjetoše"
+  },
+  {
+    "name": "Cviko",
+    "sex": "male",
+    "vocative": "Cviko"
+  },
+  {
+    "name": "Curko",
+    "sex": "male",
+    "vocative": "Curko"
+  },
+  {
+    "name": "Caka",
+    "sex": "female",
+    "vocative": "Cako"
+  },
+  {
+    "name": "Cakana",
+    "sex": "female",
+    "vocative": "Cakana"
+  },
+  {
+    "name": "Cveta",
+    "sex": "female",
+    "vocative": "Cveto"
+  },
+  {
+    "name": "Cvijeta",
+    "sex": "female",
+    "vocative": "Cvijeto"
+  },
+  {
+    "name": "Cvetana",
+    "sex": "female",
+    "vocative": "Cvetana"
+  },
+  {
+    "name": "Cvetanka",
+    "sex": "female",
+    "vocative": "Cvetanka"
+  },
+  {
+    "name": "Cvija",
+    "sex": "female",
+    "vocative": "Cvijo"
+  },
+  {
+    "name": "Cmiljana",
+    "sex": "female",
+    "vocative": "Cmiljana"
+  },
+  {
+    "name": "Cmilja",
+    "sex": "female",
+    "vocative": "Cmiljo"
+  },
+  {
+    "name": "Cmiljka",
+    "sex": "female",
+    "vocative": "Cmiljka"
+  },
+  {
+    "name": "Časlav",
+    "sex": "male",
+    "vocative": "Časlave"
+  },
+  {
+    "name": "Čedomir",
+    "sex": "male",
+    "vocative": "Čedomire"
+  },
+  {
+    "name": "Čeda",
+    "sex": "male",
+    "vocative": "Čedo"
+  },
+  {
+    "name": "Čedo",
+    "sex": "male",
+    "vocative": "Čedo"
+  },
+  {
+    "name": "Čubrilo",
+    "sex": "male",
+    "vocative": "Čubrilo"
+  },
+  {
+    "name": "Čarna",
+    "sex": "female",
+    "vocative": "Čarna"
+  },
+  {
+    "name": "Časlavka",
+    "sex": "female",
+    "vocative": "Časlavka"
+  },
+  {
+    "name": "Čedomirka",
+    "sex": "female",
+    "vocative": "Čedomirka"
+  },
+  {
+    "name": "Šakota",
+    "sex": "male",
+    "vocative": "Šakota"
+  },
+  {
+    "name": "Šale",
+    "sex": "male",
+    "vocative": "Šale"
+  },
+  {
+    "name": "Špira",
+    "sex": "male"
+    
+  },
+  {
+    "name": "Špiro",
+    "sex": "male",
+    "vocative": "Špiro"
+  },
+  {
+    "name": "Šćepan",
+    "sex": "male",
+    "vocative": "Šćepane"
+  },
+  {
+    "name": "Šumenko",
+    "sex": "male",
+    "vocative": "Šumenko"
+  },
+  {
+    "name": "Šutan",
+    "sex": "male",
+    "vocative": "Šutane"
+  },
+  {
+    "name": "Šana",
+    "sex": "female",
+    "vocative": "Šano"
+  },
+  {
+    "name": "Šćepanija",
+    "sex": "female"
+  }
+]
