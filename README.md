@@ -4,7 +4,7 @@
 
 # Deklinacija API
 
-Free commercial use. There is no limit on usage or pricing, but please be respectful and don't abuse the API.
+Free for commercial use. There is no limit on usage or pricing, but please be respectful and don't abuse the API.
 
 Slobodno korišćenje API-a za komercijalne svrhe. Nema ograničenja niti cene, ali vas molim da budete pošteni i da ne zloupotrebljavate API.
 
@@ -37,5 +37,3 @@ Host: localhost:3009
   "status": "Not found"
 }
 ```
-
-Created by Ognjen Jovanović — GitHub: [github.com/ogi-joo](https://github.com/ogi-joo)
