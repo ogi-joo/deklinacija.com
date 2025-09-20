@@ -14,8 +14,7 @@ GET `https://deklinacija.com/api/:name` (case-insensitive)
 
 Example request:
 ```http
-GET /api/Ognjen HTTP/1.1
-Host: localhost:3009
+GET /api/Ognjen
 ```
 
 200 Success response:
