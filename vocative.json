@@ -130,6 +130,26 @@
     "vocative": "Anto"
   },
   {
+    "name": "Ante",
+    "sex": "male",
+    "vocative": "Ante"
+  },
+  {
+    "name": "Mihaela",
+    "sex": "female",
+    "vocative": "Mihaela"
+  },
+  {
+    "name": "Renata",
+    "sex": "female",
+    "vocative": "Renata"
+  },
+  {
+    "name": "Sebastijan",
+    "sex": "male",
+    "vocative": "Sebastijane"
+  },
+  {
     "name": "Aranđel",
     "sex": "male",
     "vocative": "Aranđele"
@@ -208,6 +228,11 @@
     "name": "Ana",
     "sex": "female",
     "vocative": "Ana"
+  },
+  {
+    "name": "Anja",
+    "sex": "female",
+    "vocative": "Anja"
   },
   {
     "name": "Anastasija",
