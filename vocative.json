@@ -775,8 +775,9 @@
     "vocative": "Bogdanka"
   },
   {
-    "name": "Bogȉnja",
-    "sex": "female"
+    "name": "Boginja",
+    "sex": "female",
+    "vocative": "Boginja"
   },
   {
     "name": "Božana",
@@ -1270,7 +1271,8 @@
   },
   {
     "name": "Vojica",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Vojice"
   },
   {
     "name": "Voja",
@@ -1289,11 +1291,13 @@
   },
   {
     "name": "Voislav",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Voislave"
   },
   {
     "name": "Vraneš",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Vraneše"
   },
   {
     "name": "Vugdrag",
@@ -1387,7 +1391,8 @@
   },
   {
     "name": "Vukac",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Vukače"
   },
   {
     "name": "Vukač",
@@ -1446,7 +1451,8 @@
   },
   {
     "name": "Vukmilj",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Vukmilje"
   },
   {
     "name": "Vukoje",
@@ -1755,7 +1761,8 @@
   },
   {
     "name": "Vladisava",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Vladisava"
   },
   {
     "name": "Vlajka",
@@ -1784,7 +1791,8 @@
   },
   {
     "name": "Voislava",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Voislava"
   },
   {
     "name": "Vojislavka",
@@ -1938,7 +1946,8 @@
   },
   {
     "name": "Godeč",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Godeče"
   },
   {
     "name": "Godomir",
@@ -2502,7 +2511,8 @@
   },
   {
     "name": "Dražeta",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Dražeta"
   },
   {
     "name": "Draže",
@@ -2701,7 +2711,8 @@
   },
   {
     "name": "Dmitra",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Dmitra"
   },
   {
     "name": "Dobrila",
@@ -2845,7 +2856,8 @@
   },
   {
     "name": "Draženka",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Draženka"
   },
   {
     "name": "Dušanka",
@@ -4554,7 +4566,8 @@
   },
   {
     "name": "Lelica",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Lelice"
   },
   {
     "name": "Lena",
@@ -5203,7 +5216,8 @@
   },
   {
     "name": "Milj",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Milje"
   },
   {
     "name": "Miljkan",
@@ -5812,7 +5826,8 @@
   },
   {
     "name": "Mlađana",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Mlađana"
   },
   {
     "name": "Momirka",
@@ -5936,11 +5951,13 @@
   },
   {
     "name": "Nikoslav",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Nikoslave"
   },
   {
     "name": "Nikosav",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Nikosave"
   },
   {
     "name": "Ninko",
@@ -6089,11 +6106,13 @@
   },
   {
     "name": "Nika",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Nika"
   },
   {
     "name": "Nikodija",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Nikodija"
   },
   {
     "name": "Nikoleta",
@@ -6112,20 +6131,18 @@
   },
   {
     "name": "Nikoslava",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Nikoslava"
   },
   {
     "name": "Nikosava",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Nikosava"
   },
   {
     "name": "Nina",
     "sex": "female",
     "vocative": "Nina"
-  },
-  {
-    "name": "ru",
-    "sex": "female"
   },
   {
     "name": "Ninoslava",
@@ -6169,7 +6186,8 @@
   },
   {
     "name": "Njegovanka",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Njegovanka"
   },
   {
     "name": "Njegomirka",
@@ -6243,11 +6261,13 @@
   },
   {
     "name": "Omilj",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Omilje"
   },
   {
     "name": "Omiljen",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Omiljene"
   },
   {
     "name": "Ostoja",
@@ -6401,7 +6421,8 @@
   },
   {
     "name": "Petruš",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Petruše"
   },
   {
     "name": "Pera",
@@ -6465,7 +6486,8 @@
   },
   {
     "name": "Pokrajac",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Pokrajače"
   },
   {
     "name": "Prvoslav",
@@ -6489,7 +6511,8 @@
   },
   {
     "name": "Pribić",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Pribiću"
   },
   {
     "name": "Prodan",
@@ -6768,7 +6791,8 @@
   },
   {
     "name": "Radovac",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Radovače"
   },
   {
     "name": "Radovin",
@@ -8202,7 +8226,8 @@
   },
   {
     "name": "Stevana",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Stevana"
   },
   {
     "name": "Stevanka",
@@ -8221,7 +8246,8 @@
   },
   {
     "name": "Stepanija",
-    "sex": "female"
+    "sex": "female",
+    "vocative": "Stepanija"
   },
   {
     "name": "Stoisava",
@@ -8660,7 +8686,8 @@
   },
   {
     "name": "Urošic",
-    "sex": "male"
+    "sex": "male",
+    "vocative": "Urošice"
   },
   {
     "name": "Utješen",
