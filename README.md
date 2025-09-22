@@ -4,7 +4,9 @@
 
 # Deklinacija API
 
-Free for commercial use. There is no limit on usage or pricing, but please be respectful and don't abuse the API.
+[deklinacija.com](https://deklinacija.com)
+
+Free commercial use. There is no limit on usage or pricing, but please be respectful and don't abuse the API.
 
 Slobodno korišćenje API-a za komercijalne svrhe. Nema ograničenja niti cene, ali vas molim da budete pošteni i da ne zloupotrebljavate API.
 
@@ -14,7 +16,8 @@ GET `https://deklinacija.com/api/:name` (case-insensitive)
 
 Example request:
 ```http
-GET /api/Ognjen
+GET /api/Ognjen HTTP/1.1
+Host: localhost:3009
 ```
 
 200 Success response:
@@ -31,8 +34,21 @@ GET /api/Ognjen
 ```json
 {
   "name": "Ognjan",
-  "sex": "",
-  "vocative": "",
+  "sex": null,
+  "vocative": null,
   "status": "Not found"
 }
 ```
+
+## Response format
+
+```json
+{
+  "name": string,
+  "sex": string|null,
+  "vocative": string|null,
+  "status": "Success"|"Not found"
+}
+```
+
+
