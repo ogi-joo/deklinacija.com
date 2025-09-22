@@ -42,12 +42,12 @@ Host: localhost:3009
 
 ## Response format
 
-```json
+```typescript
 {
   "name": string,
-  "sex": string|null,
-  "vocative": string|null,
-  "status": "Success"|"Not found"
+  "sex": "male" | "female" | "both" | null,
+  "vocative": string | null,
+  "status": "Success" | "Not found"
 }
 ```
 
