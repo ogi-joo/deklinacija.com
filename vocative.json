@@ -1,5 +1,10 @@
 [
   {
+    "name": "Lav",
+    "sex": "male",
+    "vocative": "Lave"
+  },
+  {
     "name": "Avakum",
     "sex": "male",
     "vocative": "Avakume"
