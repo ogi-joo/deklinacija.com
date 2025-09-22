@@ -2,6 +2,17 @@
 
 **vocative.json** contains about 1800 known names with vocative form in Serbia and Balkans.
 
+# New: NPM Package
+```cmd
+npm install deklinacija
+```
+```js
+import dekl from 'deklinacija'
+dekl("Ognjen").vocative      //string or null
+dekl("Ognjen").vocativeCyr   //string or null
+dekl("Ognjen").sex           // "male", "female", "both" or null
+```
+
 # Deklinacija API
 
 [deklinacija.com](https://deklinacija.com)
