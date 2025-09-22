@@ -14,6 +14,8 @@ Slobodno korišćenje API-a za komercijalne svrhe. Nema ograničenja niti cene, 
 
 GET `https://deklinacija.com/api/:name` (case-insensitive)
 
+Supports Serbian Cyrillic input. For example, `/api/Огњен` is equivalent to `/api/Ognjen`.
+
 Example request:
 ```http
 GET /api/Ognjen HTTP/1.1
@@ -26,6 +28,7 @@ Host: localhost:3009
   "name": "Ognjen",
   "sex": "male",
   "vocative": "Ognjene",
+  "vocative_cyr": "Огњене",
   "status": "Success"
 }
 ```
@@ -36,6 +39,7 @@ Host: localhost:3009
   "name": "Ognjan",
   "sex": null,
   "vocative": null,
+  "vocative_cyr": null,
   "status": "Not found"
 }
 ```
@@ -47,6 +51,7 @@ Host: localhost:3009
   "name": string,
   "sex": "male" | "female" | "both" | null,
   "vocative": string | null,
+  "vocative_cyr": string | null,
   "status": "Success" | "Not found"
 }
 ```
