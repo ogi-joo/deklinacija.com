@@ -1,0 +1,14 @@
+# Live-reload config for https://github.com/air-verse/air
+# Usage: install air, then run `air` inside this folder during development.
+root = "."
+tmp_dir = "tmp"
+
+[build]
+  cmd = "go build -o ./tmp/main ."
+  bin = "./tmp/main"
+  include_ext = ["go", "json", "html"]
+  exclude_dir = ["tmp", "favicons", "favicons_dark"]
+  delay = 300
+
+[misc]
+  clean_on_exit = true

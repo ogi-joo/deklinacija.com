@@ -1,0 +1,15 @@
+# Compiled binaries
+deklinacija-api
+deklinacija-api-*
+*.exe
+main
+
+# Generated BoltDB cache (rebuilt from vocative.json on startup)
+names.db
+
+# Local dev
+tmp/
+bin/
+.env
+.env.*
+!.env.example

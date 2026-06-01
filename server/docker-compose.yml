@@ -1,0 +1,17 @@
+services:
+  deklinacija-api:
+    # Build context is the repo root so ../vocative.json is available to the image.
+    build:
+      context: ..
+      dockerfile: server/Dockerfile
+    image: deklinacija-api
+    container_name: deklinacija-api
+    ports:
+      - "${PORT:-3009}:3009"
+    environment:
+      # Server always listens on 3009 inside the container; map it with the host port above.
+      PORT: "3009"
+      # Optional analytics — leave unset to disable (recommended for self-hosting).
+      # POSTHOG_KEY: "phc_xxx"
+      # POSTHOG_HOST: "https://eu.i.posthog.com"
+    restart: unless-stopped

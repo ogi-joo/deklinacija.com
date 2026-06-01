@@ -1,0 +1,14 @@
+# Build context is the repo root (see server/Dockerfile).
+# Build artifacts and local state — never copy into the image.
+.git
+README.md
+server/deklinacija-api
+server/deklinacija-api-*
+server/*.exe
+server/names.db
+server/tmp/
+server/bin/
+server/.air.toml
+server/.env
+server/.env.*
+!server/.env.example
