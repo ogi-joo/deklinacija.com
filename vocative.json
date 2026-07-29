@@ -3660,6 +3660,11 @@
     "vocative": "Iskra"
   },
   {
+    "name": "Ines",
+    "sex": "female",
+    "vocative": "Ines"
+  },
+  {
     "name": "Jablan",
     "sex": "male",
     "vocative": "Jablane"
@@ -5535,6 +5540,11 @@
     "vocative": "Marina"
   },
   {
+    "name": "Marinela",
+    "sex": "female",
+    "vocative": "Marinela"
+  },
+  {
     "name": "Marinka",
     "sex": "female",
     "vocative": "Marinka"
@@ -5553,6 +5563,11 @@
     "name": "Metohija",
     "sex": "female",
     "vocative": "Metohijo"
+  },
+  {
+    "name": "Mia",
+    "sex": "female",
+    "vocative": "Mia"
   },
   {
     "name": "Mijana",
@@ -5953,6 +5968,11 @@
     "name": "Nikodim",
     "sex": "male",
     "vocative": "Nikodime"
+  },
+  {
+    "name": "Nikodin",
+    "sex": "male",
+    "vocative": "Nikodine"
   },
   {
     "name": "Nikodije",
@@ -8513,6 +8533,11 @@
     "name": "Tripo",
     "sex": "male",
     "vocative": "Tripo"
+  },
+  {
+    "name": "Tristan",
+    "sex": "male",
+    "vocative": "Tristane"
   },
   {
     "name": "Triša",
