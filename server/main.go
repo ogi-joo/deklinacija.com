@@ -521,9 +521,6 @@ func analyticsSnippet() string {
 }
 
 func isRejectedInput(name string) bool {
-	if len(strings.Fields(name)) > 1 {
-		return true
-	}
 	return strings.ContainsAny(name, "<>")
 }
 
