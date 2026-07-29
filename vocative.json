@@ -4541,7 +4541,7 @@
   },
   {
     "name": "Lola",
-    "sex": "male",
+    "sex": "both",
     "vocative": "Lolo"
   },
   {
@@ -4653,11 +4653,6 @@
     "name": "Loza",
     "sex": "female",
     "vocative": "Lozo"
-  },
-  {
-    "name": "Lola",
-    "sex": "female",
-    "vocative": "Lolo"
   },
   {
     "name": "Luna",
