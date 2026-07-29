@@ -98,6 +98,7 @@ func main() {
 	// Serve static favicons from ./favicons at /favicons/
 	http.Handle("/favicons/", http.StripPrefix("/favicons/", http.FileServer(http.Dir("favicons"))))
 	http.Handle("/favicons_dark/", http.StripPrefix("/favicons_dark/", http.FileServer(http.Dir("favicons_dark"))))
+	http.Handle("/assets/", http.StripPrefix("/assets/", http.FileServer(http.Dir("assets"))))
 
 	addr := ":" + getenv("PORT", "3009")
 	log.Printf("listening on %s", addr)
@@ -218,6 +219,13 @@ pre code{background:none;padding:0;font-size:inherit}
 .badge{font-size:11px;font-weight:600;border-radius:999px;padding:2px 9px;border:1px solid transparent;white-space:nowrap}
 .badge.s{background:var(--success-bg);color:var(--success-fg);border-color:var(--success-border)}
 .badge.n{background:var(--danger-bg);color:var(--danger-fg);border-color:var(--danger-border)}
+.badge.f{background:var(--danger-bg);color:var(--danger-fg);border-color:var(--danger-border)}
+dialog#nonoDialog{border:1px solid var(--border);border-radius:12px;padding:0;background:var(--surface);color:var(--text);box-shadow:0 8px 32px rgba(0,0,0,.24);max-width:min(360px,92vw)}
+dialog#nonoDialog::backdrop{background:rgba(0,0,0,.45)}
+dialog#nonoDialog .nonoBody{padding:16px;display:flex;flex-direction:column;align-items:center;gap:14px}
+dialog#nonoDialog img{display:block;width:100%;max-width:320px;height:auto;border-radius:8px}
+dialog#nonoDialog button{display:inline-flex;align-items:center;justify-content:center;background:var(--accent);color:var(--accent-fg);border:1px solid color-mix(in srgb,var(--accent) 80%,#000);border-radius:8px;padding:8px 20px;font-weight:600;font-size:14px;cursor:pointer}
+dialog#nonoDialog button:hover{background:var(--accent-emphasis)}
 .legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:10px}
 .legend span{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--muted)}
 .dot{width:9px;height:9px;border-radius:999px;display:inline-block}
@@ -294,7 +302,8 @@ async function drawRequests(){
     data.forEach((r)=>{
       const status = (r.status||r.Status||'');
       const good = /^Success$/i.test(status);
-      const badge = good? '<span class="badge s">Success</span>' : '<span class="badge n">Not found</span>';
+      const failed = /^failed$/i.test(status);
+      const badge = good? '<span class="badge s">Success</span>' : (failed? '<span class="badge f">failed</span>' : '<span class="badge n">Not found</span>');
       const time = fmt(r.time||r.Time||'');
       const name = r.name||r.Name||'';
       const row = document.createElement('div');
@@ -304,18 +313,27 @@ async function drawRequests(){
     });
   }catch(e){/* ignore */}
 }
+function looksLikeHTML(s){
+  return /[<>]/.test(s||'');
+}
+function showNonoDialog(){
+  const dlg = document.getElementById('nonoDialog');
+  if(dlg && typeof dlg.showModal==='function') dlg.showModal();
+}
 async function queryAPI(){
   const input = document.getElementById('nameInput');
   const out = document.getElementById('result');
   if(!input || !out) return;
   const name = (input.value||'').trim();
   if(!name){ out.textContent=''; return; }
+  const htmlAttempt = looksLikeHTML(name);
   out.textContent = 'Loading...';
   try{
     const res = await fetch('/api/'+encodeURIComponent(name), {cache:'no-store'});
     const text = await res.text();
     try{ out.textContent = JSON.stringify(JSON.parse(text), null, 2); }
     catch(_){ out.textContent = text; }
+    if(htmlAttempt) showNonoDialog();
   }catch(e){ out.textContent = 'Network error'; }
 }
 function currentTheme(){
@@ -433,7 +451,7 @@ dekl("Ognjen").sex          // "male"</code></pre>
   "sex": "male" | "female" | "both" | null,
   "vocative": string | null,
   "vocative_cyr": string | null,
-  "status": "Success" | "Not found"
+  "status": "Success" | "Not found" | "failed"
 }</code></pre>
       <p class="muted">Example:</p>
       <pre><code>{
@@ -470,6 +488,12 @@ dekl("Ognjen").sex          // "male"</code></pre>
     <span><a href="https://github.com/ogi-joo" target="_blank" rel="noopener">github.com/ogi-joo</a> · MIT licensed</span>
   </div>
 </footer>
+<dialog id="nonoDialog">
+  <form method="dialog" class="nonoBody">
+    <img src="/assets/nono.jpeg" alt="No no no" width="320" height="320">
+    <button value="ok">OK</button>
+  </form>
+</dialog>
 </body>
 </html>`
 	page = strings.Replace(page, "__ANALYTICS__", analyticsSnippet(), 1)
@@ -496,6 +520,26 @@ func analyticsSnippet() string {
 </script>`
 }
 
+func isRejectedInput(name string) bool {
+	if len(strings.Fields(name)) > 1 {
+		return true
+	}
+	return strings.ContainsAny(name, "<>")
+}
+
+func writeFailedNoNo(w http.ResponseWriter) {
+	_ = recordRequest("No no...", "failed")
+	w.Header().Set("Content-Type", "application/json; charset=utf-8")
+	w.WriteHeader(http.StatusBadRequest)
+	_ = json.NewEncoder(w).Encode(apiResponse{
+		Name:        "No no...",
+		Sex:         nil,
+		Vocative:    nil,
+		VocativeCyr: nil,
+		Status:      "failed",
+	})
+}
+
 func handleAPI(w http.ResponseWriter, r *http.Request) {
 	// Expect path like /api/:name
 	namePart := strings.TrimPrefix(r.URL.Path, "/api/")
@@ -510,6 +554,11 @@ func handleAPI(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	name := decoded
+
+	if isRejectedInput(name) {
+		writeFailedNoNo(w)
+		return
+	}
 
 	// If input contains Cyrillic, transliterate to Latin for lookup
 	query := name

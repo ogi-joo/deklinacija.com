@@ -24,6 +24,7 @@ COPY --from=build /out/deklinacija-api /app/deklinacija-api
 COPY vocative.json /app/vocative.json
 COPY server/favicons /app/favicons
 COPY server/favicons_dark /app/favicons_dark
+COPY server/assets /app/assets
 
 ENV PORT=3009
 # Dataset lives next to the binary inside the image (overrides the ../ dev default).
