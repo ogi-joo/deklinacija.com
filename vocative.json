@@ -240,6 +240,16 @@
     "vocative": "Ana"
   },
   {
+    "name": "Ana Maria",
+    "sex": "female",
+    "vocative": "Ana Maria"
+  },
+  {
+    "name": "Ana Marija",
+    "sex": "female",
+    "vocative": "Ana Marija"
+  },
+  {
     "name": "Anja",
     "sex": "female",
     "vocative": "Anja"
@@ -5485,6 +5495,11 @@
     "vocative": "Manduša"
   },
   {
+    "name": "Maria",
+    "sex": "female",
+    "vocative": "Maria"
+  },
+  {
     "name": "Marija",
     "sex": "female",
     "vocative": "Marija"
@@ -9007,7 +9022,7 @@
   {
     "name": "Špira",
     "sex": "male",
-    "vocative":"Špiro"
+    "vocative": "Špiro"
   },
   {
     "name": "Špiro",
