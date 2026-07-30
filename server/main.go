@@ -4,10 +4,13 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
+	"net"
 	"net/http"
 	"net/url"
 	"os"
+	"strconv"
 	"strings"
+	"sync"
 	"time"
 	"unicode"
 	"unicode/utf8"
@@ -33,7 +36,106 @@ var (
 	namesPath   string
 	posthogKey  string
 	posthogHost string
+	rateLimitRPS float64
 )
+
+const maxRecentRequests = 100
+
+type ipRateLimiter struct {
+	mu       sync.Mutex
+	visitors map[string]*visitor
+	rate     float64
+	burst    float64
+}
+
+type visitor struct {
+	tokens   float64
+	lastSeen time.Time
+}
+
+func newIPRateLimiter(rate, burst float64) *ipRateLimiter {
+	rl := &ipRateLimiter{
+		visitors: make(map[string]*visitor),
+		rate:     rate,
+		burst:    burst,
+	}
+	go rl.cleanup()
+	return rl
+}
+
+func (rl *ipRateLimiter) allow(ip string) bool {
+	rl.mu.Lock()
+	defer rl.mu.Unlock()
+
+	now := time.Now()
+	v, ok := rl.visitors[ip]
+	if !ok {
+		rl.visitors[ip] = &visitor{tokens: rl.burst - 1, lastSeen: now}
+		return true
+	}
+
+	elapsed := now.Sub(v.lastSeen).Seconds()
+	v.tokens += elapsed * rl.rate
+	if v.tokens > rl.burst {
+		v.tokens = rl.burst
+	}
+	v.lastSeen = now
+
+	if v.tokens < 1 {
+		return false
+	}
+	v.tokens--
+	return true
+}
+
+func (rl *ipRateLimiter) cleanup() {
+	ticker := time.NewTicker(5 * time.Minute)
+	defer ticker.Stop()
+	for range ticker.C {
+		rl.mu.Lock()
+		cutoff := time.Now().Add(-10 * time.Minute)
+		for ip, v := range rl.visitors {
+			if v.lastSeen.Before(cutoff) {
+				delete(rl.visitors, ip)
+			}
+		}
+		rl.mu.Unlock()
+	}
+}
+
+func clientIP(r *http.Request) string {
+	if xff := r.Header.Get("X-Forwarded-For"); xff != "" {
+		if i := strings.IndexByte(xff, ','); i >= 0 {
+			return strings.TrimSpace(xff[:i])
+		}
+		return strings.TrimSpace(xff)
+	}
+	if xri := r.Header.Get("X-Real-IP"); xri != "" {
+		return strings.TrimSpace(xri)
+	}
+	host, _, err := net.SplitHostPort(r.RemoteAddr)
+	if err != nil {
+		return r.RemoteAddr
+	}
+	return host
+}
+
+func withRateLimit(rl *ipRateLimiter, next http.HandlerFunc) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		ip := clientIP(r)
+		if !rl.allow(ip) {
+			w.Header().Set("Retry-After", "1")
+			w.Header().Set("Content-Type", "application/json; charset=utf-8")
+			w.WriteHeader(http.StatusTooManyRequests)
+			_ = json.NewEncoder(w).Encode(map[string]string{
+				"status":  "rate_limited",
+				"message": fmt.Sprintf("Too many requests. Limit is %.0f requests per second per IP.", rateLimitRPS),
+			})
+			return
+		}
+		next(w, r)
+	}
+}
 
 // getenv returns the value of the environment variable key, or def when unset/empty.
 func getenv(key, def string) string {
@@ -57,6 +159,12 @@ func main() {
 	namesPath = getenv("NAMES_PATH", "../vocative.json")
 	posthogKey = os.Getenv("POSTHOG_KEY")
 	posthogHost = getenv("POSTHOG_HOST", "https://eu.i.posthog.com")
+	rateLimitRPS = 25
+	if v := os.Getenv("RATE_LIMIT_RPS"); v != "" {
+		if n, err := strconv.ParseFloat(v, 64); err == nil && n > 0 {
+			rateLimitRPS = n
+		}
+	}
 
 	var err error
 	db, err = bolt.Open(dbPath, 0600, &bolt.Options{Timeout: 2 * time.Second})
@@ -90,18 +198,20 @@ func main() {
 	// Start background request logger for batched writes
 	startRequestLogger()
 
+	limiter := newIPRateLimiter(rateLimitRPS, rateLimitRPS)
+
 	http.HandleFunc("/", handleHome)
-	http.HandleFunc("/api/usage", handleUsage)
-	http.HandleFunc("/api/requests", handleRequests)
-	http.HandleFunc("/api/all", handleAll)
-	http.HandleFunc("/api/", handleAPI)
+	http.HandleFunc("/api/usage", withRateLimit(limiter, handleUsage))
+	http.HandleFunc("/api/requests", withRateLimit(limiter, handleRequests))
+	http.HandleFunc("/api/all", withRateLimit(limiter, handleAll))
+	http.HandleFunc("/api/", withRateLimit(limiter, handleAPI))
 	// Serve static favicons from ./favicons at /favicons/
 	http.Handle("/favicons/", http.StripPrefix("/favicons/", http.FileServer(http.Dir("favicons"))))
 	http.Handle("/favicons_dark/", http.StripPrefix("/favicons_dark/", http.FileServer(http.Dir("favicons_dark"))))
 	http.Handle("/assets/", http.StripPrefix("/assets/", http.FileServer(http.Dir("assets"))))
 
 	addr := ":" + getenv("PORT", "3009")
-	log.Printf("listening on %s", addr)
+	log.Printf("listening on %s (rate limit %.0f req/s per IP)", addr, rateLimitRPS)
 	if err := http.ListenAndServe(addr, nil); err != nil {
 		log.Fatal(err)
 	}
@@ -299,7 +409,7 @@ async function drawRequests(){
     };
     box.innerHTML = '';
     if(!data || !data.length){ box.innerHTML = '<div class="muted" style="padding:8px 2px;font-size:14px">No requests in the last hour.</div>'; return; }
-    data.forEach((r)=>{
+    data.slice(0, 100).forEach((r)=>{
       const status = (r.status||r.Status||'');
       const good = /^Success$/i.test(status);
       const failed = /^failed$/i.test(status);
@@ -415,7 +525,7 @@ __ANALYTICS__
     <p class="lead">A fast, case-insensitive API that resolves Balkan given names to their <strong>sex</strong> and <strong>vocative</strong> form — in both Latin and Cyrillic. Free for commercial use.</p>
     <div class="pills">
       <span class="pill">No API key</span>
-      <span class="pill">No rate limit</span>
+      <span class="pill">25 req/s per IP</span>
       <span class="pill">Cyrillic &amp; Latin</span>
       <span class="pill">Open source</span>
     </div>
@@ -633,7 +743,7 @@ func handleUsage(w http.ResponseWriter, r *http.Request) {
 	_ = json.NewEncoder(w).Encode(series)
 }
 
-// handleRequests returns requests from the last 60 minutes (most recent first)
+// handleRequests returns up to 100 requests from the last 60 minutes (most recent first)
 func handleRequests(w http.ResponseWriter, r *http.Request) {
 	cutoff := time.Now().UTC().Add(-60 * time.Minute)
 	type entry struct {
@@ -650,6 +760,9 @@ func handleRequests(w http.ResponseWriter, r *http.Request) {
 		c := b.Cursor()
 		// Iterate descending from the end
 		for k, v := c.Last(); k != nil; k, v = c.Prev() {
+			if len(out) >= maxRecentRequests {
+				break
+			}
 			// key starts with RFC3339Nano timestamp
 			parts := strings.SplitN(string(k), "|", 2)
 			if len(parts) == 0 {
