@@ -1125,6 +1125,11 @@
     "vocative": "Vidane"
   },
   {
+    "name": "Vidana",
+    "sex": "female",
+    "vocative": "Vidana"
+  },
+  {
     "name": "Viden",
     "sex": "male",
     "vocative": "Videne"
@@ -1918,6 +1923,16 @@
     "name": "Gajin",
     "sex": "male",
     "vocative": "Gajine"
+  },
+  {
+    "name": "Gedeon",
+    "sex": "male",
+    "vocative": "Gedeone"
+  },
+  {
+    "name": "Gideon",
+    "sex": "male",
+    "vocative": "Gideone"
   },
   {
     "name": "Gvozden",
@@ -4950,6 +4965,11 @@
     "vocative": "Mašane"
   },
   {
+    "name": "Mašinka",
+    "sex": "female",
+    "vocative": "Mašinka"
+  },
+  {
     "name": "Maško",
     "sex": "male",
     "vocative": "Maško"
@@ -5985,6 +6005,16 @@
     "vocative": "Nikašine"
   },
   {
+    "name": "Nikita",
+    "sex": "male",
+    "vocative": "Nikita"
+  },
+  {
+    "name": "Nikita",
+    "sex": "female",
+    "vocative": "Nikita"
+  },
+  {
     "name": "Nikodim",
     "sex": "male",
     "vocative": "Nikodime"
@@ -6308,6 +6338,11 @@
     "name": "Ozren",
     "sex": "male",
     "vocative": "Ozrene"
+  },
+  {
+    "name": "Ozrislava",
+    "sex": "female",
+    "vocative": "Ozrislava"
   },
   {
     "name": "Ozriša",
@@ -7438,6 +7473,11 @@
     "name": "Sekule",
     "sex": "male",
     "vocative": "Sekule"
+  },
+  {
+    "name": "Skender",
+    "sex": "male",
+    "vocative": "Skendere"
   },
   {
     "name": "Selak",
