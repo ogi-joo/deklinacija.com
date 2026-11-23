@@ -5096,7 +5096,7 @@
   },
   {
     "name": "Milija",
-    "sex": "male",
+    "sex": "both",
     "vocative": "Milija"
   },
   {
@@ -5658,11 +5658,6 @@
     "name": "Milenija",
     "sex": "female",
     "vocative": "Milenija"
-  },
-  {
-    "name": "Milija",
-    "sex": "female",
-    "vocative": "Milija"
   },
   {
     "name": "Milka",
